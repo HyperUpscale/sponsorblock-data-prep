@@ -1,0 +1,427 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.220 --> 00:00:01.610
+- If you're new to building computers,
+
+00:00:01.610 --> 00:00:03.280
+one of the first little pieces of trivia
+
+00:00:03.280 --> 00:00:06.450
+you'll probably come
+across is that AMD CPUs
+
+00:00:06.450 --> 00:00:10.320
+use pins on the bottom, while
+Intel ones use little contact
+
+00:00:10.320 --> 00:00:13.340
+pads with the pins on the
+motherboard socket instead.
+
+00:00:13.340 --> 00:00:15.260
+But why were these choices made?
+
+00:00:15.260 --> 00:00:18.980
+Do the engineers at AMD just
+think that pins are prettier?
+
+00:00:18.980 --> 00:00:21.650
+Well, it turns out that
+the use of pins versus pads
+
+00:00:21.650 --> 00:00:23.990
+is a very deliberate design choice.
+
+00:00:23.990 --> 00:00:26.870
+You see Intel's approach of
+having pins on the motherboard
+
+00:00:26.870 --> 00:00:30.000
+instead of the chip, called
+a Land Grid Array or LGA,
+
+00:00:30.000 --> 00:00:33.110
+typically makes it easier
+to fit more contacts
+
+00:00:33.110 --> 00:00:35.480
+into a smaller space on the CPU.
+
+00:00:35.480 --> 00:00:37.660
+Modern CPUs need a lot of contacts
+
+00:00:37.660 --> 00:00:40.530
+for their high speed
+features and to promote
+
+00:00:40.530 --> 00:00:43.020
+stable power delivery by
+spreading out the current.
+
+00:00:43.020 --> 00:00:46.100
+The other thought is
+that because tiny pins
+
+00:00:46.100 --> 00:00:49.780
+are very fragile, you know,
+'cause they're super thin,
+
+00:00:49.780 --> 00:00:52.670
+well, it would be better to
+place those on the motherboard
+
+00:00:52.670 --> 00:00:56.460
+rather than the CPU because
+it's not uncommon to see
+
+00:00:56.460 --> 00:01:00.800
+a $400 CPU installed
+on a $150 motherboard.
+
+00:01:00.800 --> 00:01:03.260
+So if one of those things was gonna break,
+
+00:01:03.260 --> 00:01:05.190
+you'd rather it be the cheaper one right?
+
+00:01:05.190 --> 00:01:08.290
+Then you can reuse that
+CPU on a new motherboard.
+
+00:01:08.290 --> 00:01:11.150
+Now of course, you can still
+mess up an LGA processor
+
+00:01:11.150 --> 00:01:13.240
+by touching the gold
+contacts on the bottom
+
+00:01:13.240 --> 00:01:15.320
+with your oily little fingers.
+
+00:01:15.320 --> 00:01:18.750
+But overall, they are harder
+to damage than pin grid array
+
+00:01:18.750 --> 00:01:21.260
+or PGA chips, which are designed
+
+00:01:21.260 --> 00:01:22.580
+to help improve your golf game.
+
+00:01:22.580 --> 00:01:23.640
+No, sorry, just kidding.
+
+00:01:23.640 --> 00:01:27.090
+PGA chips the ones favored
+by AMD are the ones with pins
+
+00:01:27.090 --> 00:01:30.440
+on their undersides and
+compatible motherboards for those
+
+00:01:30.440 --> 00:01:33.390
+have corresponding holes on their sockets.
+
+00:01:33.390 --> 00:01:35.760
+Now, immediately, you
+can probably figure out
+
+00:01:35.760 --> 00:01:39.210
+that this makes PGA chips a
+little bit easier to damage.
+
+00:01:39.210 --> 00:01:42.360
+However, there are some
+upsides to using this design
+
+00:01:42.360 --> 00:01:43.920
+over a Land Grid Array,.
+
+00:01:43.920 --> 00:01:47.560
+For one, the pins on PGA
+chips are a little tougher
+
+00:01:47.560 --> 00:01:50.730
+than the motherboard pins that
+you'd see in an LGA socket,
+
+00:01:50.730 --> 00:01:53.600
+meaning that they are easier
+to repair in the event
+
+00:01:53.600 --> 00:01:55.450
+that they do get bent which I'm sure
+
+00:01:55.450 --> 00:01:57.670
+you can sympathize with
+if you have ever had
+
+00:01:57.670 --> 00:01:59.520
+the misfortune of having to re bend
+
+00:01:59.520 --> 00:02:03.550
+even just one damaged pin
+on an LGA motherboard.
+
+00:02:03.550 --> 00:02:06.330
+The superior durability
+of PGA pins means that
+
+00:02:06.330 --> 00:02:08.630
+they can typically handle
+a little more current
+
+00:02:08.630 --> 00:02:11.580
+than LGA packages too,
+which can be important
+
+00:02:11.580 --> 00:02:14.300
+depending on how the
+chip itself is designed.
+
+00:02:14.300 --> 00:02:16.430
+And for another advantage
+that you can more
+
+00:02:16.430 --> 00:02:18.550
+readily experience firsthand when building
+
+00:02:18.550 --> 00:02:21.610
+or upgrading your own
+PC, PGA chips tend to be
+
+00:02:21.610 --> 00:02:24.230
+a bit easier to install,
+since there are no
+
+00:02:24.230 --> 00:02:26.950
+super delicate motherboard
+pins to worry about.
+
+00:02:26.950 --> 00:02:28.790
+Though of course, you do
+have to make sure that
+
+00:02:28.790 --> 00:02:31.620
+you hit every hole in the socket properly.
+
+00:02:31.620 --> 00:02:35.230
+These advantages have
+led AMD to keep using PGA
+
+00:02:35.230 --> 00:02:39.030
+for its consumer level
+chips, even long after Intel
+
+00:02:39.030 --> 00:02:43.120
+abandoned pins on their
+desktop chips way back in 2004.
+
+00:02:43.120 --> 00:02:46.380
+And even though current
+3rd Gen rising processors
+
+00:02:46.380 --> 00:02:48.670
+actually have more contacts on the bottom
+
+00:02:48.670 --> 00:02:52.100
+than their Intel rivals,
+AMD still found a way to fit
+
+00:02:52.100 --> 00:02:54.300
+all those pins onto one package,
+
+00:02:54.300 --> 00:02:56.260
+partly because the processors themselves
+
+00:02:56.260 --> 00:02:57.730
+are physically larger.
+
+00:02:57.730 --> 00:03:00.520
+Now as you might have figured
+out LGA does allow you
+
+00:03:00.520 --> 00:03:03.070
+to cram more contacts per unit of area.
+
+00:03:03.070 --> 00:03:06.950
+So there actually are
+AMD chips that do use it.
+
+00:03:06.950 --> 00:03:09.740
+There are Threadripper lineup
+for high end desktop PCs
+
+00:03:09.740 --> 00:03:13.390
+and their epic lineup for
+servers are both based on
+
+00:03:13.390 --> 00:03:17.620
+land grid array designs
+with over 4000 pins.
+
+00:03:17.620 --> 00:03:20.640
+So if you're lucky enough to
+be using one of those monsters,
+
+00:03:20.640 --> 00:03:22.110
+definitely don't bend
+
+00:03:22.110 --> 00:03:24.640
+any of those delicate
+motherboard contacts.
+
+00:03:24.640 --> 00:03:27.280
+As far as what all this means
+for you the consumer though,
+
+00:03:27.280 --> 00:03:30.440
+Well, nothing because you
+shouldn't be choosing a CPU
+
+00:03:30.440 --> 00:03:33.510
+based on whether it's PGA or LGA,
+
+00:03:33.510 --> 00:03:36.090
+it doesn't really affect
+performance in the way
+
+00:03:36.090 --> 00:03:39.100
+that the architectural
+design or the clock speeds
+
+00:03:39.100 --> 00:03:40.880
+or the core counts that the chips do.
+
+00:03:40.880 --> 00:03:43.730
+And the reason that Intel and
+AMD went their separate ways
+
+00:03:43.730 --> 00:03:46.280
+is just because they
+valued different aspects
+
+00:03:46.280 --> 00:03:48.120
+of these designs since each one
+
+00:03:48.120 --> 00:03:50.070
+does have their pros and cons.
+
+00:03:50.070 --> 00:03:52.400
+It's just important to
+be aware of the pitfalls
+
+00:03:52.400 --> 00:03:54.340
+whenever you're installing either of them
+
+00:03:54.340 --> 00:03:56.680
+so you don't mess up
+the bottom of your chip
+
+00:03:56.680 --> 00:04:00.310
+unless you want very expensive coaster for
+
+00:04:01.720 --> 00:04:04.770
+well your shot glass, wouldn't
+be a very big coaster.
+
+00:04:04.770 --> 00:04:07.570
+But this would be a big
+segue to our sponsor.
+
+00:04:07.570 --> 00:04:09.950
+What's in your online security toolkit?
+
+00:04:09.950 --> 00:04:14.140
+Adding a VPN lets you mask
+your IP and encrypt traffic
+
+00:04:14.140 --> 00:04:17.150
+to and from your devices
+and Private Internet Access
+
+00:04:17.150 --> 00:04:20.270
+is a pretty great choice
+for a reliable VPN
+
+00:04:20.270 --> 00:04:23.860
+with over 3300 servers in 30 countries.
+
+00:04:23.860 --> 00:04:26.270
+There are no bandwidth caps and PIA offers
+
+00:04:26.270 --> 00:04:29.170
+configurable encryption
+and an internet kill switch
+
+00:04:29.170 --> 00:04:31.490
+to keep you in control of your connection.
+
+00:04:31.490 --> 00:04:34.430
+PIA combined with private
+browsing can make websites
+
+00:04:34.430 --> 00:04:35.750
+think you're in a different country,
+
+00:04:35.750 --> 00:04:37.210
+which can be useful for things like
+
+00:04:37.210 --> 00:04:39.350
+getting better deals on flights,
+
+00:04:39.350 --> 00:04:41.730
+at least once this whole
+COVID thing has passed.
+
+00:04:41.730 --> 00:04:44.150
+You can connect up to five
+devices at once with clients
+
+00:04:44.150 --> 00:04:46.930
+from multiple operating
+systems and their MACE feature
+
+00:04:46.930 --> 00:04:48.690
+blocks requests to known malware
+
+00:04:48.690 --> 00:04:51.530
+and tracking domains
+altogether, pretty sweet.
+
+00:04:51.530 --> 00:04:53.850
+So check it out with a 30
+day money back guarantee
+
+00:04:53.850 --> 00:04:56.720
+at lmg.gg/piatechquickie,
+
+00:04:56.720 --> 00:04:58.420
+we're gonna have that linked below.
+
+00:04:58.420 --> 00:05:00.230
+Also down below is,
+
+00:05:00.230 --> 00:05:02.980
+Ah, what else are we gonna have below?
+
+00:05:02.980 --> 00:05:05.480
+Your comments which we will read and see
+
+00:05:05.480 --> 00:05:07.160
+if you have video ideas for us
+
+00:05:07.160 --> 00:05:09.010
+and then we will make those videos.
+
+00:05:09.010 --> 00:05:11.290
+That's how this symbiotic
+relationship works.
+
+00:05:11.290 --> 00:05:14.223
+You want videos, we make
+videos, everybody wins.
+

@@ -1,0 +1,2024 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.569 --> 00:00:02.820 align:start position:0%
+ 
+Engineering<00:00:01.569><c> nearly</c><00:00:01.990><c> always</c><00:00:02.440><c> involves</c>
+
+00:00:02.820 --> 00:00:02.830 align:start position:0%
+Engineering nearly always involves
+ 
+
+00:00:02.830 --> 00:00:04.980 align:start position:0%
+Engineering nearly always involves
+assumptions<00:00:03.429><c> and</c><00:00:03.639><c> simplifications</c><00:00:04.509><c> there</c>
+
+00:00:04.980 --> 00:00:04.990 align:start position:0%
+assumptions and simplifications there
+ 
+
+00:00:04.990 --> 00:00:06.660 align:start position:0%
+assumptions and simplifications there
+are<00:00:05.049><c> just</c><00:00:05.200><c> too</c><00:00:05.440><c> many</c><00:00:05.470><c> variables</c><00:00:05.890><c> in</c><00:00:06.430><c> the</c><00:00:06.520><c> real</c>
+
+00:00:06.660 --> 00:00:06.670 align:start position:0%
+are just too many variables in the real
+ 
+
+00:00:06.670 --> 00:00:08.520 align:start position:0%
+are just too many variables in the real
+world<00:00:06.940><c> to</c><00:00:07.180><c> keep</c><00:00:07.359><c> track</c><00:00:07.690><c> of</c><00:00:07.720><c> them</c><00:00:07.930><c> all</c><00:00:08.049><c> so</c><00:00:08.440><c> we</c>
+
+00:00:08.520 --> 00:00:08.530 align:start position:0%
+world to keep track of them all so we
+ 
+
+00:00:08.530 --> 00:00:10.709 align:start position:0%
+world to keep track of them all so we
+simplify<00:00:09.040><c> we</c><00:00:09.639><c> neglect</c><00:00:10.059><c> the</c><00:00:10.210><c> variables</c><00:00:10.660><c> that</c>
+
+00:00:10.709 --> 00:00:10.719 align:start position:0%
+simplify we neglect the variables that
+ 
+
+00:00:10.719 --> 00:00:12.209 align:start position:0%
+simplify we neglect the variables that
+don't<00:00:10.990><c> matter</c><00:00:11.200><c> and</c><00:00:11.500><c> we</c><00:00:11.650><c> make</c><00:00:11.830><c> assumptions</c>
+
+00:00:12.209 --> 00:00:12.219 align:start position:0%
+don't matter and we make assumptions
+ 
+
+00:00:12.219 --> 00:00:14.249 align:start position:0%
+don't matter and we make assumptions
+about<00:00:12.580><c> the</c><00:00:12.849><c> variables</c><00:00:13.360><c> we</c><00:00:13.540><c> can't</c><00:00:13.809><c> measure</c><00:00:14.019><c> or</c>
+
+00:00:14.249 --> 00:00:14.259 align:start position:0%
+about the variables we can't measure or
+ 
+
+00:00:14.259 --> 00:00:16.620 align:start position:0%
+about the variables we can't measure or
+predict<00:00:14.710><c> but</c><00:00:15.580><c> what</c><00:00:15.759><c> happens</c><00:00:16.119><c> when</c><00:00:16.299><c> one</c><00:00:16.539><c> of</c>
+
+00:00:16.620 --> 00:00:16.630 align:start position:0%
+predict but what happens when one of
+ 
+
+00:00:16.630 --> 00:00:18.779 align:start position:0%
+predict but what happens when one of
+those<00:00:16.750><c> assumptions</c><00:00:17.289><c> is</c><00:00:17.440><c> wrong</c><00:00:17.710><c> one</c><00:00:18.580><c> of</c><00:00:18.699><c> the</c>
+
+00:00:18.779 --> 00:00:18.789 align:start position:0%
+those assumptions is wrong one of the
+ 
+
+00:00:18.789 --> 00:00:20.849 align:start position:0%
+those assumptions is wrong one of the
+most<00:00:18.970><c> basic</c><00:00:19.180><c> assumptions</c><00:00:19.750><c> made</c><00:00:20.140><c> by</c><00:00:20.170><c> engineers</c>
+
+00:00:20.849 --> 00:00:20.859 align:start position:0%
+most basic assumptions made by engineers
+ 
+
+00:00:20.859 --> 00:00:23.009 align:start position:0%
+most basic assumptions made by engineers
+who<00:00:21.070><c> design</c><00:00:21.400><c> pipelines</c><00:00:21.970><c> is</c><00:00:22.240><c> that</c><00:00:22.810><c> those</c>
+
+00:00:23.009 --> 00:00:23.019 align:start position:0%
+who design pipelines is that those
+ 
+
+00:00:23.019 --> 00:00:24.810 align:start position:0%
+who design pipelines is that those
+pipelines<00:00:23.500><c> only</c><00:00:23.949><c> carry</c><00:00:24.220><c> the</c><00:00:24.279><c> fluid</c><00:00:24.670><c> that's</c>
+
+00:00:24.810 --> 00:00:24.820 align:start position:0%
+pipelines only carry the fluid that's
+ 
+
+00:00:24.820 --> 00:00:27.120 align:start position:0%
+pipelines only carry the fluid that's
+intended<00:00:25.269><c> but</c><00:00:25.779><c> that's</c><00:00:26.019><c> not</c><00:00:26.289><c> always</c><00:00:26.439><c> the</c><00:00:26.560><c> case</c>
+
+00:00:27.120 --> 00:00:27.130 align:start position:0%
+intended but that's not always the case
+ 
+
+00:00:27.130 --> 00:00:29.400 align:start position:0%
+intended but that's not always the case
+hey<00:00:27.670><c> I'm</c><00:00:27.760><c> Grady</c><00:00:28.029><c> and</c><00:00:28.269><c> this</c><00:00:28.599><c> is</c><00:00:28.840><c> practical</c>
+
+00:00:29.400 --> 00:00:29.410 align:start position:0%
+hey I'm Grady and this is practical
+ 
+
+00:00:29.410 --> 00:00:31.200 align:start position:0%
+hey I'm Grady and this is practical
+engineering<00:00:29.560><c> on</c><00:00:30.070><c> today's</c><00:00:30.609><c> episode</c><00:00:31.029><c> we're</c>
+
+00:00:31.200 --> 00:00:31.210 align:start position:0%
+engineering on today's episode we're
+ 
+
+00:00:31.210 --> 00:00:37.240 align:start position:0%
+engineering on today's episode we're
+talking<00:00:31.510><c> about</c><00:00:31.599><c> airlock</c><00:00:32.349><c> in</c><00:00:32.649><c> pipe</c><00:00:33.010><c> systems</c>
+
+00:00:37.240 --> 00:00:37.250 align:start position:0%
+ 
+ 
+
+00:00:37.250 --> 00:00:41.709 align:start position:0%
+ 
+[Music]
+
+00:00:41.709 --> 00:00:41.719 align:start position:0%
+[Music]
+ 
+
+00:00:41.719 --> 00:00:44.240 align:start position:0%
+[Music]
+this<00:00:42.719><c> video</c><00:00:43.019><c> sponsored</c><00:00:43.469><c> by</c><00:00:43.589><c> hellofresh</c>
+
+00:00:44.240 --> 00:00:44.250 align:start position:0%
+this video sponsored by hellofresh
+ 
+
+00:00:44.250 --> 00:00:46.459 align:start position:0%
+this video sponsored by hellofresh
+America's<00:00:44.789><c> number</c><00:00:45.149><c> one</c><00:00:45.300><c> meal</c><00:00:45.510><c> kit</c><00:00:45.780><c> is</c><00:00:46.079><c> it</c><00:00:46.289><c> hell</c>
+
+00:00:46.459 --> 00:00:46.469 align:start position:0%
+America's number one meal kit is it hell
+ 
+
+00:00:46.469 --> 00:00:48.590 align:start position:0%
+America's number one meal kit is it hell
+of<00:00:46.589><c> fresh</c><00:00:46.829><c> calm</c><00:00:47.280><c> a</c><00:00:47.309><c> use</c><00:00:47.609><c> code</c><00:00:47.820><c> practical</c><00:00:48.390><c> 10</c>
+
+00:00:48.590 --> 00:00:48.600 align:start position:0%
+of fresh calm a use code practical 10
+ 
+
+00:00:48.600 --> 00:00:52.670 align:start position:0%
+of fresh calm a use code practical 10
+for<00:00:48.870><c> 10</c><00:00:49.140><c> free</c><00:00:49.409><c> meals</c><00:00:49.710><c> more</c><00:00:50.280><c> on</c><00:00:50.399><c> that</c><00:00:50.550><c> leader</c>
+
+00:00:52.670 --> 00:00:52.680 align:start position:0%
+for 10 free meals more on that leader
+ 
+
+00:00:52.680 --> 00:00:57.369 align:start position:0%
+for 10 free meals more on that leader
+[Music]
+
+00:00:57.369 --> 00:00:57.379 align:start position:0%
+[Music]
+ 
+
+00:00:57.379 --> 00:01:00.619 align:start position:0%
+[Music]
+put<00:00:58.379><c> simply</c><00:00:58.710><c> airlock</c><00:00:59.549><c> is</c><00:00:59.789><c> a</c><00:00:59.820><c> constriction</c><00:01:00.539><c> and</c>
+
+00:01:00.619 --> 00:01:00.629 align:start position:0%
+put simply airlock is a constriction and
+ 
+
+00:01:00.629 --> 00:01:02.779 align:start position:0%
+put simply airlock is a constriction and
+flow<00:01:00.899><c> that</c><00:01:01.229><c> happens</c><00:01:01.710><c> when</c><00:01:01.890><c> gas</c><00:01:02.159><c> gets</c><00:01:02.460><c> trapped</c>
+
+00:01:02.779 --> 00:01:02.789 align:start position:0%
+flow that happens when gas gets trapped
+ 
+
+00:01:02.789 --> 00:01:05.270 align:start position:0%
+flow that happens when gas gets trapped
+inside<00:01:03.000><c> a</c><00:01:03.210><c> pipe</c><00:01:03.510><c> that's</c><00:01:04.199><c> the</c><00:01:04.589><c> answer</c><00:01:04.920><c> to</c><00:01:05.159><c> the</c>
+
+00:01:05.270 --> 00:01:05.280 align:start position:0%
+inside a pipe that's the answer to the
+ 
+
+00:01:05.280 --> 00:01:06.980 align:start position:0%
+inside a pipe that's the answer to the
+title<00:01:05.610><c> of</c><00:01:05.700><c> this</c><00:01:05.789><c> video</c><00:01:06.149><c> but</c><00:01:06.360><c> it's</c><00:01:06.659><c> not</c><00:01:06.810><c> very</c>
+
+00:01:06.980 --> 00:01:06.990 align:start position:0%
+title of this video but it's not very
+ 
+
+00:01:06.990 --> 00:01:09.499 align:start position:0%
+title of this video but it's not very
+satisfying<00:01:07.560><c> on</c><00:01:07.740><c> its</c><00:01:07.920><c> own</c><00:01:08.070><c> in</c><00:01:08.430><c> fact</c><00:01:08.909><c> if</c><00:01:09.210><c> you're</c>
+
+00:01:09.499 --> 00:01:09.509 align:start position:0%
+satisfying on its own in fact if you're
+ 
+
+00:01:09.509 --> 00:01:11.719 align:start position:0%
+satisfying on its own in fact if you're
+as<00:01:09.600><c> curious</c><00:01:09.869><c> as</c><00:01:10.110><c> I</c><00:01:10.289><c> am</c><00:01:10.500><c> it</c><00:01:10.770><c> just</c><00:01:11.159><c> leads</c><00:01:11.340><c> to</c><00:01:11.580><c> more</c>
+
+00:01:11.719 --> 00:01:11.729 align:start position:0%
+as curious as I am it just leads to more
+ 
+
+00:01:11.729 --> 00:01:14.330 align:start position:0%
+as curious as I am it just leads to more
+questions<00:01:12.380><c> the</c><00:01:13.380><c> first</c><00:01:13.649><c> three</c><00:01:13.920><c> that</c><00:01:14.069><c> come</c><00:01:14.220><c> to</c>
+
+00:01:14.330 --> 00:01:14.340 align:start position:0%
+questions the first three that come to
+ 
+
+00:01:14.340 --> 00:01:16.550 align:start position:0%
+questions the first three that come to
+mind<00:01:14.580><c> are</c><00:01:14.789><c> where</c><00:01:15.720><c> does</c><00:01:15.899><c> the</c><00:01:16.020><c> gas</c><00:01:16.170><c> come</c><00:01:16.530><c> from</c>
+
+00:01:16.550 --> 00:01:16.560 align:start position:0%
+mind are where does the gas come from
+ 
+
+00:01:16.560 --> 00:01:19.520 align:start position:0%
+mind are where does the gas come from
+how<00:01:17.310><c> does</c><00:01:17.490><c> it</c><00:01:17.610><c> get</c><00:01:17.729><c> trapped</c><00:01:18.060><c> and</c><00:01:18.360><c> why</c><00:01:19.200><c> should</c><00:01:19.440><c> I</c>
+
+00:01:19.520 --> 00:01:19.530 align:start position:0%
+how does it get trapped and why should I
+ 
+
+00:01:19.530 --> 00:01:22.219 align:start position:0%
+how does it get trapped and why should I
+care<00:01:19.850><c> we</c><00:01:20.850><c> don't</c><00:01:21.090><c> normally</c><00:01:21.270><c> get</c><00:01:21.600><c> to</c><00:01:21.659><c> see</c><00:01:21.899><c> inside</c>
+
+00:01:22.219 --> 00:01:22.229 align:start position:0%
+care we don't normally get to see inside
+ 
+
+00:01:22.229 --> 00:01:24.859 align:start position:0%
+care we don't normally get to see inside
+pipelines<00:01:22.799><c> and</c><00:01:23.039><c> observe</c><00:01:23.340><c> how</c><00:01:23.580><c> they</c><00:01:23.729><c> work</c><00:01:23.909><c> so</c><00:01:24.509><c> I</c>
+
+00:01:24.859 --> 00:01:24.869 align:start position:0%
+pipelines and observe how they work so I
+ 
+
+00:01:24.869 --> 00:01:26.330 align:start position:0%
+pipelines and observe how they work so I
+built<00:01:25.140><c> a</c><00:01:25.229><c> little</c><00:01:25.259><c> model</c><00:01:25.530><c> here</c><00:01:25.979><c> in</c><00:01:26.039><c> my</c><00:01:26.159><c> garage</c>
+
+00:01:26.330 --> 00:01:26.340 align:start position:0%
+built a little model here in my garage
+ 
+
+00:01:26.340 --> 00:01:28.940 align:start position:0%
+built a little model here in my garage
+we<00:01:26.759><c> can</c><00:01:26.940><c> use</c><00:01:27.179><c> to</c><00:01:27.420><c> talk</c><00:01:27.600><c> about</c><00:01:27.630><c> air</c><00:01:28.110><c> lock</c><00:01:28.319><c> how</c><00:01:28.799><c> it</c>
+
+00:01:28.940 --> 00:01:28.950 align:start position:0%
+we can use to talk about air lock how it
+ 
+
+00:01:28.950 --> 00:01:31.789 align:start position:0%
+we can use to talk about air lock how it
+happens<00:01:29.340><c> and</c><00:01:29.549><c> why</c><00:01:29.970><c> it</c><00:01:30.030><c> matters</c><00:01:30.590><c> the</c><00:01:31.590><c> first</c>
+
+00:01:31.789 --> 00:01:31.799 align:start position:0%
+happens and why it matters the first
+ 
+
+00:01:31.799 --> 00:01:33.710 align:start position:0%
+happens and why it matters the first
+question<00:01:32.190><c> is</c><00:01:32.369><c> where</c><00:01:32.880><c> does</c><00:01:33.030><c> the</c><00:01:33.179><c> gas</c><00:01:33.360><c> come</c><00:01:33.690><c> from</c>
+
+00:01:33.710 --> 00:01:33.720 align:start position:0%
+question is where does the gas come from
+ 
+
+00:01:33.720 --> 00:01:35.240 align:start position:0%
+question is where does the gas come from
+it<00:01:34.289><c> might</c><00:01:34.530><c> surprise</c><00:01:34.709><c> you</c><00:01:34.830><c> to</c><00:01:35.039><c> learn</c><00:01:35.069><c> that</c>
+
+00:01:35.240 --> 00:01:35.250 align:start position:0%
+it might surprise you to learn that
+ 
+
+00:01:35.250 --> 00:01:37.669 align:start position:0%
+it might surprise you to learn that
+getting<00:01:35.880><c> gases</c><00:01:36.390><c> like</c><00:01:36.659><c> air</c><00:01:36.959><c> in</c><00:01:37.140><c> liquid</c>
+
+00:01:37.669 --> 00:01:37.679 align:start position:0%
+getting gases like air in liquid
+ 
+
+00:01:37.679 --> 00:01:39.580 align:start position:0%
+getting gases like air in liquid
+pipelines<00:01:37.920><c> is</c><00:01:38.490><c> somewhat</c><00:01:39.030><c> inevitable</c>
+
+00:01:39.580 --> 00:01:39.590 align:start position:0%
+pipelines is somewhat inevitable
+ 
+
+00:01:39.590 --> 00:01:41.809 align:start position:0%
+pipelines is somewhat inevitable
+sometimes<00:01:40.590><c> they</c><00:01:40.740><c> sneak</c><00:01:41.100><c> in</c><00:01:41.310><c> by</c><00:01:41.520><c> being</c>
+
+00:01:41.809 --> 00:01:41.819 align:start position:0%
+sometimes they sneak in by being
+ 
+
+00:01:41.819 --> 00:01:44.059 align:start position:0%
+sometimes they sneak in by being
+dissolved<00:01:42.360><c> into</c><00:01:42.569><c> the</c><00:01:42.929><c> liquid</c><00:01:43.110><c> like</c><00:01:43.500><c> carbon</c>
+
+00:01:44.059 --> 00:01:44.069 align:start position:0%
+dissolved into the liquid like carbon
+ 
+
+00:01:44.069 --> 00:01:46.580 align:start position:0%
+dissolved into the liquid like carbon
+dioxide<00:01:44.100><c> is</c><00:01:44.759><c> dissolved</c><00:01:44.789><c> in</c><00:01:45.329><c> a</c><00:01:45.450><c> coke</c><00:01:45.689><c> most</c>
+
+00:01:46.580 --> 00:01:46.590 align:start position:0%
+dioxide is dissolved in a coke most
+ 
+
+00:01:46.590 --> 00:01:48.289 align:start position:0%
+dioxide is dissolved in a coke most
+liquids<00:01:47.009><c> have</c><00:01:47.189><c> at</c><00:01:47.369><c> least</c><00:01:47.490><c> some</c><00:01:47.850><c> dissolved</c>
+
+00:01:48.289 --> 00:01:48.299 align:start position:0%
+liquids have at least some dissolved
+ 
+
+00:01:48.299 --> 00:01:50.539 align:start position:0%
+liquids have at least some dissolved
+gases<00:01:48.719><c> even</c><00:01:49.409><c> the</c><00:01:49.680><c> water</c><00:01:49.829><c> coming</c><00:01:50.100><c> out</c><00:01:50.280><c> of</c><00:01:50.460><c> the</c>
+
+00:01:50.539 --> 00:01:50.549 align:start position:0%
+gases even the water coming out of the
+ 
+
+00:01:50.549 --> 00:01:52.249 align:start position:0%
+gases even the water coming out of the
+tap<00:01:50.789><c> often</c><00:01:51.210><c> has</c><00:01:51.359><c> a</c><00:01:51.390><c> certain</c><00:01:51.960><c> amount</c><00:01:52.020><c> of</c>
+
+00:01:52.249 --> 00:01:52.259 align:start position:0%
+tap often has a certain amount of
+ 
+
+00:01:52.259 --> 00:01:55.190 align:start position:0%
+tap often has a certain amount of
+dissolved<00:01:52.560><c> air</c><00:01:53.060><c> this</c><00:01:54.060><c> gas</c><00:01:54.420><c> can</c><00:01:54.719><c> come</c><00:01:54.930><c> out</c><00:01:55.079><c> of</c>
+
+00:01:55.190 --> 00:01:55.200 align:start position:0%
+dissolved air this gas can come out of
+ 
+
+00:01:55.200 --> 00:01:57.050 align:start position:0%
+dissolved air this gas can come out of
+solution<00:01:55.530><c> when</c><00:01:55.890><c> the</c><00:01:55.920><c> fluid</c><00:01:56.219><c> is</c><00:01:56.369><c> warmed</c><00:01:56.909><c> or</c>
+
+00:01:57.050 --> 00:01:57.060 align:start position:0%
+solution when the fluid is warmed or
+ 
+
+00:01:57.060 --> 00:01:58.880 align:start position:0%
+solution when the fluid is warmed or
+agitated<00:01:57.869><c> or</c><00:01:57.990><c> if</c><00:01:58.320><c> it</c><00:01:58.439><c> goes</c><00:01:58.590><c> through</c><00:01:58.859><c> a</c>
+
+00:01:58.880 --> 00:01:58.890 align:start position:0%
+agitated or if it goes through a
+ 
+
+00:01:58.890 --> 00:02:01.639 align:start position:0%
+agitated or if it goes through a
+chemical<00:01:59.100><c> reaction</c><00:02:00.109><c> another</c><00:02:01.109><c> potential</c>
+
+00:02:01.639 --> 00:02:01.649 align:start position:0%
+chemical reaction another potential
+ 
+
+00:02:01.649 --> 00:02:03.469 align:start position:0%
+chemical reaction another potential
+source<00:02:01.829><c> of</c><00:02:02.039><c> gases</c><00:02:02.429><c> in</c><00:02:02.549><c> liquid</c><00:02:02.880><c> is</c><00:02:03.000><c> leaks</c>
+
+00:02:03.469 --> 00:02:03.479 align:start position:0%
+source of gases in liquid is leaks
+ 
+
+00:02:03.479 --> 00:02:05.810 align:start position:0%
+source of gases in liquid is leaks
+through<00:02:03.990><c> damaged</c><00:02:04.530><c> areas</c><00:02:04.920><c> or</c><00:02:05.130><c> loose</c><00:02:05.460><c> fitting</c>
+
+00:02:05.810 --> 00:02:05.820 align:start position:0%
+through damaged areas or loose fitting
+ 
+
+00:02:05.820 --> 00:02:08.300 align:start position:0%
+through damaged areas or loose fitting
+joints<00:02:06.210><c> if</c><00:02:06.840><c> these</c><00:02:07.140><c> occur</c><00:02:07.500><c> in</c><00:02:07.740><c> an</c><00:02:07.920><c> area</c><00:02:08.160><c> of</c><00:02:08.220><c> the</c>
+
+00:02:08.300 --> 00:02:08.310 align:start position:0%
+joints if these occur in an area of the
+ 
+
+00:02:08.310 --> 00:02:09.979 align:start position:0%
+joints if these occur in an area of the
+pipe<00:02:08.519><c> with</c><00:02:08.729><c> a</c><00:02:08.759><c> pressure</c><00:02:09.119><c> below</c><00:02:09.600><c> the</c><00:02:09.630><c> ambient</c>
+
+00:02:09.979 --> 00:02:09.989 align:start position:0%
+pipe with a pressure below the ambient
+ 
+
+00:02:09.989 --> 00:02:12.530 align:start position:0%
+pipe with a pressure below the ambient
+air<00:02:10.440><c> pressure</c><00:02:10.619><c> air</c><00:02:11.340><c> can</c><00:02:11.609><c> leak</c><00:02:11.640><c> from</c><00:02:12.090><c> outside</c>
+
+00:02:12.530 --> 00:02:12.540 align:start position:0%
+air pressure air can leak from outside
+ 
+
+00:02:12.540 --> 00:02:15.050 align:start position:0%
+air pressure air can leak from outside
+the<00:02:12.660><c> pipe</c><00:02:12.840><c> into</c><00:02:13.140><c> the</c><00:02:13.380><c> line</c><00:02:13.680><c> but</c><00:02:14.670><c> I</c><00:02:14.700><c> haven't</c>
+
+00:02:15.050 --> 00:02:15.060 align:start position:0%
+the pipe into the line but I haven't
+ 
+
+00:02:15.060 --> 00:02:16.720 align:start position:0%
+the pipe into the line but I haven't
+mentioned<00:02:15.209><c> the</c><00:02:15.450><c> most</c><00:02:15.600><c> obvious</c><00:02:16.079><c> source</c><00:02:16.320><c> of</c><00:02:16.470><c> air</c>
+
+00:02:16.720 --> 00:02:16.730 align:start position:0%
+mentioned the most obvious source of air
+ 
+
+00:02:16.730 --> 00:02:19.220 align:start position:0%
+mentioned the most obvious source of air
+after<00:02:17.730><c> all</c><00:02:18.090><c> when</c><00:02:18.269><c> you</c><00:02:18.390><c> buy</c><00:02:18.510><c> a</c><00:02:18.540><c> pipe</c><00:02:18.870><c> from</c><00:02:19.109><c> a</c>
+
+00:02:19.220 --> 00:02:19.230 align:start position:0%
+after all when you buy a pipe from a
+ 
+
+00:02:19.230 --> 00:02:21.349 align:start position:0%
+after all when you buy a pipe from a
+manufacturer<00:02:19.920><c> it</c><00:02:20.190><c> doesn't</c><00:02:20.579><c> come</c><00:02:20.730><c> pre</c><00:02:21.060><c> filled</c>
+
+00:02:21.349 --> 00:02:21.359 align:start position:0%
+manufacturer it doesn't come pre filled
+ 
+
+00:02:21.359 --> 00:02:22.039 align:start position:0%
+manufacturer it doesn't come pre filled
+with<00:02:21.600><c> liquid</c>
+
+00:02:22.039 --> 00:02:22.049 align:start position:0%
+with liquid
+ 
+
+00:02:22.049 --> 00:02:24.620 align:start position:0%
+with liquid
+it<00:02:22.530><c> starts</c><00:02:22.920><c> out</c><00:02:23.040><c> empty</c><00:02:23.220><c> or</c><00:02:23.760><c> more</c><00:02:24.209><c> accurately</c>
+
+00:02:24.620 --> 00:02:24.630 align:start position:0%
+it starts out empty or more accurately
+ 
+
+00:02:24.630 --> 00:02:27.710 align:start position:0%
+it starts out empty or more accurately
+it<00:02:24.930><c> starts</c><00:02:25.380><c> out</c><00:02:25.500><c> full</c><00:02:25.829><c> of</c><00:02:25.950><c> air</c><00:02:26.420><c> when</c><00:02:27.420><c> you</c><00:02:27.510><c> add</c>
+
+00:02:27.710 --> 00:02:27.720 align:start position:0%
+it starts out full of air when you add
+ 
+
+00:02:27.720 --> 00:02:29.539 align:start position:0%
+it starts out full of air when you add
+liquid<00:02:28.049><c> to</c><00:02:28.410><c> a</c><00:02:28.440><c> pipe</c><00:02:28.769><c> that's</c><00:02:29.010><c> full</c><00:02:29.190><c> of</c><00:02:29.220><c> air</c>
+
+00:02:29.539 --> 00:02:29.549 align:start position:0%
+liquid to a pipe that's full of air
+ 
+
+00:02:29.549 --> 00:02:31.340 align:start position:0%
+liquid to a pipe that's full of air
+whether<00:02:29.940><c> it's</c><00:02:30.150><c> for</c><00:02:30.390><c> the</c><00:02:30.420><c> first</c><00:02:30.690><c> time</c><00:02:30.930><c> or</c><00:02:31.200><c> after</c>
+
+00:02:31.340 --> 00:02:31.350 align:start position:0%
+whether it's for the first time or after
+ 
+
+00:02:31.350 --> 00:02:32.840 align:start position:0%
+whether it's for the first time or after
+the<00:02:31.650><c> pipe</c><00:02:31.829><c> was</c><00:02:32.040><c> drained</c><00:02:32.370><c> for</c><00:02:32.609><c> maintenance</c>
+
+00:02:32.840 --> 00:02:32.850 align:start position:0%
+the pipe was drained for maintenance
+ 
+
+00:02:32.850 --> 00:02:35.360 align:start position:0%
+the pipe was drained for maintenance
+that's<00:02:33.690><c> a</c><00:02:33.870><c> perfect</c><00:02:34.260><c> opportunity</c><00:02:34.500><c> for</c><00:02:35.190><c> it</c><00:02:35.310><c> to</c>
+
+00:02:35.360 --> 00:02:35.370 align:start position:0%
+that's a perfect opportunity for it to
+ 
+
+00:02:35.370 --> 00:02:37.520 align:start position:0%
+that's a perfect opportunity for it to
+be<00:02:35.519><c> trapped</c><00:02:35.850><c> which</c><00:02:36.299><c> leads</c><00:02:36.630><c> me</c><00:02:36.870><c> to</c><00:02:36.900><c> the</c><00:02:37.170><c> second</c>
+
+00:02:37.520 --> 00:02:37.530 align:start position:0%
+be trapped which leads me to the second
+ 
+
+00:02:37.530 --> 00:02:40.610 align:start position:0%
+be trapped which leads me to the second
+question<00:02:37.560><c> how</c><00:02:38.400><c> does</c><00:02:38.459><c> gas</c><00:02:38.850><c> get</c><00:02:39.090><c> trapped</c><00:02:39.620><c> this</c>
+
+00:02:40.610 --> 00:02:40.620 align:start position:0%
+question how does gas get trapped this
+ 
+
+00:02:40.620 --> 00:02:42.830 align:start position:0%
+question how does gas get trapped this
+one's<00:02:40.859><c> a</c><00:02:40.920><c> little</c><00:02:41.040><c> easier</c><00:02:41.430><c> to</c><00:02:41.639><c> answer</c><00:02:41.840><c> because</c>
+
+00:02:42.830 --> 00:02:42.840 align:start position:0%
+one's a little easier to answer because
+ 
+
+00:02:42.840 --> 00:02:44.960 align:start position:0%
+one's a little easier to answer because
+gases<00:02:43.530><c> are</c><00:02:43.650><c> so</c><00:02:43.889><c> much</c><00:02:44.100><c> less</c><00:02:44.340><c> dense</c><00:02:44.670><c> than</c>
+
+00:02:44.960 --> 00:02:44.970 align:start position:0%
+gases are so much less dense than
+ 
+
+00:02:44.970 --> 00:02:47.569 align:start position:0%
+gases are so much less dense than
+liquids<00:02:45.420><c> they</c><00:02:45.720><c> almost</c><00:02:45.959><c> always</c><00:02:46.350><c> float</c><00:02:46.769><c> that</c>
+
+00:02:47.569 --> 00:02:47.579 align:start position:0%
+liquids they almost always float that
+ 
+
+00:02:47.579 --> 00:02:49.369 align:start position:0%
+liquids they almost always float that
+means<00:02:47.850><c> any</c><00:02:48.120><c> high</c><00:02:48.420><c> spot</c><00:02:48.720><c> in</c><00:02:48.870><c> a</c><00:02:48.930><c> pipe</c><00:02:49.170><c> is</c>
+
+00:02:49.369 --> 00:02:49.379 align:start position:0%
+means any high spot in a pipe is
+ 
+
+00:02:49.379 --> 00:02:51.729 align:start position:0%
+means any high spot in a pipe is
+susceptible<00:02:49.830><c> to</c><00:02:50.370><c> trapping</c><00:02:50.670><c> bubbles</c><00:02:51.180><c> and</c>
+
+00:02:51.729 --> 00:02:51.739 align:start position:0%
+susceptible to trapping bubbles and
+ 
+
+00:02:51.739 --> 00:02:54.110 align:start position:0%
+susceptible to trapping bubbles and
+unfortunately<00:02:52.739><c> avoiding</c><00:02:53.430><c> these</c><00:02:53.519><c> Heights</c>
+
+00:02:54.110 --> 00:02:54.120 align:start position:0%
+unfortunately avoiding these Heights
+ 
+
+00:02:54.120 --> 00:02:57.020 align:start position:0%
+unfortunately avoiding these Heights
+is<00:02:54.390><c> often</c><00:02:54.870><c> easier</c><00:02:55.170><c> said</c><00:02:55.470><c> than</c><00:02:55.620><c> done</c><00:02:55.880><c> take</c><00:02:56.880><c> the</c>
+
+00:02:57.020 --> 00:02:57.030 align:start position:0%
+is often easier said than done take the
+ 
+
+00:02:57.030 --> 00:02:58.970 align:start position:0%
+is often easier said than done take the
+example<00:02:57.480><c> of</c><00:02:57.540><c> an</c><00:02:57.690><c> irrigation</c><00:02:58.290><c> line</c><00:02:58.440><c> on</c><00:02:58.650><c> a</c><00:02:58.680><c> farm</c>
+
+00:02:58.970 --> 00:02:58.980 align:start position:0%
+example of an irrigation line on a farm
+ 
+
+00:02:58.980 --> 00:03:01.309 align:start position:0%
+example of an irrigation line on a farm
+these<00:02:59.700><c> lines</c><00:03:00.000><c> can't</c><00:03:00.300><c> be</c><00:03:00.420><c> buried</c><00:03:00.810><c> because</c><00:03:01.020><c> they</c>
+
+00:03:01.309 --> 00:03:01.319 align:start position:0%
+these lines can't be buried because they
+ 
+
+00:03:01.319 --> 00:03:03.680 align:start position:0%
+these lines can't be buried because they
+need<00:03:01.500><c> to</c><00:03:01.590><c> be</c><00:03:01.709><c> moved</c><00:03:01.980><c> from</c><00:03:02.220><c> time</c><00:03:02.489><c> to</c><00:03:02.640><c> time</c><00:03:02.690><c> so</c>
+
+00:03:03.680 --> 00:03:03.690 align:start position:0%
+need to be moved from time to time so
+ 
+
+00:03:03.690 --> 00:03:05.059 align:start position:0%
+need to be moved from time to time so
+they<00:03:03.840><c> sit</c><00:03:04.080><c> on</c><00:03:04.230><c> the</c><00:03:04.349><c> surface</c><00:03:04.500><c> of</c><00:03:04.860><c> the</c><00:03:04.950><c> ground</c>
+
+00:03:05.059 --> 00:03:05.069 align:start position:0%
+they sit on the surface of the ground
+ 
+
+00:03:05.069 --> 00:03:08.210 align:start position:0%
+they sit on the surface of the ground
+and<00:03:05.489><c> as</c><00:03:05.849><c> such</c><00:03:06.300><c> follow</c><00:03:07.020><c> the</c><00:03:07.319><c> natural</c><00:03:07.709><c> contours</c>
+
+00:03:08.210 --> 00:03:08.220 align:start position:0%
+and as such follow the natural contours
+ 
+
+00:03:08.220 --> 00:03:10.160 align:start position:0%
+and as such follow the natural contours
+with<00:03:08.550><c> low</c><00:03:08.849><c> spots</c><00:03:09.150><c> and</c><00:03:09.360><c> valleys</c><00:03:09.750><c> and</c><00:03:09.780><c> high</c>
+
+00:03:10.160 --> 00:03:10.170 align:start position:0%
+with low spots and valleys and high
+ 
+
+00:03:10.170 --> 00:03:12.830 align:start position:0%
+with low spots and valleys and high
+spots<00:03:10.470><c> over</c><00:03:10.830><c> hills</c><00:03:11.069><c> and</c><00:03:11.250><c> embankments</c><00:03:11.880><c> these</c>
+
+00:03:12.830 --> 00:03:12.840 align:start position:0%
+spots over hills and embankments these
+ 
+
+00:03:12.840 --> 00:03:15.160 align:start position:0%
+spots over hills and embankments these
+high<00:03:13.140><c> spots</c><00:03:13.500><c> are</c><00:03:13.709><c> perfect</c><00:03:14.310><c> traps</c><00:03:14.550><c> for</c><00:03:14.790><c> air</c>
+
+00:03:15.160 --> 00:03:15.170 align:start position:0%
+high spots are perfect traps for air
+ 
+
+00:03:15.170 --> 00:03:17.720 align:start position:0%
+high spots are perfect traps for air
+even<00:03:16.170><c> if</c><00:03:16.410><c> the</c><00:03:16.530><c> pipes</c><00:03:16.769><c> can</c><00:03:17.099><c> be</c><00:03:17.310><c> buried</c><00:03:17.700><c> like</c>
+
+00:03:17.720 --> 00:03:17.730 align:start position:0%
+even if the pipes can be buried like
+ 
+
+00:03:17.730 --> 00:03:20.240 align:start position:0%
+even if the pipes can be buried like
+water<00:03:18.269><c> or</c><00:03:18.599><c> petroleum</c><00:03:19.230><c> pipelines</c><00:03:19.709><c> it's</c><00:03:20.069><c> not</c>
+
+00:03:20.240 --> 00:03:20.250 align:start position:0%
+water or petroleum pipelines it's not
+ 
+
+00:03:20.250 --> 00:03:22.270 align:start position:0%
+water or petroleum pipelines it's not
+always<00:03:20.430><c> feasible</c><00:03:20.760><c> to</c><00:03:21.269><c> avoid</c><00:03:21.569><c> undulations</c>
+
+00:03:22.270 --> 00:03:22.280 align:start position:0%
+always feasible to avoid undulations
+ 
+
+00:03:22.280 --> 00:03:25.070 align:start position:0%
+always feasible to avoid undulations
+after<00:03:23.280><c> all</c><00:03:23.459><c> the</c><00:03:23.849><c> deeper</c><00:03:24.180><c> you</c><00:03:24.300><c> dig</c><00:03:24.330><c> the</c><00:03:24.540><c> higher</c>
+
+00:03:25.070 --> 00:03:25.080 align:start position:0%
+after all the deeper you dig the higher
+ 
+
+00:03:25.080 --> 00:03:27.590 align:start position:0%
+after all the deeper you dig the higher
+the<00:03:25.260><c> cost</c><00:03:25.440><c> often</c><00:03:26.430><c> it</c><00:03:26.730><c> just</c><00:03:26.940><c> makes</c><00:03:27.150><c> sense</c><00:03:27.390><c> to</c>
+
+00:03:27.590 --> 00:03:27.600 align:start position:0%
+the cost often it just makes sense to
+ 
+
+00:03:27.600 --> 00:03:29.900 align:start position:0%
+the cost often it just makes sense to
+follow<00:03:28.080><c> a</c><00:03:28.200><c> ridge</c><00:03:28.470><c> or</c><00:03:28.620><c> hill</c><00:03:28.860><c> up</c><00:03:29.130><c> and</c><00:03:29.430><c> back</c><00:03:29.610><c> down</c>
+
+00:03:29.900 --> 00:03:29.910 align:start position:0%
+follow a ridge or hill up and back down
+ 
+
+00:03:29.910 --> 00:03:32.229 align:start position:0%
+follow a ridge or hill up and back down
+rather<00:03:30.269><c> than</c><00:03:30.510><c> going</c><00:03:30.660><c> straight</c><00:03:30.780><c> through</c><00:03:31.080><c> in</c>
+
+00:03:32.229 --> 00:03:32.239 align:start position:0%
+rather than going straight through in
+ 
+
+00:03:32.239 --> 00:03:34.640 align:start position:0%
+rather than going straight through in
+buildings<00:03:33.239><c> and</c><00:03:33.420><c> houses</c><00:03:33.630><c> fresh</c><00:03:34.200><c> water</c><00:03:34.470><c> and</c>
+
+00:03:34.640 --> 00:03:34.650 align:start position:0%
+buildings and houses fresh water and
+ 
+
+00:03:34.650 --> 00:03:36.470 align:start position:0%
+buildings and houses fresh water and
+heating<00:03:34.950><c> lines</c><00:03:35.100><c> have</c><00:03:35.400><c> to</c><00:03:35.430><c> avoid</c><00:03:35.730><c> all</c><00:03:35.970><c> sorts</c><00:03:36.390><c> of</c>
+
+00:03:36.470 --> 00:03:36.480 align:start position:0%
+heating lines have to avoid all sorts of
+ 
+
+00:03:36.480 --> 00:03:38.720 align:start position:0%
+heating lines have to avoid all sorts of
+obstacles<00:03:36.660><c> which</c><00:03:37.530><c> often</c><00:03:37.950><c> means</c><00:03:38.160><c> routing</c><00:03:38.580><c> them</c>
+
+00:03:38.720 --> 00:03:38.730 align:start position:0%
+obstacles which often means routing them
+ 
+
+00:03:38.730 --> 00:03:40.640 align:start position:0%
+obstacles which often means routing them
+in<00:03:38.849><c> ways</c><00:03:39.030><c> that</c><00:03:39.239><c> create</c><00:03:39.390><c> high</c><00:03:39.810><c> spots</c><00:03:40.140><c> which</c><00:03:40.440><c> can</c>
+
+00:03:40.640 --> 00:03:40.650 align:start position:0%
+in ways that create high spots which can
+ 
+
+00:03:40.650 --> 00:03:43.100 align:start position:0%
+in ways that create high spots which can
+trap<00:03:40.860><c> air</c><00:03:41.099><c> bubbles</c><00:03:41.459><c> the</c><00:03:42.269><c> same</c><00:03:42.540><c> is</c><00:03:42.690><c> true</c><00:03:42.840><c> in</c>
+
+00:03:43.100 --> 00:03:43.110 align:start position:0%
+trap air bubbles the same is true in
+ 
+
+00:03:43.110 --> 00:03:44.960 align:start position:0%
+trap air bubbles the same is true in
+industrial<00:03:43.739><c> settings</c><00:03:44.069><c> for</c><00:03:44.310><c> a</c><00:03:44.519><c> wide</c><00:03:44.730><c> variety</c>
+
+00:03:44.960 --> 00:03:44.970 align:start position:0%
+industrial settings for a wide variety
+ 
+
+00:03:44.970 --> 00:03:46.460 align:start position:0%
+industrial settings for a wide variety
+of<00:03:45.239><c> types</c><00:03:45.540><c> of</c><00:03:45.780><c> pipelines</c>
+
+00:03:46.460 --> 00:03:46.470 align:start position:0%
+of types of pipelines
+ 
+
+00:03:46.470 --> 00:03:48.979 align:start position:0%
+of types of pipelines
+you<00:03:46.980><c> might</c><00:03:47.160><c> be</c><00:03:47.280><c> thinking</c><00:03:47.310><c> big</c><00:03:48.000><c> deal</c><00:03:48.299><c> air</c><00:03:48.660><c> gets</c>
+
+00:03:48.979 --> 00:03:48.989 align:start position:0%
+you might be thinking big deal air gets
+ 
+
+00:03:48.989 --> 00:03:50.509 align:start position:0%
+you might be thinking big deal air gets
+trapped<00:03:49.170><c> where</c><00:03:49.470><c> it's</c><00:03:49.590><c> not</c><00:03:49.739><c> supposed</c><00:03:49.980><c> to</c><00:03:50.370><c> all</c>
+
+00:03:50.509 --> 00:03:50.519 align:start position:0%
+trapped where it's not supposed to all
+ 
+
+00:03:50.519 --> 00:03:51.140 align:start position:0%
+trapped where it's not supposed to all
+the<00:03:50.670><c> time</c>
+
+00:03:51.140 --> 00:03:51.150 align:start position:0%
+the time
+ 
+
+00:03:51.150 --> 00:03:52.970 align:start position:0%
+the time
+that's<00:03:51.330><c> why</c><00:03:51.450><c> we</c><00:03:51.660><c> have</c><00:03:51.810><c> burps</c><00:03:52.110><c> and</c><00:03:52.410><c> farts</c><00:03:52.470><c> and</c>
+
+00:03:52.970 --> 00:03:52.980 align:start position:0%
+that's why we have burps and farts and
+ 
+
+00:03:52.980 --> 00:03:55.370 align:start position:0%
+that's why we have burps and farts and
+bleed<00:03:53.220><c> valves</c><00:03:53.640><c> on</c><00:03:53.760><c> brake</c><00:03:54.000><c> lines</c><00:03:54.299><c> but</c><00:03:55.290><c> the</c>
+
+00:03:55.370 --> 00:03:55.380 align:start position:0%
+bleed valves on brake lines but the
+ 
+
+00:03:55.380 --> 00:03:56.870 align:start position:0%
+bleed valves on brake lines but the
+thing<00:03:55.560><c> you</c><00:03:55.590><c> have</c><00:03:55.739><c> to</c><00:03:55.769><c> remember</c><00:03:56.160><c> is</c><00:03:56.459><c> that</c><00:03:56.640><c> air</c>
+
+00:03:56.870 --> 00:03:56.880 align:start position:0%
+thing you have to remember is that air
+ 
+
+00:03:56.880 --> 00:03:57.860 align:start position:0%
+thing you have to remember is that air
+takes<00:03:57.269><c> up</c><00:03:57.510><c> space</c>
+
+00:03:57.860 --> 00:03:57.870 align:start position:0%
+takes up space
+ 
+
+00:03:57.870 --> 00:04:00.110 align:start position:0%
+takes up space
+it<00:03:58.350><c> doesn't</c><00:03:58.709><c> necessarily</c><00:03:58.829><c> seem</c><00:03:59.640><c> like</c><00:03:59.850><c> it</c><00:04:00.030><c> out</c>
+
+00:04:00.110 --> 00:04:00.120 align:start position:0%
+it doesn't necessarily seem like it out
+ 
+
+00:04:00.120 --> 00:04:01.910 align:start position:0%
+it doesn't necessarily seem like it out
+in<00:04:00.239><c> the</c><00:04:00.299><c> open</c><00:04:00.600><c> but</c><00:04:00.810><c> when</c><00:04:01.200><c> it's</c><00:04:01.380><c> trapped</c><00:04:01.680><c> in</c><00:04:01.829><c> a</c>
+
+00:04:01.910 --> 00:04:01.920 align:start position:0%
+in the open but when it's trapped in a
+ 
+
+00:04:01.920 --> 00:04:04.280 align:start position:0%
+in the open but when it's trapped in a
+pipe<00:04:02.160><c> it's</c><00:04:02.459><c> taken</c><00:04:03.030><c> up</c><00:04:03.150><c> cross-sectional</c><00:04:03.930><c> area</c>
+
+00:04:04.280 --> 00:04:04.290 align:start position:0%
+pipe it's taken up cross-sectional area
+ 
+
+00:04:04.290 --> 00:04:06.289 align:start position:0%
+pipe it's taken up cross-sectional area
+that<00:04:04.500><c> could</c><00:04:04.620><c> otherwise</c><00:04:04.829><c> be</c><00:04:05.160><c> used</c><00:04:05.370><c> by</c><00:04:05.730><c> flow</c>
+
+00:04:06.289 --> 00:04:06.299 align:start position:0%
+that could otherwise be used by flow
+ 
+
+00:04:06.299 --> 00:04:08.479 align:start position:0%
+that could otherwise be used by flow
+it's<00:04:06.690><c> a</c><00:04:06.840><c> constriction</c><00:04:07.320><c> just</c><00:04:07.799><c> like</c><00:04:07.920><c> a</c><00:04:07.950><c> kink</c><00:04:08.340><c> in</c>
+
+00:04:08.479 --> 00:04:08.489 align:start position:0%
+it's a constriction just like a kink in
+ 
+
+00:04:08.489 --> 00:04:10.370 align:start position:0%
+it's a constriction just like a kink in
+a<00:04:08.609><c> rubber</c><00:04:08.790><c> hose</c><00:04:09.030><c> which</c><00:04:09.359><c> means</c><00:04:09.600><c> it</c><00:04:09.900><c> can</c><00:04:10.200><c> cause</c><00:04:10.350><c> a</c>
+
+00:04:10.370 --> 00:04:10.380 align:start position:0%
+a rubber hose which means it can cause a
+ 
+
+00:04:10.380 --> 00:04:13.970 align:start position:0%
+a rubber hose which means it can cause a
+serious<00:04:10.829><c> reduction</c><00:04:11.519><c> in</c><00:04:11.640><c> flow</c><00:04:11.880><c> rate</c><00:04:12.709><c> pipes</c><00:04:13.709><c> can</c>
+
+00:04:13.970 --> 00:04:13.980 align:start position:0%
+serious reduction in flow rate pipes can
+ 
+
+00:04:13.980 --> 00:04:15.740 align:start position:0%
+serious reduction in flow rate pipes can
+be<00:04:14.100><c> expensive</c><00:04:14.519><c> and</c><00:04:14.940><c> the</c><00:04:15.180><c> bigger</c><00:04:15.359><c> they</c><00:04:15.569><c> are</c><00:04:15.600><c> the</c>
+
+00:04:15.740 --> 00:04:15.750 align:start position:0%
+be expensive and the bigger they are the
+ 
+
+00:04:15.750 --> 00:04:18.199 align:start position:0%
+be expensive and the bigger they are the
+more<00:04:16.109><c> they</c><00:04:16.169><c> cost</c><00:04:16.470><c> so</c><00:04:16.890><c> engineers</c><00:04:17.609><c> try</c><00:04:17.910><c> to</c><00:04:17.970><c> use</c>
+
+00:04:18.199 --> 00:04:18.209 align:start position:0%
+more they cost so engineers try to use
+ 
+
+00:04:18.209 --> 00:04:20.479 align:start position:0%
+more they cost so engineers try to use
+the<00:04:18.450><c> smallest</c><00:04:18.810><c> pipe</c><00:04:19.200><c> possible</c><00:04:19.799><c> to</c><00:04:20.070><c> meet</c><00:04:20.310><c> the</c>
+
+00:04:20.479 --> 00:04:20.489 align:start position:0%
+the smallest pipe possible to meet the
+ 
+
+00:04:20.489 --> 00:04:22.940 align:start position:0%
+the smallest pipe possible to meet the
+specific<00:04:21.030><c> need</c><00:04:21.299><c> if</c><00:04:21.539><c> you've</c><00:04:22.410><c> got</c><00:04:22.590><c> a</c><00:04:22.620><c> bunch</c><00:04:22.800><c> of</c>
+
+00:04:22.940 --> 00:04:22.950 align:start position:0%
+specific need if you've got a bunch of
+ 
+
+00:04:22.950 --> 00:04:24.770 align:start position:0%
+specific need if you've got a bunch of
+air<00:04:23.100><c> trapped</c><00:04:23.400><c> in</c><00:04:23.580><c> your</c><00:04:23.669><c> pipe</c><00:04:23.940><c> that's</c><00:04:24.330><c> taking</c>
+
+00:04:24.770 --> 00:04:24.780 align:start position:0%
+air trapped in your pipe that's taking
+ 
+
+00:04:24.780 --> 00:04:26.570 align:start position:0%
+air trapped in your pipe that's taking
+up<00:04:24.900><c> valuable</c><00:04:25.169><c> space</c><00:04:25.650><c> without</c><00:04:26.130><c> any</c>
+
+00:04:26.570 --> 00:04:26.580 align:start position:0%
+up valuable space without any
+ 
+
+00:04:26.580 --> 00:04:29.450 align:start position:0%
+up valuable space without any
+contribution<00:04:27.419><c> to</c><00:04:27.570><c> the</c><00:04:27.690><c> flow</c><00:04:27.870><c> rate</c><00:04:28.460><c> designing</c>
+
+00:04:29.450 --> 00:04:29.460 align:start position:0%
+contribution to the flow rate designing
+ 
+
+00:04:29.460 --> 00:04:31.879 align:start position:0%
+contribution to the flow rate designing
+pipes<00:04:29.700><c> is</c><00:04:29.940><c> an</c><00:04:30.210><c> exercise</c><00:04:30.750><c> in</c><00:04:30.780><c> managing</c><00:04:31.650><c> energy</c>
+
+00:04:31.879 --> 00:04:31.889 align:start position:0%
+pipes is an exercise in managing energy
+ 
+
+00:04:31.889 --> 00:04:34.310 align:start position:0%
+pipes is an exercise in managing energy
+the<00:04:32.850><c> fluid</c><00:04:33.180><c> starts</c><00:04:33.600><c> at</c><00:04:33.750><c> one</c><00:04:33.900><c> end</c><00:04:34.080><c> with</c><00:04:34.289><c> a</c>
+
+00:04:34.310 --> 00:04:34.320 align:start position:0%
+the fluid starts at one end with a
+ 
+
+00:04:34.320 --> 00:04:36.020 align:start position:0%
+the fluid starts at one end with a
+certain<00:04:34.740><c> amount</c><00:04:34.830><c> of</c><00:04:35.100><c> it</c><00:04:35.280><c> and</c><00:04:35.430><c> the</c><00:04:35.789><c> flow</c><00:04:36.000><c> rate</c>
+
+00:04:36.020 --> 00:04:36.030 align:start position:0%
+certain amount of it and the flow rate
+ 
+
+00:04:36.030 --> 00:04:38.540 align:start position:0%
+certain amount of it and the flow rate
+depends<00:04:36.630><c> on</c><00:04:36.720><c> how</c><00:04:36.960><c> much</c><00:04:37.229><c> energy</c><00:04:37.470><c> gets</c><00:04:37.889><c> lost</c><00:04:38.190><c> as</c>
+
+00:04:38.540 --> 00:04:38.550 align:start position:0%
+depends on how much energy gets lost as
+ 
+
+00:04:38.550 --> 00:04:40.420 align:start position:0%
+depends on how much energy gets lost as
+it<00:04:38.700><c> makes</c><00:04:38.910><c> its</c><00:04:39.120><c> way</c><00:04:39.210><c> to</c><00:04:39.360><c> the</c><00:04:39.600><c> other</c><00:04:39.720><c> end</c>
+
+00:04:40.420 --> 00:04:40.430 align:start position:0%
+it makes its way to the other end
+ 
+
+00:04:40.430 --> 00:04:43.100 align:start position:0%
+it makes its way to the other end
+Engineers<00:04:41.430><c> use</c><00:04:41.610><c> a</c><00:04:41.820><c> graphical</c><00:04:42.450><c> tool</c><00:04:42.510><c> called</c>
+
+00:04:43.100 --> 00:04:43.110 align:start position:0%
+Engineers use a graphical tool called
+ 
+
+00:04:43.110 --> 00:04:44.960 align:start position:0%
+Engineers use a graphical tool called
+the<00:04:43.200><c> hydraulic</c><00:04:43.740><c> grade</c><00:04:43.979><c> line</c><00:04:44.010><c> to</c><00:04:44.490><c> show</c><00:04:44.760><c> this</c>
+
+00:04:44.960 --> 00:04:44.970 align:start position:0%
+the hydraulic grade line to show this
+ 
+
+00:04:44.970 --> 00:04:47.240 align:start position:0%
+the hydraulic grade line to show this
+visually<00:04:45.510><c> the</c><00:04:46.380><c> line</c><00:04:46.590><c> represents</c><00:04:47.190><c> the</c>
+
+00:04:47.240 --> 00:04:47.250 align:start position:0%
+visually the line represents the
+ 
+
+00:04:47.250 --> 00:04:49.400 align:start position:0%
+visually the line represents the
+potential<00:04:47.910><c> energy</c><00:04:48.120><c> available</c><00:04:48.870><c> in</c><00:04:48.990><c> the</c><00:04:49.080><c> fluid</c>
+
+00:04:49.400 --> 00:04:49.410 align:start position:0%
+potential energy available in the fluid
+ 
+
+00:04:49.410 --> 00:04:52.040 align:start position:0%
+potential energy available in the fluid
+at<00:04:49.530><c> any</c><00:04:49.919><c> point</c><00:04:50.250><c> along</c><00:04:50.550><c> the</c><00:04:50.700><c> pipe</c><00:04:50.880><c> it's</c><00:04:51.720><c> also</c>
+
+00:04:52.040 --> 00:04:52.050 align:start position:0%
+at any point along the pipe it's also
+ 
+
+00:04:52.050 --> 00:04:53.930 align:start position:0%
+at any point along the pipe it's also
+the<00:04:52.289><c> level</c><00:04:52.470><c> the</c><00:04:52.680><c> liquid</c><00:04:53.010><c> would</c><00:04:53.130><c> reach</c><00:04:53.340><c> if</c><00:04:53.669><c> you</c>
+
+00:04:53.930 --> 00:04:53.940 align:start position:0%
+the level the liquid would reach if you
+ 
+
+00:04:53.940 --> 00:04:56.210 align:start position:0%
+the level the liquid would reach if you
+were<00:04:54.060><c> to</c><00:04:54.210><c> tap</c><00:04:54.450><c> in</c><00:04:54.720><c> a</c><00:04:54.780><c> vertical</c><00:04:55.470><c> stand</c><00:04:55.740><c> pipe</c><00:04:55.979><c> at</c>
+
+00:04:56.210 --> 00:04:56.220 align:start position:0%
+were to tap in a vertical stand pipe at
+ 
+
+00:04:56.220 --> 00:04:58.760 align:start position:0%
+were to tap in a vertical stand pipe at
+any<00:04:56.430><c> location</c><00:04:57.120><c> along</c><00:04:57.330><c> the</c><00:04:57.510><c> pipe</c><00:04:57.770><c> the</c>
+
+00:04:58.760 --> 00:04:58.770 align:start position:0%
+any location along the pipe the
+ 
+
+00:04:58.770 --> 00:05:00.680 align:start position:0%
+any location along the pipe the
+hydraulic<00:04:59.250><c> grade</c><00:04:59.460><c> line</c><00:04:59.490><c> slopes</c><00:05:00.120><c> downward</c>
+
+00:05:00.680 --> 00:05:00.690 align:start position:0%
+hydraulic grade line slopes downward
+ 
+
+00:05:00.690 --> 00:05:03.260 align:start position:0%
+hydraulic grade line slopes downward
+along<00:05:00.870><c> pipes</c><00:05:01.440><c> as</c><00:05:01.770><c> the</c><00:05:01.979><c> fluid</c><00:05:02.340><c> loses</c><00:05:02.700><c> energy</c><00:05:02.880><c> to</c>
+
+00:05:03.260 --> 00:05:03.270 align:start position:0%
+along pipes as the fluid loses energy to
+ 
+
+00:05:03.270 --> 00:05:06.440 align:start position:0%
+along pipes as the fluid loses energy to
+friction<00:05:03.419><c> it</c><00:05:04.010><c> also</c><00:05:05.010><c> drops</c><00:05:05.250><c> steeply</c><00:05:05.610><c> at</c><00:05:06.030><c> sharp</c>
+
+00:05:06.440 --> 00:05:06.450 align:start position:0%
+friction it also drops steeply at sharp
+ 
+
+00:05:06.450 --> 00:05:08.190 align:start position:0%
+friction it also drops steeply at sharp
+bends<00:05:06.750><c> and</c><00:05:07.050><c> vows</c><00:05:07.260><c> which</c><00:05:07.650><c> can</c><00:05:07.890><c> cause</c>
+
+00:05:08.190 --> 00:05:08.200 align:start position:0%
+bends and vows which can cause
+ 
+
+00:05:08.200 --> 00:05:10.740 align:start position:0%
+bends and vows which can cause
+turbulence<00:05:08.740><c> in</c><00:05:08.920><c> the</c><00:05:08.950><c> flow</c><00:05:09.220><c> and</c><00:05:09.490><c> you</c><00:05:10.480><c> know</c><00:05:10.630><c> it</c>
+
+00:05:10.740 --> 00:05:10.750 align:start position:0%
+turbulence in the flow and you know it
+ 
+
+00:05:10.750 --> 00:05:13.410 align:start position:0%
+turbulence in the flow and you know it
+also<00:05:10.900><c> causes</c><00:05:11.530><c> a</c><00:05:11.560><c> loss</c><00:05:11.770><c> of</c><00:05:11.980><c> energy</c><00:05:12.150><c> airlock</c><00:05:13.150><c> in</c>
+
+00:05:13.410 --> 00:05:13.420 align:start position:0%
+also causes a loss of energy airlock in
+ 
+
+00:05:13.420 --> 00:05:15.870 align:start position:0%
+also causes a loss of energy airlock in
+fact<00:05:14.230><c> as</c><00:05:14.380><c> the</c><00:05:14.440><c> bubble</c><00:05:15.010><c> grows</c><00:05:15.280><c> and</c><00:05:15.520><c> grows</c><00:05:15.580><c> in</c>
+
+00:05:15.870 --> 00:05:15.880 align:start position:0%
+fact as the bubble grows and grows in
+ 
+
+00:05:15.880 --> 00:05:17.610 align:start position:0%
+fact as the bubble grows and grows in
+the<00:05:15.970><c> pipe</c><00:05:16.180><c> you</c><00:05:16.540><c> end</c><00:05:16.810><c> up</c><00:05:16.960><c> with</c><00:05:17.110><c> a</c><00:05:17.140><c> condition</c>
+
+00:05:17.610 --> 00:05:17.620 align:start position:0%
+the pipe you end up with a condition
+ 
+
+00:05:17.620 --> 00:05:20.400 align:start position:0%
+the pipe you end up with a condition
+called<00:05:17.650><c> waterfall</c><00:05:18.430><c> flow</c><00:05:18.940><c> you</c><00:05:19.930><c> can</c><00:05:19.960><c> see</c><00:05:20.290><c> why</c>
+
+00:05:20.400 --> 00:05:20.410 align:start position:0%
+called waterfall flow you can see why
+ 
+
+00:05:20.410 --> 00:05:22.260 align:start position:0%
+called waterfall flow you can see why
+it's<00:05:20.590><c> called</c><00:05:20.830><c> that</c><00:05:21.040><c> in</c><00:05:21.250><c> the</c><00:05:21.340><c> demonstration</c><00:05:22.030><c> in</c>
+
+00:05:22.260 --> 00:05:22.270 align:start position:0%
+it's called that in the demonstration in
+ 
+
+00:05:22.270 --> 00:05:25.140 align:start position:0%
+it's called that in the demonstration in
+this<00:05:23.170><c> case</c><00:05:23.410><c> you</c><00:05:23.710><c> lose</c><00:05:23.980><c> the</c><00:05:24.250><c> energy</c><00:05:24.400><c> equivalent</c>
+
+00:05:25.140 --> 00:05:25.150 align:start position:0%
+this case you lose the energy equivalent
+ 
+
+00:05:25.150 --> 00:05:27.270 align:start position:0%
+this case you lose the energy equivalent
+to<00:05:25.660><c> the</c><00:05:25.780><c> height</c><00:05:26.020><c> of</c><00:05:26.050><c> the</c><00:05:26.260><c> waterfall</c><00:05:26.680><c> which</c><00:05:27.070><c> is</c>
+
+00:05:27.270 --> 00:05:27.280 align:start position:0%
+to the height of the waterfall which is
+ 
+
+00:05:27.280 --> 00:05:29.570 align:start position:0%
+to the height of the waterfall which is
+easy<00:05:27.580><c> to</c><00:05:27.880><c> see</c><00:05:28.060><c> on</c><00:05:28.090><c> the</c><00:05:28.330><c> hydraulic</c><00:05:28.750><c> grade</c><00:05:28.960><c> line</c>
+
+00:05:29.570 --> 00:05:29.580 align:start position:0%
+easy to see on the hydraulic grade line
+ 
+
+00:05:29.580 --> 00:05:32.010 align:start position:0%
+easy to see on the hydraulic grade line
+unlike<00:05:30.580><c> friction</c><00:05:31.090><c> or</c><00:05:31.270><c> turbulence</c><00:05:31.840><c> in</c><00:05:31.990><c> the</c>
+
+00:05:32.010 --> 00:05:32.020 align:start position:0%
+unlike friction or turbulence in the
+ 
+
+00:05:32.020 --> 00:05:34.800 align:start position:0%
+unlike friction or turbulence in the
+pipe<00:05:32.320><c> this</c><00:05:32.740><c> doesn't</c><00:05:33.190><c> depend</c><00:05:33.430><c> on</c><00:05:33.640><c> flow</c><00:05:33.940><c> and</c><00:05:34.210><c> it</c>
+
+00:05:34.800 --> 00:05:34.810 align:start position:0%
+pipe this doesn't depend on flow and it
+ 
+
+00:05:34.810 --> 00:05:37.470 align:start position:0%
+pipe this doesn't depend on flow and it
+adds<00:05:34.960><c> up</c><00:05:35.200><c> every</c><00:05:36.130><c> undulation</c><00:05:36.580><c> in</c><00:05:36.820><c> a</c><00:05:36.940><c> pipe</c><00:05:37.180><c> with</c>
+
+00:05:37.470 --> 00:05:37.480 align:start position:0%
+adds up every undulation in a pipe with
+ 
+
+00:05:37.480 --> 00:05:39.540 align:start position:0%
+adds up every undulation in a pipe with
+a<00:05:37.510><c> trapped</c><00:05:37.930><c> bubble</c><00:05:38.290><c> of</c><00:05:38.410><c> air</c><00:05:38.560><c> is</c><00:05:38.770><c> going</c><00:05:39.280><c> to</c><00:05:39.370><c> rob</c>
+
+00:05:39.540 --> 00:05:39.550 align:start position:0%
+a trapped bubble of air is going to rob
+ 
+
+00:05:39.550 --> 00:05:42.330 align:start position:0%
+a trapped bubble of air is going to rob
+the<00:05:39.580><c> fluid</c><00:05:40.150><c> of</c><00:05:40.300><c> this</c><00:05:40.480><c> energy</c><00:05:40.930><c> and</c><00:05:41.250><c> if</c><00:05:42.250><c> the</c>
+
+00:05:42.330 --> 00:05:42.340 align:start position:0%
+the fluid of this energy and if the
+ 
+
+00:05:42.340 --> 00:05:44.190 align:start position:0%
+the fluid of this energy and if the
+hydraulic<00:05:42.640><c> grade</c><00:05:43.000><c> line</c><00:05:43.030><c> drops</c><00:05:43.510><c> below</c><00:05:43.750><c> the</c>
+
+00:05:44.190 --> 00:05:44.200 align:start position:0%
+hydraulic grade line drops below the
+ 
+
+00:05:44.200 --> 00:05:46.020 align:start position:0%
+hydraulic grade line drops below the
+outlet<00:05:44.530><c> of</c><00:05:44.560><c> the</c><00:05:44.650><c> pipe</c><00:05:44.950><c> you</c><00:05:45.220><c> won't</c><00:05:45.580><c> get</c><00:05:45.790><c> any</c>
+
+00:05:46.020 --> 00:05:46.030 align:start position:0%
+outlet of the pipe you won't get any
+ 
+
+00:05:46.030 --> 00:05:48.180 align:start position:0%
+outlet of the pipe you won't get any
+flow<00:05:46.300><c> at</c><00:05:46.450><c> all</c><00:05:46.570><c> that's</c><00:05:47.200><c> the</c><00:05:47.380><c> definition</c><00:05:47.620><c> of</c>
+
+00:05:48.180 --> 00:05:48.190 align:start position:0%
+flow at all that's the definition of
+ 
+
+00:05:48.190 --> 00:05:51.120 align:start position:0%
+flow at all that's the definition of
+airlock<00:05:48.610><c> also</c><00:05:49.210><c> called</c><00:05:49.450><c> vapor</c><00:05:49.720><c> lock</c><00:05:50.020><c> a</c><00:05:50.350><c> pipe</c>
+
+00:05:51.120 --> 00:05:51.130 align:start position:0%
+airlock also called vapor lock a pipe
+ 
+
+00:05:51.130 --> 00:05:53.460 align:start position:0%
+airlock also called vapor lock a pipe
+that<00:05:51.340><c> doesn't</c><00:05:51.610><c> flow</c><00:05:51.790><c> is</c><00:05:52.270><c> not</c><00:05:52.600><c> very</c><00:05:52.870><c> useful</c><00:05:52.990><c> so</c>
+
+00:05:53.460 --> 00:05:53.470 align:start position:0%
+that doesn't flow is not very useful so
+ 
+
+00:05:53.470 --> 00:05:54.780 align:start position:0%
+that doesn't flow is not very useful so
+we've<00:05:53.740><c> come</c><00:05:53.980><c> up</c><00:05:54.130><c> with</c><00:05:54.250><c> a</c><00:05:54.310><c> bunch</c><00:05:54.490><c> of</c><00:05:54.580><c> ways</c><00:05:54.760><c> to</c>
+
+00:05:54.780 --> 00:05:54.790 align:start position:0%
+we've come up with a bunch of ways to
+ 
+
+00:05:54.790 --> 00:05:56.130 align:start position:0%
+we've come up with a bunch of ways to
+deal<00:05:55.180><c> with</c><00:05:55.360><c> this</c><00:05:55.480><c> problem</c>
+
+00:05:56.130 --> 00:05:56.140 align:start position:0%
+deal with this problem
+ 
+
+00:05:56.140 --> 00:05:58.170 align:start position:0%
+deal with this problem
+the<00:05:56.470><c> simplest</c><00:05:56.860><c> but</c><00:05:57.190><c> not</c><00:05:57.490><c> necessarily</c><00:05:58.030><c> the</c>
+
+00:05:58.170 --> 00:05:58.180 align:start position:0%
+the simplest but not necessarily the
+ 
+
+00:05:58.180 --> 00:06:00.150 align:start position:0%
+the simplest but not necessarily the
+cheapest<00:05:58.660><c> is</c><00:05:59.140><c> to</c><00:05:59.470><c> deal</c><00:05:59.620><c> with</c><00:05:59.740><c> the</c><00:05:59.830><c> airlock</c>
+
+00:06:00.150 --> 00:06:00.160 align:start position:0%
+cheapest is to deal with the airlock
+ 
+
+00:06:00.160 --> 00:06:02.070 align:start position:0%
+cheapest is to deal with the airlock
+with<00:06:00.400><c> a</c><00:06:00.430><c> bigger</c><00:06:00.640><c> pump</c><00:06:00.970><c> you</c><00:06:01.510><c> can</c><00:06:01.660><c> be</c><00:06:01.750><c> okay</c>
+
+00:06:02.070 --> 00:06:02.080 align:start position:0%
+with a bigger pump you can be okay
+ 
+
+00:06:02.080 --> 00:06:03.720 align:start position:0%
+with a bigger pump you can be okay
+knowing<00:06:02.410><c> you'll</c><00:06:02.680><c> always</c><00:06:02.890><c> have</c><00:06:03.130><c> trapped</c><00:06:03.490><c> gas</c>
+
+00:06:03.720 --> 00:06:03.730 align:start position:0%
+knowing you'll always have trapped gas
+ 
+
+00:06:03.730 --> 00:06:05.850 align:start position:0%
+knowing you'll always have trapped gas
+in<00:06:04.000><c> your</c><00:06:04.120><c> pipe</c><00:06:04.330><c> if</c><00:06:04.750><c> you</c><00:06:05.350><c> can</c><00:06:05.530><c> use</c><00:06:05.650><c> more</c>
+
+00:06:05.850 --> 00:06:05.860 align:start position:0%
+in your pipe if you can use more
+ 
+
+00:06:05.860 --> 00:06:07.650 align:start position:0%
+in your pipe if you can use more
+pressure<00:06:06.100><c> to</c><00:06:06.430><c> overcome</c><00:06:06.970><c> the</c><00:06:07.090><c> energy</c><00:06:07.330><c> losses</c>
+
+00:06:07.650 --> 00:06:07.660 align:start position:0%
+pressure to overcome the energy losses
+ 
+
+00:06:07.660 --> 00:06:10.110 align:start position:0%
+pressure to overcome the energy losses
+associated<00:06:08.170><c> with</c><00:06:08.560><c> airlock</c><00:06:09.100><c> that's</c><00:06:09.430><c> not</c>
+
+00:06:10.110 --> 00:06:10.120 align:start position:0%
+associated with airlock that's not
+ 
+
+00:06:10.120 --> 00:06:12.210 align:start position:0%
+associated with airlock that's not
+always<00:06:10.390><c> feasible</c><00:06:10.630><c> though</c><00:06:11.050><c> consider</c><00:06:11.770><c> a</c><00:06:11.830><c> long</c>
+
+00:06:12.210 --> 00:06:12.220 align:start position:0%
+always feasible though consider a long
+ 
+
+00:06:12.220 --> 00:06:15.150 align:start position:0%
+always feasible though consider a long
+pipeline<00:06:12.610><c> with</c><00:06:13.090><c> lots</c><00:06:13.450><c> of</c><00:06:13.660><c> undulations</c><00:06:14.140><c> if</c><00:06:14.530><c> you</c>
+
+00:06:15.150 --> 00:06:15.160 align:start position:0%
+pipeline with lots of undulations if you
+ 
+
+00:06:15.160 --> 00:06:17.310 align:start position:0%
+pipeline with lots of undulations if you
+use<00:06:15.370><c> a</c><00:06:15.400><c> single</c><00:06:15.970><c> pump</c><00:06:16.240><c> to</c><00:06:16.480><c> overcome</c><00:06:17.080><c> all</c><00:06:17.290><c> that</c>
+
+00:06:17.310 --> 00:06:17.320 align:start position:0%
+use a single pump to overcome all that
+ 
+
+00:06:17.320 --> 00:06:19.620 align:start position:0%
+use a single pump to overcome all that
+air<00:06:17.710><c> lock</c><00:06:17.860><c> the</c><00:06:18.220><c> pressure</c><00:06:18.550><c> rating</c><00:06:19.030><c> of</c><00:06:19.180><c> the</c><00:06:19.390><c> pipe</c>
+
+00:06:19.620 --> 00:06:19.630 align:start position:0%
+air lock the pressure rating of the pipe
+ 
+
+00:06:19.630 --> 00:06:21.560 align:start position:0%
+air lock the pressure rating of the pipe
+near<00:06:19.870><c> the</c><00:06:19.990><c> pump</c><00:06:20.170><c> will</c><00:06:20.530><c> have</c><00:06:20.800><c> to</c><00:06:20.980><c> be</c><00:06:21.100><c> enormous</c>
+
+00:06:21.560 --> 00:06:21.570 align:start position:0%
+near the pump will have to be enormous
+ 
+
+00:06:21.570 --> 00:06:24.330 align:start position:0%
+near the pump will have to be enormous
+the<00:06:22.570><c> second</c><00:06:22.990><c> option</c><00:06:23.170><c> is</c><00:06:23.410><c> just</c><00:06:23.860><c> to</c><00:06:24.010><c> design</c>
+
+00:06:24.330 --> 00:06:24.340 align:start position:0%
+the second option is just to design
+ 
+
+00:06:24.340 --> 00:06:26.880 align:start position:0%
+the second option is just to design
+pipelines<00:06:24.880><c> that</c><00:06:25.120><c> don't</c><00:06:25.390><c> trap</c><00:06:25.660><c> air</c><00:06:25.900><c> if</c><00:06:26.140><c> the</c>
+
+00:06:26.880 --> 00:06:26.890 align:start position:0%
+pipelines that don't trap air if the
+ 
+
+00:06:26.890 --> 00:06:28.500 align:start position:0%
+pipelines that don't trap air if the
+flow<00:06:27.130><c> of</c><00:06:27.160><c> the</c><00:06:27.400><c> fluid</c><00:06:27.700><c> in</c><00:06:27.790><c> your</c><00:06:27.820><c> pipeline</c><00:06:28.180><c> is</c>
+
+00:06:28.500 --> 00:06:28.510 align:start position:0%
+flow of the fluid in your pipeline is
+ 
+
+00:06:28.510 --> 00:06:30.510 align:start position:0%
+flow of the fluid in your pipeline is
+fast<00:06:28.840><c> enough</c><00:06:29.050><c> trapped</c><00:06:29.800><c> air</c><00:06:29.980><c> will</c><00:06:30.160><c> just</c><00:06:30.370><c> be</c>
+
+00:06:30.510 --> 00:06:30.520 align:start position:0%
+fast enough trapped air will just be
+ 
+
+00:06:30.520 --> 00:06:33.150 align:start position:0%
+fast enough trapped air will just be
+blown<00:06:30.850><c> out</c><00:06:30.880><c> and</c><00:06:31.450><c> if</c><00:06:32.380><c> there</c><00:06:32.560><c> aren't</c><00:06:32.710><c> any</c><00:06:32.860><c> high</c>
+
+00:06:33.150 --> 00:06:33.160 align:start position:0%
+blown out and if there aren't any high
+ 
+
+00:06:33.160 --> 00:06:34.800 align:start position:0%
+blown out and if there aren't any high
+spots<00:06:33.220><c> in</c><00:06:33.670><c> your</c><00:06:33.730><c> pipes</c><00:06:34.090><c> there</c><00:06:34.540><c> won't</c><00:06:34.750><c> be</c>
+
+00:06:34.800 --> 00:06:34.810 align:start position:0%
+spots in your pipes there won't be
+ 
+
+00:06:34.810 --> 00:06:36.330 align:start position:0%
+spots in your pipes there won't be
+anywhere<00:06:35.230><c> for</c><00:06:35.500><c> it</c><00:06:35.560><c> to</c><00:06:35.650><c> be</c><00:06:35.770><c> trapped</c><00:06:36.070><c> in</c><00:06:36.220><c> the</c>
+
+00:06:36.330 --> 00:06:36.340 align:start position:0%
+anywhere for it to be trapped in the
+ 
+
+00:06:36.340 --> 00:06:38.670 align:start position:0%
+anywhere for it to be trapped in the
+first<00:06:36.550><c> place</c><00:06:36.840><c> again</c><00:06:37.840><c> that's</c><00:06:38.110><c> not</c><00:06:38.320><c> always</c>
+
+00:06:38.670 --> 00:06:38.680 align:start position:0%
+first place again that's not always
+ 
+
+00:06:38.680 --> 00:06:40.950 align:start position:0%
+first place again that's not always
+feasible<00:06:38.970><c> consider</c><00:06:39.970><c> a</c><00:06:40.030><c> pipeline</c><00:06:40.510><c> moving</c>
+
+00:06:40.950 --> 00:06:40.960 align:start position:0%
+feasible consider a pipeline moving
+ 
+
+00:06:40.960 --> 00:06:42.840 align:start position:0%
+feasible consider a pipeline moving
+water<00:06:41.170><c> from</c><00:06:41.500><c> one</c><00:06:41.740><c> end</c><00:06:41.950><c> of</c><00:06:42.070><c> a</c><00:06:42.130><c> hill</c><00:06:42.340><c> to</c><00:06:42.550><c> another</c>
+
+00:06:42.840 --> 00:06:42.850 align:start position:0%
+water from one end of a hill to another
+ 
+
+00:06:42.850 --> 00:06:45.300 align:start position:0%
+water from one end of a hill to another
+drawing<00:06:43.690><c> a</c><00:06:43.840><c> straight</c><00:06:44.110><c> line</c><00:06:44.320><c> between</c><00:06:44.560><c> points</c><00:06:45.190><c> a</c>
+
+00:06:45.300 --> 00:06:45.310 align:start position:0%
+drawing a straight line between points a
+ 
+
+00:06:45.310 --> 00:06:47.970 align:start position:0%
+drawing a straight line between points a
+and<00:06:45.490><c> B</c><00:06:45.670><c> is</c><00:06:45.850><c> easy</c><00:06:46.210><c> but</c><00:06:46.810><c> digging</c><00:06:47.320><c> a</c><00:06:47.410><c> trench</c><00:06:47.620><c> this</c>
+
+00:06:47.970 --> 00:06:47.980 align:start position:0%
+and B is easy but digging a trench this
+ 
+
+00:06:47.980 --> 00:06:50.040 align:start position:0%
+and B is easy but digging a trench this
+deep<00:06:48.220><c> to</c><00:06:48.430><c> install</c><00:06:48.790><c> the</c><00:06:48.940><c> pipe</c><00:06:49.180><c> or</c><00:06:49.690><c> worse</c>
+
+00:06:50.040 --> 00:06:50.050 align:start position:0%
+deep to install the pipe or worse
+ 
+
+00:06:50.050 --> 00:06:52.020 align:start position:0%
+deep to install the pipe or worse
+tunneling<00:06:50.800><c> it</c><00:06:50.980><c> is</c><00:06:51.130><c> not</c><00:06:51.490><c> an</c><00:06:51.700><c> inexpensive</c>
+
+00:06:52.020 --> 00:06:52.030 align:start position:0%
+tunneling it is not an inexpensive
+ 
+
+00:06:52.030 --> 00:06:55.140 align:start position:0%
+tunneling it is not an inexpensive
+endeavor<00:06:53.070><c> the</c><00:06:54.070><c> other</c><00:06:54.190><c> option</c><00:06:54.580><c> is</c><00:06:54.700><c> to</c><00:06:54.760><c> bleed</c>
+
+00:06:55.140 --> 00:06:55.150 align:start position:0%
+endeavor the other option is to bleed
+ 
+
+00:06:55.150 --> 00:06:57.420 align:start position:0%
+endeavor the other option is to bleed
+the<00:06:55.360><c> gas</c><00:06:55.510><c> through</c><00:06:55.870><c> a</c><00:06:55.900><c> valve</c><00:06:56.200><c> pretty</c><00:06:56.890><c> simple</c><00:06:57.280><c> in</c>
+
+00:06:57.420 --> 00:06:57.430 align:start position:0%
+the gas through a valve pretty simple in
+ 
+
+00:06:57.430 --> 00:06:59.580 align:start position:0%
+the gas through a valve pretty simple in
+some<00:06:57.700><c> cases</c><00:06:57.940><c> but</c><00:06:58.300><c> not</c><00:06:58.360><c> necessarily</c><00:06:59.320><c> in</c><00:06:59.440><c> all</c>
+
+00:06:59.580 --> 00:06:59.590 align:start position:0%
+some cases but not necessarily in all
+ 
+
+00:06:59.590 --> 00:07:01.410 align:start position:0%
+some cases but not necessarily in all
+cases<00:06:59.860><c> cities</c><00:07:00.670><c> don't</c><00:07:00.850><c> want</c><00:07:00.970><c> to</c><00:07:01.060><c> send</c><00:07:01.300><c> out</c>
+
+00:07:01.410 --> 00:07:01.420 align:start position:0%
+cases cities don't want to send out
+ 
+
+00:07:01.420 --> 00:07:03.210 align:start position:0%
+cases cities don't want to send out
+technicians<00:07:02.110><c> to</c><00:07:02.350><c> bleed</c><00:07:02.650><c> the</c><00:07:02.830><c> air</c><00:07:02.860><c> out</c><00:07:03.190><c> of</c>
+
+00:07:03.210 --> 00:07:03.220 align:start position:0%
+technicians to bleed the air out of
+ 
+
+00:07:03.220 --> 00:07:05.700 align:start position:0%
+technicians to bleed the air out of
+pipelines<00:07:03.730><c> every</c><00:07:04.060><c> day</c><00:07:04.210><c> so</c><00:07:04.960><c> many</c><00:07:05.230><c> pipelines</c>
+
+00:07:05.700 --> 00:07:05.710 align:start position:0%
+pipelines every day so many pipelines
+ 
+
+00:07:05.710 --> 00:07:08.010 align:start position:0%
+pipelines every day so many pipelines
+are<00:07:05.920><c> equipped</c><00:07:06.340><c> with</c><00:07:06.640><c> automatic</c><00:07:07.270><c> air</c><00:07:07.660><c> release</c>
+
+00:07:08.010 --> 00:07:08.020 align:start position:0%
+are equipped with automatic air release
+ 
+
+00:07:08.020 --> 00:07:10.650 align:start position:0%
+are equipped with automatic air release
+valves<00:07:08.470><c> these</c><00:07:09.220><c> are</c><00:07:09.460><c> a</c><00:07:09.490><c> simple</c><00:07:10.120><c> but</c><00:07:10.150><c> clever</c>
+
+00:07:10.650 --> 00:07:10.660 align:start position:0%
+valves these are a simple but clever
+ 
+
+00:07:10.660 --> 00:07:12.690 align:start position:0%
+valves these are a simple but clever
+solution<00:07:11.320><c> for</c><00:07:11.530><c> releasing</c><00:07:11.890><c> air</c><00:07:12.220><c> from</c><00:07:12.400><c> the</c><00:07:12.520><c> high</c>
+
+00:07:12.690 --> 00:07:12.700 align:start position:0%
+solution for releasing air from the high
+ 
+
+00:07:12.700 --> 00:07:15.030 align:start position:0%
+solution for releasing air from the high
+points<00:07:13.090><c> without</c><00:07:13.420><c> any</c><00:07:13.960><c> human</c><00:07:14.200><c> intervention</c>
+
+00:07:15.030 --> 00:07:15.040 align:start position:0%
+points without any human intervention
+ 
+
+00:07:15.040 --> 00:07:17.760 align:start position:0%
+points without any human intervention
+I<00:07:15.210><c> built</c><00:07:16.210><c> an</c><00:07:16.360><c> example</c><00:07:16.780><c> of</c><00:07:16.870><c> this</c><00:07:16.990><c> by</c><00:07:17.230><c> gluing</c><00:07:17.680><c> the</c>
+
+00:07:17.760 --> 00:07:17.770 align:start position:0%
+I built an example of this by gluing the
+ 
+
+00:07:17.770 --> 00:07:20.070 align:start position:0%
+I built an example of this by gluing the
+float<00:07:18.010><c> to</c><00:07:18.250><c> a</c><00:07:18.280><c> check</c><00:07:18.550><c> valve</c><00:07:18.690><c> when</c><00:07:19.690><c> there's</c><00:07:19.900><c> no</c>
+
+00:07:20.070 --> 00:07:20.080 align:start position:0%
+float to a check valve when there's no
+ 
+
+00:07:20.080 --> 00:07:22.020 align:start position:0%
+float to a check valve when there's no
+air<00:07:20.260><c> in</c><00:07:20.290><c> the</c><00:07:20.470><c> pipe</c><00:07:20.680><c> the</c><00:07:21.010><c> float</c><00:07:21.250><c> holds</c><00:07:21.730><c> the</c>
+
+00:07:22.020 --> 00:07:22.030 align:start position:0%
+air in the pipe the float holds the
+ 
+
+00:07:22.030 --> 00:07:24.840 align:start position:0%
+air in the pipe the float holds the
+clothes<00:07:22.590><c> but</c><00:07:23.590><c> when</c><00:07:23.740><c> a</c><00:07:23.800><c> big</c><00:07:24.010><c> enough</c><00:07:24.220><c> air</c><00:07:24.490><c> bubble</c>
+
+00:07:24.840 --> 00:07:24.850 align:start position:0%
+clothes but when a big enough air bubble
+ 
+
+00:07:24.850 --> 00:07:26.730 align:start position:0%
+clothes but when a big enough air bubble
+grows<00:07:25.150><c> in</c><00:07:25.330><c> the</c><00:07:25.420><c> pipe</c><00:07:25.630><c> the</c><00:07:25.930><c> float</c><00:07:26.200><c> acts</c><00:07:26.500><c> like</c><00:07:26.710><c> a</c>
+
+00:07:26.730 --> 00:07:26.740 align:start position:0%
+grows in the pipe the float acts like a
+ 
+
+00:07:26.740 --> 00:07:29.070 align:start position:0%
+grows in the pipe the float acts like a
+weight<00:07:27.010><c> and</c><00:07:27.280><c> pulls</c><00:07:27.670><c> the</c><00:07:27.850><c> valve</c><00:07:28.030><c> open</c><00:07:28.450><c> venting</c>
+
+00:07:29.070 --> 00:07:29.080 align:start position:0%
+weight and pulls the valve open venting
+ 
+
+00:07:29.080 --> 00:07:30.260 align:start position:0%
+weight and pulls the valve open venting
+the<00:07:29.260><c> air</c><00:07:29.350><c> from</c><00:07:29.560><c> the</c><00:07:29.680><c> pipe</c>
+
+00:07:30.260 --> 00:07:30.270 align:start position:0%
+the air from the pipe
+ 
+
+00:07:30.270 --> 00:07:32.760 align:start position:0%
+the air from the pipe
+keep<00:07:31.270><c> an</c><00:07:31.420><c> eye</c><00:07:31.540><c> out</c><00:07:31.570><c> for</c><00:07:31.690><c> these</c><00:07:31.960><c> type</c><00:07:32.260><c> of</c><00:07:32.290><c> valves</c>
+
+00:07:32.760 --> 00:07:32.770 align:start position:0%
+keep an eye out for these type of valves
+ 
+
+00:07:32.770 --> 00:07:34.350 align:start position:0%
+keep an eye out for these type of valves
+when<00:07:32.950><c> you're</c><00:07:33.070><c> perusing</c><00:07:33.340><c> the</c><00:07:33.820><c> constructed</c>
+
+00:07:34.350 --> 00:07:34.360 align:start position:0%
+when you're perusing the constructed
+ 
+
+00:07:34.360 --> 00:07:35.940 align:start position:0%
+when you're perusing the constructed
+environment<00:07:34.900><c> and</c><00:07:35.080><c> now</c><00:07:35.320><c> you'll</c><00:07:35.500><c> know</c><00:07:35.680><c> how</c><00:07:35.800><c> they</c>
+
+00:07:35.940 --> 00:07:35.950 align:start position:0%
+environment and now you'll know how they
+ 
+
+00:07:35.950 --> 00:07:39.210 align:start position:0%
+environment and now you'll know how they
+work<00:07:36.130><c> the</c><00:07:36.870><c> job</c><00:07:37.870><c> of</c><00:07:38.080><c> an</c><00:07:38.170><c> engineer</c><00:07:38.590><c> is</c><00:07:38.800><c> to</c><00:07:38.980><c> take</c>
+
+00:07:39.210 --> 00:07:39.220 align:start position:0%
+work the job of an engineer is to take
+ 
+
+00:07:39.220 --> 00:07:40.860 align:start position:0%
+work the job of an engineer is to take
+the<00:07:39.370><c> signs</c><00:07:39.640><c> and</c><00:07:39.880><c> knowledge</c><00:07:40.240><c> we</c><00:07:40.390><c> have</c><00:07:40.630><c> and</c>
+
+00:07:40.860 --> 00:07:40.870 align:start position:0%
+the signs and knowledge we have and
+ 
+
+00:07:40.870 --> 00:07:43.440 align:start position:0%
+the signs and knowledge we have and
+apply<00:07:41.260><c> that</c><00:07:41.290><c> to</c><00:07:41.710><c> design</c><00:07:42.100><c> completely</c><00:07:42.580><c> new</c><00:07:43.150><c> and</c>
+
+00:07:43.440 --> 00:07:43.450 align:start position:0%
+apply that to design completely new and
+ 
+
+00:07:43.450 --> 00:07:46.170 align:start position:0%
+apply that to design completely new and
+sometimes<00:07:43.930><c> untested</c><00:07:44.680><c> systems</c><00:07:45.130><c> it</c><00:07:45.850><c> almost</c>
+
+00:07:46.170 --> 00:07:46.180 align:start position:0%
+sometimes untested systems it almost
+ 
+
+00:07:46.180 --> 00:07:48.150 align:start position:0%
+sometimes untested systems it almost
+always<00:07:46.450><c> involves</c><00:07:46.960><c> making</c><00:07:47.380><c> assumptions</c><00:07:47.920><c> and</c>
+
+00:07:48.150 --> 00:07:48.160 align:start position:0%
+always involves making assumptions and
+ 
+
+00:07:48.160 --> 00:07:50.370 align:start position:0%
+always involves making assumptions and
+if<00:07:48.580><c> you</c><00:07:48.700><c> make</c><00:07:48.880><c> bad</c><00:07:49.120><c> assumptions</c><00:07:49.720><c> you</c><00:07:49.990><c> get</c><00:07:50.170><c> bad</c>
+
+00:07:50.370 --> 00:07:50.380 align:start position:0%
+if you make bad assumptions you get bad
+ 
+
+00:07:50.380 --> 00:07:52.640 align:start position:0%
+if you make bad assumptions you get bad
+answers<00:07:50.800><c> and</c><00:07:51.070><c> ultimately</c><00:07:51.640><c> bad</c><00:07:51.970><c> designs</c>
+
+00:07:52.640 --> 00:07:52.650 align:start position:0%
+answers and ultimately bad designs
+ 
+
+00:07:52.650 --> 00:07:55.170 align:start position:0%
+answers and ultimately bad designs
+that's<00:07:53.650><c> certainly</c><00:07:53.980><c> true</c><00:07:54.070><c> for</c><00:07:54.280><c> airlock</c><00:07:54.880><c> where</c>
+
+00:07:55.170 --> 00:07:55.180 align:start position:0%
+that's certainly true for airlock where
+ 
+
+00:07:55.180 --> 00:07:57.330 align:start position:0%
+that's certainly true for airlock where
+if<00:07:55.450><c> you</c><00:07:55.720><c> assume</c><00:07:56.050><c> that</c><00:07:56.080><c> gases</c><00:07:56.680><c> don't</c><00:07:56.950><c> get</c><00:07:57.100><c> into</c>
+
+00:07:57.330 --> 00:07:57.340 align:start position:0%
+if you assume that gases don't get into
+ 
+
+00:07:57.340 --> 00:07:59.190 align:start position:0%
+if you assume that gases don't get into
+pipes<00:07:57.580><c> or</c><00:07:57.880><c> that</c><00:07:58.120><c> they</c><00:07:58.300><c> can't</c><00:07:58.630><c> constrict</c><00:07:59.080><c> the</c>
+
+00:07:59.190 --> 00:07:59.200 align:start position:0%
+pipes or that they can't constrict the
+ 
+
+00:07:59.200 --> 00:08:01.200 align:start position:0%
+pipes or that they can't constrict the
+flow<00:07:59.230><c> you</c><00:08:00.070><c> might</c><00:08:00.250><c> design</c><00:08:00.520><c> a</c><00:08:00.550><c> pipeline</c><00:08:01.030><c> that</c>
+
+00:08:01.200 --> 00:08:01.210 align:start position:0%
+flow you might design a pipeline that
+ 
+
+00:08:01.210 --> 00:08:03.480 align:start position:0%
+flow you might design a pipeline that
+doesn't<00:08:01.510><c> work</c><00:08:01.690><c> luckily</c><00:08:02.470><c> for</c><00:08:02.650><c> engineers</c><00:08:03.220><c> this</c>
+
+00:08:03.480 --> 00:08:03.490 align:start position:0%
+doesn't work luckily for engineers this
+ 
+
+00:08:03.490 --> 00:08:05.310 align:start position:0%
+doesn't work luckily for engineers this
+is<00:08:03.730><c> a</c><00:08:03.760><c> well-known</c><00:08:04.360><c> phenomenon</c><00:08:04.600><c> in</c><00:08:05.140><c> pipe</c>
+
+00:08:05.310 --> 00:08:05.320 align:start position:0%
+is a well-known phenomenon in pipe
+ 
+
+00:08:05.320 --> 00:08:07.050 align:start position:0%
+is a well-known phenomenon in pipe
+systems<00:08:05.770><c> it's</c><00:08:06.340><c> just</c><00:08:06.550><c> one</c><00:08:06.700><c> of</c><00:08:06.730><c> the</c><00:08:06.910><c> many</c>
+
+00:08:07.050 --> 00:08:07.060 align:start position:0%
+systems it's just one of the many
+ 
+
+00:08:07.060 --> 00:08:08.850 align:start position:0%
+systems it's just one of the many
+complexities<00:08:07.450><c> that</c><00:08:07.780><c> come</c><00:08:08.140><c> with</c><00:08:08.290><c> the</c><00:08:08.410><c> job</c><00:08:08.440><c> and</c>
+
+00:08:08.850 --> 00:08:08.860 align:start position:0%
+complexities that come with the job and
+ 
+
+00:08:08.860 --> 00:08:10.920 align:start position:0%
+complexities that come with the job and
+we've<00:08:09.370><c> developed</c><00:08:09.880><c> a</c><00:08:10.000><c> lot</c><00:08:10.180><c> of</c><00:08:10.300><c> creative</c><00:08:10.660><c> ways</c>
+
+00:08:10.920 --> 00:08:10.930 align:start position:0%
+we've developed a lot of creative ways
+ 
+
+00:08:10.930 --> 00:08:13.310 align:start position:0%
+we've developed a lot of creative ways
+to<00:08:10.960><c> overcome</c><00:08:11.770><c> it</c>
+
+00:08:13.310 --> 00:08:13.320 align:start position:0%
+to overcome it
+ 
+
+00:08:13.320 --> 00:08:15.510 align:start position:0%
+to overcome it
+thanks<00:08:14.320><c> to</c><00:08:14.440><c> hello</c><00:08:14.590><c> fresh</c><00:08:14.860><c> for</c><00:08:15.100><c> supporting</c>
+
+00:08:15.510 --> 00:08:15.520 align:start position:0%
+thanks to hello fresh for supporting
+ 
+
+00:08:15.520 --> 00:08:17.490 align:start position:0%
+thanks to hello fresh for supporting
+practical<00:08:15.970><c> engineering</c><00:08:16.090><c> this</c><00:08:16.900><c> is</c><00:08:16.960><c> not</c><00:08:17.470><c> a</c>
+
+00:08:17.490 --> 00:08:17.500 align:start position:0%
+practical engineering this is not a
+ 
+
+00:08:17.500 --> 00:08:19.320 align:start position:0%
+practical engineering this is not a
+cooking<00:08:18.070><c> channel</c><00:08:18.280><c> and</c><00:08:18.610><c> I'm</c><00:08:18.760><c> an</c><00:08:18.940><c> engineer</c><00:08:19.300><c> not</c>
+
+00:08:19.320 --> 00:08:19.330 align:start position:0%
+cooking channel and I'm an engineer not
+ 
+
+00:08:19.330 --> 00:08:21.510 align:start position:0%
+cooking channel and I'm an engineer not
+a<00:08:19.540><c> chef</c><00:08:19.900><c> but</c><00:08:20.140><c> one</c><00:08:20.770><c> of</c><00:08:20.800><c> my</c><00:08:20.950><c> wife's</c><00:08:21.250><c> and</c><00:08:21.490><c> my</c>
+
+00:08:21.510 --> 00:08:21.520 align:start position:0%
+a chef but one of my wife's and my
+ 
+
+00:08:21.520 --> 00:08:23.190 align:start position:0%
+a chef but one of my wife's and my
+favorite<00:08:22.030><c> thing</c><00:08:22.060><c> to</c><00:08:22.240><c> do</c><00:08:22.450><c> is</c><00:08:22.660><c> spend</c><00:08:23.020><c> time</c>
+
+00:08:23.190 --> 00:08:23.200 align:start position:0%
+favorite thing to do is spend time
+ 
+
+00:08:23.200 --> 00:08:27.780 align:start position:0%
+favorite thing to do is spend time
+together<00:08:23.410><c> in</c><00:08:23.650><c> the</c><00:08:23.770><c> kitchen</c><00:08:26.460><c> hello</c><00:08:27.460><c> fresh</c>
+
+00:08:27.780 --> 00:08:27.790 align:start position:0%
+together in the kitchen hello fresh
+ 
+
+00:08:27.790 --> 00:08:29.400 align:start position:0%
+together in the kitchen hello fresh
+delivers<00:08:28.240><c> seasonal</c><00:08:28.690><c> recipes</c><00:08:29.200><c> and</c>
+
+00:08:29.400 --> 00:08:29.410 align:start position:0%
+delivers seasonal recipes and
+ 
+
+00:08:29.410 --> 00:08:31.350 align:start position:0%
+delivers seasonal recipes and
+pre-measured<00:08:30.220><c> ingredients</c><00:08:30.820><c> right</c><00:08:31.060><c> to</c><00:08:31.240><c> your</c>
+
+00:08:31.350 --> 00:08:31.360 align:start position:0%
+pre-measured ingredients right to your
+ 
+
+00:08:31.360 --> 00:08:33.150 align:start position:0%
+pre-measured ingredients right to your
+door<00:08:31.600><c> it</c><00:08:31.840><c> turns</c><00:08:32.110><c> the</c><00:08:32.350><c> chore</c><00:08:32.590><c> making</c><00:08:32.980><c> dinner</c>
+
+00:08:33.150 --> 00:08:33.160 align:start position:0%
+door it turns the chore making dinner
+ 
+
+00:08:33.160 --> 00:08:34.710 align:start position:0%
+door it turns the chore making dinner
+into<00:08:33.520><c> something</c><00:08:33.880><c> that</c><00:08:33.910><c> we</c><00:08:34.120><c> look</c><00:08:34.330><c> forward</c><00:08:34.630><c> to</c>
+
+00:08:34.710 --> 00:08:34.720 align:start position:0%
+into something that we look forward to
+ 
+
+00:08:34.720 --> 00:08:36.990 align:start position:0%
+into something that we look forward to
+all<00:08:34.840><c> day</c><00:08:35.020><c> oh</c><00:08:35.470><c> my</c><00:08:35.770><c> gosh</c><00:08:35.980><c> it's</c><00:08:36.460><c> like</c><00:08:36.520><c> somebody's</c>
+
+00:08:36.990 --> 00:08:37.000 align:start position:0%
+all day oh my gosh it's like somebody's
+ 
+
+00:08:37.000 --> 00:08:41.450 align:start position:0%
+all day oh my gosh it's like somebody's
+been<00:08:37.180><c> stirring</c><00:08:37.570><c> in</c><00:08:37.840><c> that</c><00:08:37.870><c> pot</c><00:08:38.260><c> with</c><00:08:38.470><c> a</c><00:08:38.500><c> fork</c>
+
+00:08:41.450 --> 00:08:41.460 align:start position:0%
+ 
+ 
+
+00:08:41.460 --> 00:08:44.010 align:start position:0%
+ 
+the<00:08:42.460><c> pre-portion</c><00:08:43.300><c> ingredients</c><00:08:43.840><c> means</c>
+
+00:08:44.010 --> 00:08:44.020 align:start position:0%
+the pre-portion ingredients means
+ 
+
+00:08:44.020 --> 00:08:46.350 align:start position:0%
+the pre-portion ingredients means
+there's<00:08:44.290><c> less</c><00:08:44.380><c> prep</c><00:08:44.890><c> and</c><00:08:45.130><c> less</c><00:08:45.490><c> food</c><00:08:45.820><c> waste</c><00:08:45.850><c> I</c>
+
+00:08:46.350 --> 00:08:46.360 align:start position:0%
+there's less prep and less food waste I
+ 
+
+00:08:46.360 --> 00:08:48.360 align:start position:0%
+there's less prep and less food waste I
+want<00:08:47.110><c> you</c><00:08:47.230><c> to</c><00:08:47.320><c> do</c><00:08:47.470><c> mine</c><00:08:47.680><c> in</c><00:08:47.830><c> the</c><00:08:47.920><c> shape</c><00:08:48.130><c> of</c><00:08:48.280><c> a</c>
+
+00:08:48.360 --> 00:08:48.370 align:start position:0%
+want you to do mine in the shape of a
+ 
+
+00:08:48.370 --> 00:08:51.630 align:start position:0%
+want you to do mine in the shape of a
+heart<00:08:48.580><c> and</c><00:08:49.470><c> our</c><00:08:50.470><c> favorite</c><00:08:50.860><c> part</c><00:08:51.100><c> is</c><00:08:51.280><c> that</c><00:08:51.460><c> the</c>
+
+00:08:51.630 --> 00:08:51.640 align:start position:0%
+heart and our favorite part is that the
+ 
+
+00:08:51.640 --> 00:08:53.040 align:start position:0%
+heart and our favorite part is that the
+recipes<00:08:52.120><c> are</c><00:08:52.330><c> things</c><00:08:52.600><c> that</c><00:08:52.690><c> we</c><00:08:52.870><c> either</c>
+
+00:08:53.040 --> 00:08:53.050 align:start position:0%
+recipes are things that we either
+ 
+
+00:08:53.050 --> 00:08:54.840 align:start position:0%
+recipes are things that we either
+haven't<00:08:53.560><c> tried</c><00:08:53.770><c> before</c><00:08:54.100><c> or</c><00:08:54.130><c> wouldn't</c><00:08:54.760><c> have</c>
+
+00:08:54.840 --> 00:08:54.850 align:start position:0%
+haven't tried before or wouldn't have
+ 
+
+00:08:54.850 --> 00:09:00.360 align:start position:0%
+haven't tried before or wouldn't have
+chosen<00:08:55.150><c> on</c><00:08:55.450><c> a</c><00:08:55.480><c> normal</c><00:08:55.780><c> meal</c><00:08:56.080><c> plan</c><00:08:59.190><c> things</c><00:09:00.190><c> are</c>
+
+00:09:00.360 --> 00:09:00.370 align:start position:0%
+chosen on a normal meal plan things are
+ 
+
+00:09:00.370 --> 00:09:02.370 align:start position:0%
+chosen on a normal meal plan things are
+getting<00:09:00.640><c> here</c><00:09:00.940><c> if</c><00:09:01.630><c> that</c><00:09:01.690><c> sounds</c><00:09:02.350><c> like</c>
+
+00:09:02.370 --> 00:09:02.380 align:start position:0%
+getting here if that sounds like
+ 
+
+00:09:02.380 --> 00:09:03.810 align:start position:0%
+getting here if that sounds like
+something<00:09:02.770><c> you'd</c><00:09:02.920><c> like</c><00:09:03.070><c> to</c><00:09:03.130><c> try</c><00:09:03.460><c> hellofresh</c>
+
+00:09:03.810 --> 00:09:03.820 align:start position:0%
+something you'd like to try hellofresh
+ 
+
+00:09:03.820 --> 00:09:06.120 align:start position:0%
+something you'd like to try hellofresh
+is<00:09:04.210><c> offering</c><00:09:04.630><c> a</c><00:09:04.750><c> special</c><00:09:05.050><c> discount</c><00:09:05.650><c> to</c><00:09:05.800><c> fans</c>
+
+00:09:06.120 --> 00:09:06.130 align:start position:0%
+is offering a special discount to fans
+ 
+
+00:09:06.130 --> 00:09:08.370 align:start position:0%
+is offering a special discount to fans
+of<00:09:06.280><c> the</c><00:09:06.340><c> channel</c><00:09:06.730><c> visit</c><00:09:07.060><c> hellofresh</c><00:09:07.510><c> calm</c><00:09:08.140><c> and</c>
+
+00:09:08.370 --> 00:09:08.380 align:start position:0%
+of the channel visit hellofresh calm and
+ 
+
+00:09:08.380 --> 00:09:11.040 align:start position:0%
+of the channel visit hellofresh calm and
+use<00:09:08.710><c> code</c><00:09:08.950><c> practical</c><00:09:09.580><c> 10</c><00:09:09.820><c> a</c><00:09:09.850><c> check</c><00:09:10.270><c> out</c><00:09:10.390><c> for</c><00:09:10.600><c> 10</c>
+
+00:09:11.040 --> 00:09:11.050 align:start position:0%
+use code practical 10 a check out for 10
+ 
+
+00:09:11.050 --> 00:09:15.150 align:start position:0%
+use code practical 10 a check out for 10
+free<00:09:11.320><c> meals</c><00:09:11.590><c> including</c><00:09:12.460><c> free</c><00:09:12.610><c> shipping</c><00:09:14.160><c> yeah</c>
+
+00:09:15.150 --> 00:09:15.160 align:start position:0%
+free meals including free shipping yeah
+ 
+
+00:09:15.160 --> 00:09:17.970 align:start position:0%
+free meals including free shipping yeah
+pour<00:09:15.550><c> it</c><00:09:15.640><c> really</c><00:09:15.880><c> slow</c><00:09:16.300><c> and</c><00:09:17.290><c> seriously</c><00:09:17.710><c> if</c><00:09:17.950><c> you</c>
+
+00:09:17.970 --> 00:09:17.980 align:start position:0%
+pour it really slow and seriously if you
+ 
+
+00:09:17.980 --> 00:09:20.130 align:start position:0%
+pour it really slow and seriously if you
+sign<00:09:18.310><c> up</c><00:09:18.340><c> try</c><00:09:18.670><c> to</c><00:09:18.700><c> get</c><00:09:18.880><c> this</c><00:09:19.060><c> bibimbap</c><00:09:19.630><c> recipe</c>
+
+00:09:20.130 --> 00:09:20.140 align:start position:0%
+sign up try to get this bibimbap recipe
+ 
+
+00:09:20.140 --> 00:09:22.050 align:start position:0%
+sign up try to get this bibimbap recipe
+because<00:09:20.350><c> it</c><00:09:20.680><c> is</c><00:09:20.890><c> one</c><00:09:21.190><c> of</c><00:09:21.280><c> the</c><00:09:21.430><c> best</c><00:09:21.640><c> meals</c><00:09:21.880><c> that</c>
+
+00:09:22.050 --> 00:09:22.060 align:start position:0%
+because it is one of the best meals that
+ 
+
+00:09:22.060 --> 00:09:23.670 align:start position:0%
+because it is one of the best meals that
+has<00:09:22.210><c> ever</c><00:09:22.450><c> come</c><00:09:22.780><c> out</c><00:09:22.870><c> of</c><00:09:23.020><c> this</c><00:09:23.140><c> kitchen</c><00:09:23.320><c> oh</c>
+
+00:09:23.670 --> 00:09:23.680 align:start position:0%
+has ever come out of this kitchen oh
+ 
+
+00:09:23.680 --> 00:09:24.840 align:start position:0%
+has ever come out of this kitchen oh
+they're<00:09:24.160><c> so</c><00:09:24.370><c> pretty</c>
+
+00:09:24.840 --> 00:09:24.850 align:start position:0%
+they're so pretty
+ 
+
+00:09:24.850 --> 00:09:27.090 align:start position:0%
+they're so pretty
+again<00:09:25.390><c> that's</c><00:09:25.600><c> hellofresh</c><00:09:25.990><c> calm</c><00:09:26.590><c> and</c><00:09:26.830><c> use</c>
+
+00:09:27.090 --> 00:09:27.100 align:start position:0%
+again that's hellofresh calm and use
+ 
+
+00:09:27.100 --> 00:09:29.250 align:start position:0%
+again that's hellofresh calm and use
+code<00:09:27.400><c> practical</c><00:09:28.000><c> ten</c><00:09:28.210><c> thank</c><00:09:28.810><c> you</c><00:09:29.020><c> for</c>
+
+00:09:29.250 --> 00:09:29.260 align:start position:0%
+code practical ten thank you for
+ 
+
+00:09:29.260 --> 00:09:34.740 align:start position:0%
+code practical ten thank you for
+watching<00:09:29.620><c> and</c><00:09:29.800><c> let</c><00:09:30.010><c> me</c><00:09:30.100><c> know</c><00:09:30.190><c> what</c><00:09:30.310><c> you</c><00:09:30.430><c> think</c>
+
+00:09:34.740 --> 00:09:34.750 align:start position:0%
+ 
+ 
+
+00:09:34.750 --> 00:09:40.400 align:start position:0%
+ 
+[Music]
+

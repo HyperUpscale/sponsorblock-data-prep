@@ -1,0 +1,2512 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.070 --> 00:00:03.530 align:start position:0%
+ 
+until<00:00:02.070><c> today</c><00:00:02.280><c> announced</c><00:00:02.790><c> its</c><00:00:02.970><c> DG</c><00:00:03.419><c> one</c>
+
+00:00:03.530 --> 00:00:03.540 align:start position:0%
+until today announced its DG one
+ 
+
+00:00:03.540 --> 00:00:05.390 align:start position:0%
+until today announced its DG one
+graphics<00:00:04.020><c> card</c><00:00:04.290><c> for</c><00:00:04.500><c> software</c><00:00:04.920><c> developers</c>
+
+00:00:05.390 --> 00:00:05.400 align:start position:0%
+graphics card for software developers
+ 
+
+00:00:05.400 --> 00:00:10.040 align:start position:0%
+graphics card for software developers
+which<00:00:06.000><c> is</c><00:00:06.210><c> a</c><00:00:06.680><c> laptop</c><00:00:07.680><c> XE</c><00:00:08.400><c> GPU</c><00:00:09.000><c> except</c><00:00:09.870><c> it's</c>
+
+00:00:10.040 --> 00:00:10.050 align:start position:0%
+which is a laptop XE GPU except it's
+ 
+
+00:00:10.050 --> 00:00:12.589 align:start position:0%
+which is a laptop XE GPU except it's
+strapped<00:00:10.410><c> to</c><00:00:10.679><c> a</c><00:00:10.710><c> PCIe</c><00:00:11.400><c> add-in</c><00:00:12.120><c> card</c><00:00:12.360><c> for</c>
+
+00:00:12.589 --> 00:00:12.599 align:start position:0%
+strapped to a PCIe add-in card for
+ 
+
+00:00:12.599 --> 00:00:13.190 align:start position:0%
+strapped to a PCIe add-in card for
+developers
+
+00:00:13.190 --> 00:00:13.200 align:start position:0%
+developers
+ 
+
+00:00:13.200 --> 00:00:14.930 align:start position:0%
+developers
+although<00:00:13.679><c> Intel</c><00:00:14.040><c> didn't</c><00:00:14.309><c> officially</c><00:00:14.549><c> allow</c>
+
+00:00:14.930 --> 00:00:14.940 align:start position:0%
+although Intel didn't officially allow
+ 
+
+00:00:14.940 --> 00:00:16.939 align:start position:0%
+although Intel didn't officially allow
+benchmarking<00:00:15.599><c> of</c><00:00:15.780><c> its</c><00:00:15.929><c> new</c><00:00:16.080><c> DG</c><00:00:16.379><c> 1</c><00:00:16.500><c> graphics</c>
+
+00:00:16.939 --> 00:00:16.949 align:start position:0%
+benchmarking of its new DG 1 graphics
+ 
+
+00:00:16.949 --> 00:00:19.849 align:start position:0%
+benchmarking of its new DG 1 graphics
+implementation<00:00:17.580><c> at</c><00:00:17.699><c> CES</c><00:00:18.029><c> we</c><00:00:18.810><c> were</c><00:00:19.320><c> able</c><00:00:19.500><c> to</c><00:00:19.680><c> do</c>
+
+00:00:19.849 --> 00:00:19.859 align:start position:0%
+implementation at CES we were able to do
+ 
+
+00:00:19.859 --> 00:00:22.040 align:start position:0%
+implementation at CES we were able to do
+some<00:00:20.100><c> framerate</c><00:00:20.340><c> analysis</c><00:00:21.029><c> by</c><00:00:21.510><c> recording</c><00:00:21.990><c> the</c>
+
+00:00:22.040 --> 00:00:22.050 align:start position:0%
+some framerate analysis by recording the
+ 
+
+00:00:22.050 --> 00:00:23.810 align:start position:0%
+some framerate analysis by recording the
+screen<00:00:22.170><c> during</c><00:00:22.740><c> gameplay</c><00:00:23.039><c> with</c><00:00:23.430><c> a</c><00:00:23.460><c> high</c><00:00:23.640><c> FPS</c>
+
+00:00:23.810 --> 00:00:23.820 align:start position:0%
+screen during gameplay with a high FPS
+ 
+
+00:00:23.820 --> 00:00:26.210 align:start position:0%
+screen during gameplay with a high FPS
+camera<00:00:24.480><c> and</c><00:00:24.660><c> then</c><00:00:25.289><c> later</c><00:00:25.650><c> counting</c><00:00:26.130><c> the</c>
+
+00:00:26.210 --> 00:00:26.220 align:start position:0%
+camera and then later counting the
+ 
+
+00:00:26.220 --> 00:00:28.400 align:start position:0%
+camera and then later counting the
+frames<00:00:26.460><c> in</c><00:00:26.699><c> our</c><00:00:26.820><c> hotel</c><00:00:27.210><c> suite</c><00:00:27.510><c> our</c><00:00:28.050><c> news</c><00:00:28.230><c> today</c>
+
+00:00:28.400 --> 00:00:28.410 align:start position:0%
+frames in our hotel suite our news today
+ 
+
+00:00:28.410 --> 00:00:31.160 align:start position:0%
+frames in our hotel suite our news today
+we'll<00:00:28.650><c> talk</c><00:00:28.830><c> about</c><00:00:28.949><c> the</c><00:00:29.099><c> DG</c><00:00:29.369><c> 1</c><00:00:29.490><c> PCIe</c><00:00:29.939><c> card</c><00:00:30.390><c> XE</c>
+
+00:00:31.160 --> 00:00:31.170 align:start position:0%
+we'll talk about the DG 1 PCIe card XE
+ 
+
+00:00:31.170 --> 00:00:33.319 align:start position:0%
+we'll talk about the DG 1 PCIe card XE
+laptops<00:00:31.679><c> and</c><00:00:31.980><c> briefly</c><00:00:32.399><c> about</c><00:00:32.640><c> a</c><00:00:32.790><c> foldable</c>
+
+00:00:33.319 --> 00:00:33.329 align:start position:0%
+laptops and briefly about a foldable
+ 
+
+00:00:33.329 --> 00:00:35.150 align:start position:0%
+laptops and briefly about a foldable
+screen<00:00:33.750><c> before</c><00:00:34.170><c> that</c><00:00:34.559><c> this</c><00:00:34.739><c> video</c><00:00:34.980><c> is</c><00:00:35.070><c> brought</c>
+
+00:00:35.150 --> 00:00:35.160 align:start position:0%
+screen before that this video is brought
+ 
+
+00:00:35.160 --> 00:00:36.740 align:start position:0%
+screen before that this video is brought
+to<00:00:35.250><c> you</c><00:00:35.399><c> by</c><00:00:35.460><c> Thermal</c><00:00:35.880><c> Grizzlies</c><00:00:36.239><c> conduct</c><00:00:36.660><c> a</c>
+
+00:00:36.740 --> 00:00:36.750 align:start position:0%
+to you by Thermal Grizzlies conduct a
+ 
+
+00:00:36.750 --> 00:00:38.420 align:start position:0%
+to you by Thermal Grizzlies conduct a
+not<00:00:36.899><c> liquid</c><00:00:37.230><c> metal</c><00:00:37.500><c> conductor</c><00:00:38.010><c> nada</c><00:00:38.190><c> is</c><00:00:38.280><c> what</c>
+
+00:00:38.420 --> 00:00:38.430 align:start position:0%
+not liquid metal conductor nada is what
+ 
+
+00:00:38.430 --> 00:00:39.860 align:start position:0%
+not liquid metal conductor nada is what
+we've<00:00:38.550><c> used</c><00:00:38.579><c> in</c><00:00:38.910><c> all</c><00:00:39.120><c> of</c><00:00:39.239><c> our</c><00:00:39.360><c> liquid</c><00:00:39.629><c> metal</c>
+
+00:00:39.860 --> 00:00:39.870 align:start position:0%
+we've used in all of our liquid metal
+ 
+
+00:00:39.870 --> 00:00:41.479 align:start position:0%
+we've used in all of our liquid metal
+and<00:00:39.989><c> dealin</c><00:00:40.260><c> Thermal</c><00:00:40.559><c> tests</c><00:00:40.950><c> capable</c><00:00:41.399><c> of</c>
+
+00:00:41.479 --> 00:00:41.489 align:start position:0%
+and dealin Thermal tests capable of
+ 
+
+00:00:41.489 --> 00:00:43.250 align:start position:0%
+and dealin Thermal tests capable of
+dropping<00:00:41.700><c> TV</c><00:00:42.149><c> thermals</c><00:00:42.480><c> significantly</c><00:00:43.050><c> and</c>
+
+00:00:43.250 --> 00:00:43.260 align:start position:0%
+dropping TV thermals significantly and
+ 
+
+00:00:43.260 --> 00:00:44.690 align:start position:0%
+dropping TV thermals significantly and
+replacing<00:00:43.739><c> the</c><00:00:43.829><c> stock</c><00:00:44.129><c> thermal</c><00:00:44.489><c> interface</c>
+
+00:00:44.690 --> 00:00:44.700 align:start position:0%
+replacing the stock thermal interface
+ 
+
+00:00:44.700 --> 00:00:46.670 align:start position:0%
+replacing the stock thermal interface
+over<00:00:45.329><c> CPU</c><00:00:45.840><c> thermals</c><00:00:46.200><c> don't</c><00:00:46.379><c> just</c><00:00:46.590><c> allow</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+over CPU thermals don't just allow
+ 
+
+00:00:46.680 --> 00:00:48.560 align:start position:0%
+over CPU thermals don't just allow
+better<00:00:46.890><c> over</c><00:00:47.280><c> clocks</c><00:00:47.489><c> but</c><00:00:47.850><c> also</c><00:00:48.000><c> lower</c><00:00:48.360><c> noise</c>
+
+00:00:48.560 --> 00:00:48.570 align:start position:0%
+better over clocks but also lower noise
+ 
+
+00:00:48.570 --> 00:00:50.000 align:start position:0%
+better over clocks but also lower noise
+levels<00:00:48.750><c> because</c><00:00:49.289><c> the</c><00:00:49.410><c> transfer</c><00:00:49.770><c> efficiency</c>
+
+00:00:50.000 --> 00:00:50.010 align:start position:0%
+levels because the transfer efficiency
+ 
+
+00:00:50.010 --> 00:00:52.189 align:start position:0%
+levels because the transfer efficiency
+has<00:00:50.370><c> increased</c><00:00:50.520><c> the</c><00:00:51.300><c> mix</c><00:00:51.510><c> of</c><00:00:51.629><c> gallium</c><00:00:52.050><c> and</c>
+
+00:00:52.189 --> 00:00:52.199 align:start position:0%
+has increased the mix of gallium and
+ 
+
+00:00:52.199 --> 00:00:53.660 align:start position:0%
+has increased the mix of gallium and
+indium<00:00:52.289><c> makes</c><00:00:52.739><c> for</c><00:00:52.949><c> a</c><00:00:52.980><c> thermal</c><00:00:53.460><c> conductivity</c>
+
+00:00:53.660 --> 00:00:53.670 align:start position:0%
+indium makes for a thermal conductivity
+ 
+
+00:00:53.670 --> 00:00:56.450 align:start position:0%
+indium makes for a thermal conductivity
+of<00:00:54.120><c> 73</c><00:00:54.539><c> watts</c><00:00:54.719><c> per</c><00:00:54.870><c> meter</c><00:00:54.989><c> Kelvin</c><00:00:55.460><c> outclassing</c>
+
+00:00:56.450 --> 00:00:56.460 align:start position:0%
+of 73 watts per meter Kelvin outclassing
+ 
+
+00:00:56.460 --> 00:00:58.939 align:start position:0%
+of 73 watts per meter Kelvin outclassing
+traditional<00:00:56.969><c> pastes</c><00:00:57.420><c> significantly</c><00:00:58.320><c> learn</c>
+
+00:00:58.939 --> 00:00:58.949 align:start position:0%
+traditional pastes significantly learn
+ 
+
+00:00:58.949 --> 00:01:00.439 align:start position:0%
+traditional pastes significantly learn
+more<00:00:59.219><c> at</c><00:00:59.430><c> the</c><00:00:59.579><c> link</c><00:00:59.789><c> in</c><00:00:59.940><c> the</c><00:01:00.030><c> description</c>
+
+00:01:00.439 --> 00:01:00.449 align:start position:0%
+more at the link in the description
+ 
+
+00:01:00.449 --> 00:01:00.740 align:start position:0%
+more at the link in the description
+below
+
+00:01:00.740 --> 00:01:00.750 align:start position:0%
+below
+ 
+
+00:01:00.750 --> 00:01:03.229 align:start position:0%
+below
+first<00:01:01.320><c> up</c><00:01:01.530><c> Gordon</c><00:01:01.980><c> from</c><00:01:02.160><c> PC</c><00:01:02.550><c> world</c><00:01:02.730><c> and</c><00:01:02.969><c> I</c><00:01:03.030><c> had</c>
+
+00:01:03.229 --> 00:01:03.239 align:start position:0%
+first up Gordon from PC world and I had
+ 
+
+00:01:03.239 --> 00:01:05.660 align:start position:0%
+first up Gordon from PC world and I had
+a<00:01:03.270><c> bet</c><00:01:03.539><c> on</c><00:01:03.750><c> the</c><00:01:04.199><c> frame</c><00:01:04.500><c> rate</c><00:01:04.680><c> for</c><00:01:04.979><c> the</c><00:01:05.129><c> hands-on</c>
+
+00:01:05.660 --> 00:01:05.670 align:start position:0%
+a bet on the frame rate for the hands-on
+ 
+
+00:01:05.670 --> 00:01:08.030 align:start position:0%
+a bet on the frame rate for the hands-on
+demo<00:01:05.970><c> of</c><00:01:06.210><c> Intel's</c><00:01:06.720><c> XE</c><00:01:07.080><c> graphic</c><00:01:07.500><c> solution</c><00:01:07.619><c> and</c>
+
+00:01:08.030 --> 00:01:08.040 align:start position:0%
+demo of Intel's XE graphic solution and
+ 
+
+00:01:08.040 --> 00:01:11.120 align:start position:0%
+demo of Intel's XE graphic solution and
+it's<00:01:08.159><c> Tiger</c><00:01:08.490><c> leek</c><00:01:08.640><c> laptop</c><00:01:09.119><c> and</c><00:01:09.330><c> I</c><00:01:10.260><c> said</c><00:01:10.920><c> that</c>
+
+00:01:11.120 --> 00:01:11.130 align:start position:0%
+it's Tiger leek laptop and I said that
+ 
+
+00:01:11.130 --> 00:01:13.310 align:start position:0%
+it's Tiger leek laptop and I said that
+destiny<00:01:11.700><c> 2</c><00:01:11.880><c> felt</c><00:01:12.570><c> like</c><00:01:12.689><c> it</c><00:01:12.810><c> was</c><00:01:12.930><c> playing</c><00:01:13.170><c> at</c>
+
+00:01:13.310 --> 00:01:13.320 align:start position:0%
+destiny 2 felt like it was playing at
+ 
+
+00:01:13.320 --> 00:01:17.030 align:start position:0%
+destiny 2 felt like it was playing at
+about<00:01:13.500><c> 37</c><00:01:13.979><c> fps</c><00:01:14.549><c> Gordon</c><00:01:15.540><c> went</c><00:01:16.110><c> with</c><00:01:16.290><c> 35</c><00:01:16.770><c> but</c>
+
+00:01:17.030 --> 00:01:17.040 align:start position:0%
+about 37 fps Gordon went with 35 but
+ 
+
+00:01:17.040 --> 00:01:19.039 align:start position:0%
+about 37 fps Gordon went with 35 but
+then<00:01:17.130><c> he</c><00:01:17.189><c> changed</c><00:01:17.520><c> his</c><00:01:17.610><c> mind</c><00:01:17.640><c> and</c><00:01:18.000><c> went</c><00:01:18.180><c> to</c><00:01:18.299><c> 42</c>
+
+00:01:19.039 --> 00:01:19.049 align:start position:0%
+then he changed his mind and went to 42
+ 
+
+00:01:19.049 --> 00:01:21.560 align:start position:0%
+then he changed his mind and went to 42
+fps<00:01:19.500><c> and</c><00:01:19.710><c> then</c><00:01:20.220><c> Adam</c><00:01:20.610><c> their</c><00:01:20.759><c> camera</c><00:01:21.180><c> operator</c>
+
+00:01:21.560 --> 00:01:21.570 align:start position:0%
+fps and then Adam their camera operator
+ 
+
+00:01:21.570 --> 00:01:26.240 align:start position:0%
+fps and then Adam their camera operator
+won<00:01:22.020><c> with</c><00:01:22.170><c> 33</c><00:01:22.740><c> so</c><00:01:23.570><c> Intel</c><00:01:24.570><c> said</c><00:01:25.259><c> we'd</c><00:01:25.830><c> never</c><00:01:26.009><c> be</c>
+
+00:01:26.240 --> 00:01:26.250 align:start position:0%
+won with 33 so Intel said we'd never be
+ 
+
+00:01:26.250 --> 00:01:28.280 align:start position:0%
+won with 33 so Intel said we'd never be
+able<00:01:26.280><c> to</c><00:01:26.490><c> figure</c><00:01:26.640><c> out</c><00:01:26.850><c> who</c><00:01:27.060><c> won</c><00:01:27.270><c> the</c><00:01:27.420><c> bet</c><00:01:27.570><c> since</c>
+
+00:01:28.280 --> 00:01:28.290 align:start position:0%
+able to figure out who won the bet since
+ 
+
+00:01:28.290 --> 00:01:29.929 align:start position:0%
+able to figure out who won the bet since
+the<00:01:28.350><c> product</c><00:01:28.770><c> will</c><00:01:28.920><c> change</c><00:01:29.250><c> so</c><00:01:29.520><c> much</c><00:01:29.700><c> before</c>
+
+00:01:29.929 --> 00:01:29.939 align:start position:0%
+the product will change so much before
+ 
+
+00:01:29.939 --> 00:01:33.260 align:start position:0%
+the product will change so much before
+its<00:01:30.270><c> final</c><00:01:30.600><c> launch</c><00:01:30.900><c> which</c><00:01:31.140><c> is</c><00:01:31.290><c> likely</c><00:01:31.650><c> and</c><00:01:32.270><c> the</c>
+
+00:01:33.260 --> 00:01:33.270 align:start position:0%
+its final launch which is likely and the
+ 
+
+00:01:33.270 --> 00:01:35.359 align:start position:0%
+its final launch which is likely and the
+prototype<00:01:34.110><c> that</c><00:01:34.290><c> we</c><00:01:34.560><c> saw</c><00:01:34.740><c> would</c><00:01:34.979><c> probably</c><00:01:35.310><c> not</c>
+
+00:01:35.359 --> 00:01:35.369 align:start position:0%
+prototype that we saw would probably not
+ 
+
+00:01:35.369 --> 00:01:37.789 align:start position:0%
+prototype that we saw would probably not
+have<00:01:35.430><c> its</c><00:01:35.670><c> frame</c><00:01:35.880><c> rate</c><00:01:36.000><c> revealed</c><00:01:36.329><c> to</c><00:01:36.479><c> us</c><00:01:36.799><c> that</c>
+
+00:01:37.789 --> 00:01:37.799 align:start position:0%
+have its frame rate revealed to us that
+ 
+
+00:01:37.799 --> 00:01:39.890 align:start position:0%
+have its frame rate revealed to us that
+said<00:01:38.189><c> we</c><00:01:38.549><c> ended</c><00:01:38.759><c> up</c><00:01:38.820><c> using</c><00:01:38.970><c> some</c><00:01:39.360><c> software</c><00:01:39.570><c> to</c>
+
+00:01:39.890 --> 00:01:39.900 align:start position:0%
+said we ended up using some software to
+ 
+
+00:01:39.900 --> 00:01:41.480 align:start position:0%
+said we ended up using some software to
+count<00:01:40.079><c> the</c><00:01:40.200><c> frames</c><00:01:40.380><c> and</c><00:01:40.740><c> figure</c><00:01:41.280><c> it</c><00:01:41.400><c> out</c>
+
+00:01:41.480 --> 00:01:41.490 align:start position:0%
+count the frames and figure it out
+ 
+
+00:01:41.490 --> 00:01:44.660 align:start position:0%
+count the frames and figure it out
+anyway<00:01:41.670><c> because</c><00:01:42.450><c> with</c><00:01:42.930><c> a</c><00:01:43.250><c> Computex</c><00:01:44.250><c> dinner</c><00:01:44.520><c> on</c>
+
+00:01:44.660 --> 00:01:44.670 align:start position:0%
+anyway because with a Computex dinner on
+ 
+
+00:01:44.670 --> 00:01:46.219 align:start position:0%
+anyway because with a Computex dinner on
+the<00:01:44.759><c> line</c><00:01:44.909><c> it</c><00:01:45.149><c> was</c><00:01:45.210><c> worth</c><00:01:45.479><c> doing</c><00:01:45.509><c> the</c><00:01:45.930><c> extra</c>
+
+00:01:46.219 --> 00:01:46.229 align:start position:0%
+the line it was worth doing the extra
+ 
+
+00:01:46.229 --> 00:01:48.080 align:start position:0%
+the line it was worth doing the extra
+effort<00:01:46.619><c> to</c><00:01:46.770><c> find</c><00:01:47.310><c> the</c><00:01:47.460><c> frame</c><00:01:47.700><c> rate</c><00:01:47.880><c> we'll</c>
+
+00:01:48.080 --> 00:01:48.090 align:start position:0%
+effort to find the frame rate we'll
+ 
+
+00:01:48.090 --> 00:01:50.060 align:start position:0%
+effort to find the frame rate we'll
+start<00:01:48.329><c> with</c><00:01:48.420><c> the</c><00:01:48.570><c> DG</c><00:01:49.020><c> one</c><00:01:49.200><c> GPU</c><00:01:49.649><c> and</c><00:01:49.799><c> then</c><00:01:49.890><c> move</c>
+
+00:01:50.060 --> 00:01:50.070 align:start position:0%
+start with the DG one GPU and then move
+ 
+
+00:01:50.070 --> 00:01:51.830 align:start position:0%
+start with the DG one GPU and then move
+to<00:01:50.369><c> the</c><00:01:50.399><c> brief</c><00:01:50.759><c> benchmarks</c><00:01:51.360><c> and</c><00:01:51.509><c> hands-on</c>
+
+00:01:51.830 --> 00:01:51.840 align:start position:0%
+to the brief benchmarks and hands-on
+ 
+
+00:01:51.840 --> 00:01:54.289 align:start position:0%
+to the brief benchmarks and hands-on
+experience<00:01:52.009><c> Intel</c><00:01:53.009><c> sent</c><00:01:53.250><c> photos</c><00:01:53.520><c> over</c><00:01:53.939><c> of</c><00:01:54.149><c> its</c>
+
+00:01:54.289 --> 00:01:54.299 align:start position:0%
+experience Intel sent photos over of its
+ 
+
+00:01:54.299 --> 00:01:56.569 align:start position:0%
+experience Intel sent photos over of its
+DG<00:01:54.720><c> 1</c><00:01:54.899><c> PCIe</c><00:01:55.380><c> card</c><00:01:55.770><c> for</c><00:01:55.950><c> software</c><00:01:56.250><c> development</c>
+
+00:01:56.569 --> 00:01:56.579 align:start position:0%
+DG 1 PCIe card for software development
+ 
+
+00:01:56.579 --> 00:01:58.639 align:start position:0%
+DG 1 PCIe card for software development
+which<00:01:57.149><c> will</c><00:01:57.270><c> be</c><00:01:57.360><c> used</c><00:01:57.540><c> by</c><00:01:57.630><c> developers</c><00:01:58.259><c> ramping</c>
+
+00:01:58.639 --> 00:01:58.649 align:start position:0%
+which will be used by developers ramping
+ 
+
+00:01:58.649 --> 00:01:59.959 align:start position:0%
+which will be used by developers ramping
+up<00:01:58.740><c> to</c><00:01:58.799><c> support</c><00:01:59.219><c> the</c><00:01:59.340><c> new</c><00:01:59.460><c> Intel</c><00:01:59.790><c> hardware</c>
+
+00:01:59.959 --> 00:01:59.969 align:start position:0%
+up to support the new Intel hardware
+ 
+
+00:01:59.969 --> 00:02:02.660 align:start position:0%
+up to support the new Intel hardware
+this<00:02:00.780><c> is</c><00:02:00.899><c> a</c><00:02:00.930><c> necessary</c><00:02:01.530><c> step</c><00:02:01.829><c> since</c><00:02:02.219><c> Intel</c><00:02:02.549><c> is</c>
+
+00:02:02.660 --> 00:02:02.670 align:start position:0%
+this is a necessary step since Intel is
+ 
+
+00:02:02.670 --> 00:02:04.999 align:start position:0%
+this is a necessary step since Intel is
+starting<00:02:02.969><c> from</c><00:02:03.090><c> ground</c><00:02:03.390><c> level</c><00:02:03.509><c> and</c><00:02:03.930><c> has</c><00:02:04.799><c> no</c>
+
+00:02:04.999 --> 00:02:05.009 align:start position:0%
+starting from ground level and has no
+ 
+
+00:02:05.009 --> 00:02:06.980 align:start position:0%
+starting from ground level and has no
+driver<00:02:05.310><c> development</c><00:02:05.790><c> at</c><00:02:05.880><c> president</c><00:02:06.329><c> 4</c><00:02:06.509><c> GPUs</c>
+
+00:02:06.980 --> 00:02:06.990 align:start position:0%
+driver development at president 4 GPUs
+ 
+
+00:02:06.990 --> 00:02:09.050 align:start position:0%
+driver development at president 4 GPUs
+it's<00:02:07.590><c> not</c><00:02:07.799><c> like</c><00:02:07.979><c> AMD</c><00:02:08.399><c> and</c><00:02:08.520><c> NVIDIA</c><00:02:08.580><c> where</c>
+
+00:02:09.050 --> 00:02:09.060 align:start position:0%
+it's not like AMD and NVIDIA where
+ 
+
+00:02:09.060 --> 00:02:10.309 align:start position:0%
+it's not like AMD and NVIDIA where
+millions<00:02:09.509><c> of</c><00:02:09.629><c> dollars</c><00:02:09.929><c> of</c><00:02:10.080><c> driver</c>
+
+00:02:10.309 --> 00:02:10.319 align:start position:0%
+millions of dollars of driver
+ 
+
+00:02:10.319 --> 00:02:12.740 align:start position:0%
+millions of dollars of driver
+development<00:02:10.560><c> and</c><00:02:11.000><c> upwards</c><00:02:12.000><c> of</c><00:02:12.150><c> decades</c><00:02:12.569><c> of</c>
+
+00:02:12.740 --> 00:02:12.750 align:start position:0%
+development and upwards of decades of
+ 
+
+00:02:12.750 --> 00:02:13.280 align:start position:0%
+development and upwards of decades of
+work
+
+00:02:13.280 --> 00:02:13.290 align:start position:0%
+work
+ 
+
+00:02:13.290 --> 00:02:15.679 align:start position:0%
+work
+builds<00:02:13.560><c> a</c><00:02:13.680><c> foundation</c><00:02:14.640><c> for</c><00:02:14.819><c> the</c><00:02:14.909><c> cards</c><00:02:15.209><c> so</c>
+
+00:02:15.679 --> 00:02:15.689 align:start position:0%
+builds a foundation for the cards so
+ 
+
+00:02:15.689 --> 00:02:16.850 align:start position:0%
+builds a foundation for the cards so
+until<00:02:15.989><c> I</c><00:02:16.019><c> have</c><00:02:16.170><c> to</c><00:02:16.230><c> get</c><00:02:16.349><c> these</c><00:02:16.470><c> out</c><00:02:16.620><c> to</c>
+
+00:02:16.850 --> 00:02:16.860 align:start position:0%
+until I have to get these out to
+ 
+
+00:02:16.860 --> 00:02:18.199 align:start position:0%
+until I have to get these out to
+software<00:02:17.159><c> developers</c><00:02:17.519><c> early</c><00:02:17.579><c> to</c><00:02:17.939><c> make</c><00:02:18.060><c> sure</c>
+
+00:02:18.199 --> 00:02:18.209 align:start position:0%
+software developers early to make sure
+ 
+
+00:02:18.209 --> 00:02:19.819 align:start position:0%
+software developers early to make sure
+that<00:02:18.390><c> the</c><00:02:18.900><c> software</c><00:02:19.260><c> actually</c><00:02:19.319><c> works</c><00:02:19.680><c> with</c>
+
+00:02:19.819 --> 00:02:19.829 align:start position:0%
+that the software actually works with
+ 
+
+00:02:19.829 --> 00:02:20.330 align:start position:0%
+that the software actually works with
+the<00:02:19.890><c> card</c>
+
+00:02:20.330 --> 00:02:20.340 align:start position:0%
+the card
+ 
+
+00:02:20.340 --> 00:02:22.850 align:start position:0%
+the card
+Intel's<00:02:20.700><c> dg1</c><00:02:21.120><c> PCIe</c><00:02:21.720><c> card</c><00:02:22.140><c> is</c><00:02:22.319><c> what</c><00:02:22.769><c> the</c>
+
+00:02:22.850 --> 00:02:22.860 align:start position:0%
+Intel's dg1 PCIe card is what the
+ 
+
+00:02:22.860 --> 00:02:24.289 align:start position:0%
+Intel's dg1 PCIe card is what the
+company<00:02:23.159><c> is</c><00:02:23.250><c> calling</c><00:02:23.489><c> a</c><00:02:23.670><c> software</c>
+
+00:02:24.289 --> 00:02:24.299 align:start position:0%
+company is calling a software
+ 
+
+00:02:24.299 --> 00:02:26.509 align:start position:0%
+company is calling a software
+development<00:02:24.599><c> vehicle</c><00:02:24.930><c> and</c><00:02:25.290><c> these</c><00:02:26.040><c> are</c><00:02:26.189><c> common</c>
+
+00:02:26.509 --> 00:02:26.519 align:start position:0%
+development vehicle and these are common
+ 
+
+00:02:26.519 --> 00:02:28.100 align:start position:0%
+development vehicle and these are common
+they<00:02:26.610><c> typically</c><00:02:26.939><c> go</c><00:02:27.090><c> out</c><00:02:27.209><c> to</c><00:02:27.360><c> ISPs</c><00:02:28.049><c> or</c>
+
+00:02:28.100 --> 00:02:28.110 align:start position:0%
+they typically go out to ISPs or
+ 
+
+00:02:28.110 --> 00:02:29.710 align:start position:0%
+they typically go out to ISPs or
+independent<00:02:28.620><c> software</c><00:02:29.010><c> developers</c><00:02:29.430><c> and</c>
+
+00:02:29.710 --> 00:02:29.720 align:start position:0%
+independent software developers and
+ 
+
+00:02:29.720 --> 00:02:32.930 align:start position:0%
+independent software developers and
+software<00:02:30.720><c> vendors</c><00:02:31.200><c> and</c><00:02:31.379><c> they</c><00:02:32.040><c> use</c><00:02:32.730><c> these</c>
+
+00:02:32.930 --> 00:02:32.940 align:start position:0%
+software vendors and they use these
+ 
+
+00:02:32.940 --> 00:02:35.420 align:start position:0%
+software vendors and they use these
+devices<00:02:33.209><c> to</c><00:02:33.900><c> get</c><00:02:34.500><c> the</c><00:02:34.590><c> early</c><00:02:34.739><c> groundwork</c><00:02:35.250><c> in</c>
+
+00:02:35.420 --> 00:02:35.430 align:start position:0%
+devices to get the early groundwork in
+ 
+
+00:02:35.430 --> 00:02:37.759 align:start position:0%
+devices to get the early groundwork in
+for<00:02:35.730><c> software</c><00:02:36.269><c> that</c><00:02:36.420><c> needs</c><00:02:36.569><c> to</c><00:02:36.690><c> run</c><00:02:36.810><c> on</c><00:02:37.079><c> the</c>
+
+00:02:37.759 --> 00:02:37.769 align:start position:0%
+for software that needs to run on the
+ 
+
+00:02:37.769 --> 00:02:41.050 align:start position:0%
+for software that needs to run on the
+GPU<00:02:37.799><c> and</c><00:02:38.430><c> vidiian</c><00:02:39.120><c> AMD</c><00:02:39.450><c> do</c><00:02:39.599><c> similar</c><00:02:39.900><c> things</c><00:02:40.200><c> so</c>
+
+00:02:41.050 --> 00:02:41.060 align:start position:0%
+GPU and vidiian AMD do similar things so
+ 
+
+00:02:41.060 --> 00:02:43.429 align:start position:0%
+GPU and vidiian AMD do similar things so
+we<00:02:42.060><c> have</c><00:02:42.090><c> renders</c><00:02:42.689><c> of</c><00:02:42.810><c> the</c><00:02:42.900><c> card</c><00:02:43.140><c> but</c><00:02:43.290><c> that's</c>
+
+00:02:43.429 --> 00:02:43.439 align:start position:0%
+we have renders of the card but that's
+ 
+
+00:02:43.439 --> 00:02:45.500 align:start position:0%
+we have renders of the card but that's
+about<00:02:43.650><c> it</c><00:02:43.799><c> no</c><00:02:43.980><c> physical</c><00:02:44.430><c> card</c><00:02:44.640><c> was</c><00:02:44.790><c> present</c><00:02:45.180><c> at</c>
+
+00:02:45.500 --> 00:02:45.510 align:start position:0%
+about it no physical card was present at
+ 
+
+00:02:45.510 --> 00:02:47.149 align:start position:0%
+about it no physical card was present at
+the<00:02:45.720><c> meeting</c><00:02:45.989><c> we</c><00:02:46.109><c> went</c><00:02:46.319><c> to</c><00:02:46.500><c> there</c><00:02:46.980><c> was</c><00:02:47.129><c> a</c>
+
+00:02:47.149 --> 00:02:47.159 align:start position:0%
+the meeting we went to there was a
+ 
+
+00:02:47.159 --> 00:02:48.860 align:start position:0%
+the meeting we went to there was a
+separate<00:02:47.760><c> Intel</c><00:02:48.090><c> meeting</c><00:02:48.359><c> we</c><00:02:48.450><c> couldn't</c><00:02:48.750><c> make</c>
+
+00:02:48.860 --> 00:02:48.870 align:start position:0%
+separate Intel meeting we couldn't make
+ 
+
+00:02:48.870 --> 00:02:51.020 align:start position:0%
+separate Intel meeting we couldn't make
+at<00:02:49.049><c> CES</c><00:02:49.470><c> and</c><00:02:49.739><c> at</c><00:02:50.430><c> that</c><00:02:50.640><c> one</c>
+
+00:02:51.020 --> 00:02:51.030 align:start position:0%
+at CES and at that one
+ 
+
+00:02:51.030 --> 00:02:54.500 align:start position:0%
+at CES and at that one
+they<00:02:51.420><c> had</c><00:02:51.720><c> a</c><00:02:51.959><c> warframe</c><00:02:52.440><c> demo</c><00:02:52.889><c> running</c><00:02:53.280><c> on</c><00:02:53.430><c> dg1</c>
+
+00:02:54.500 --> 00:02:54.510 align:start position:0%
+they had a warframe demo running on dg1
+ 
+
+00:02:54.510 --> 00:02:57.830 align:start position:0%
+they had a warframe demo running on dg1
+there<00:02:55.200><c> was</c><00:02:55.609><c> no</c><00:02:56.609><c> no</c><00:02:57.209><c> reveal</c><00:02:57.569><c> of</c><00:02:57.750><c> the</c>
+
+00:02:57.830 --> 00:02:57.840 align:start position:0%
+there was no no reveal of the
+ 
+
+00:02:57.840 --> 00:03:00.589 align:start position:0%
+there was no no reveal of the
+specifications<00:02:58.560><c> of</c><00:02:58.680><c> the</c><00:02:58.739><c> card</c><00:02:58.980><c> and</c><00:02:59.220><c> also</c><00:03:00.180><c> the</c>
+
+00:03:00.589 --> 00:03:00.599 align:start position:0%
+specifications of the card and also the
+ 
+
+00:03:00.599 --> 00:03:01.789 align:start position:0%
+specifications of the card and also the
+settings<00:03:01.079><c> for</c><00:03:01.170><c> the</c><00:03:01.260><c> game</c><00:03:01.470><c> the</c><00:03:01.650><c> graphics</c>
+
+00:03:01.789 --> 00:03:01.799 align:start position:0%
+settings for the game the graphics
+ 
+
+00:03:01.799 --> 00:03:04.910 align:start position:0%
+settings for the game the graphics
+settings<00:03:02.159><c> were</c><00:03:02.879><c> not</c><00:03:03.329><c> revealed</c><00:03:03.780><c> even</c><00:03:04.200><c> so</c><00:03:04.470><c> not</c><00:03:04.889><c> a</c>
+
+00:03:04.910 --> 00:03:04.920 align:start position:0%
+settings were not revealed even so not a
+ 
+
+00:03:04.920 --> 00:03:06.170 align:start position:0%
+settings were not revealed even so not a
+whole<00:03:05.069><c> lot</c><00:03:05.220><c> of</c><00:03:05.310><c> useful</c><00:03:05.459><c> information</c><00:03:05.700><c> from</c>
+
+00:03:06.170 --> 00:03:06.180 align:start position:0%
+whole lot of useful information from
+ 
+
+00:03:06.180 --> 00:03:08.479 align:start position:0%
+whole lot of useful information from
+that<00:03:06.420><c> for</c><00:03:06.930><c> determining</c><00:03:07.290><c> performance</c><00:03:07.769><c> these</c>
+
+00:03:08.479 --> 00:03:08.489 align:start position:0%
+that for determining performance these
+ 
+
+00:03:08.489 --> 00:03:09.770 align:start position:0%
+that for determining performance these
+types<00:03:08.730><c> of</c><00:03:08.849><c> demos</c><00:03:09.150><c> are</c><00:03:09.209><c> always</c><00:03:09.359><c> strange</c><00:03:09.629><c> for</c>
+
+00:03:09.770 --> 00:03:09.780 align:start position:0%
+types of demos are always strange for
+ 
+
+00:03:09.780 --> 00:03:12.770 align:start position:0%
+types of demos are always strange for
+that<00:03:09.870><c> reason</c><00:03:10.230><c> it's</c><00:03:10.680><c> sort</c><00:03:11.459><c> of</c><00:03:11.579><c> to</c><00:03:11.790><c> flag</c><00:03:12.540><c> that</c>
+
+00:03:12.770 --> 00:03:12.780 align:start position:0%
+that reason it's sort of to flag that
+ 
+
+00:03:12.780 --> 00:03:14.330 align:start position:0%
+that reason it's sort of to flag that
+the<00:03:12.840><c> product</c><00:03:13.200><c> exists</c><00:03:13.680><c> and</c><00:03:13.889><c> that's</c><00:03:14.069><c> about</c><00:03:14.220><c> it</c>
+
+00:03:14.330 --> 00:03:14.340 align:start position:0%
+the product exists and that's about it
+ 
+
+00:03:14.340 --> 00:03:16.430 align:start position:0%
+the product exists and that's about it
+and<00:03:14.670><c> sometimes</c><00:03:15.269><c> there's</c><00:03:15.780><c> a</c><00:03:15.840><c> business</c><00:03:16.230><c> play</c>
+
+00:03:16.430 --> 00:03:16.440 align:start position:0%
+and sometimes there's a business play
+ 
+
+00:03:16.440 --> 00:03:19.220 align:start position:0%
+and sometimes there's a business play
+here<00:03:16.739><c> where</c><00:03:17.669><c> the</c><00:03:17.760><c> company</c><00:03:18.120><c> isn't</c><00:03:18.599><c> even</c><00:03:19.019><c> going</c>
+
+00:03:19.220 --> 00:03:19.230 align:start position:0%
+here where the company isn't even going
+ 
+
+00:03:19.230 --> 00:03:21.949 align:start position:0%
+here where the company isn't even going
+for<00:03:19.440><c> really</c><00:03:20.220><c> any</c><00:03:20.879><c> kind</c><00:03:21.150><c> of</c><00:03:21.269><c> consumer</c>
+
+00:03:21.949 --> 00:03:21.959 align:start position:0%
+for really any kind of consumer
+ 
+
+00:03:21.959 --> 00:03:23.509 align:start position:0%
+for really any kind of consumer
+attention<00:03:22.500><c> they're</c><00:03:22.889><c> going</c><00:03:23.069><c> for</c><00:03:23.250><c> other</c>
+
+00:03:23.509 --> 00:03:23.519 align:start position:0%
+attention they're going for other
+ 
+
+00:03:23.519 --> 00:03:26.210 align:start position:0%
+attention they're going for other
+companies<00:03:24.019><c> attention</c><00:03:25.019><c> and</c><00:03:25.199><c> that's</c><00:03:25.949><c> the</c><00:03:26.069><c> case</c>
+
+00:03:26.210 --> 00:03:26.220 align:start position:0%
+companies attention and that's the case
+ 
+
+00:03:26.220 --> 00:03:28.580 align:start position:0%
+companies attention and that's the case
+of<00:03:26.400><c> the</c><00:03:26.549><c> foldable</c><00:03:27.060><c> screen</c><00:03:27.900><c> that</c><00:03:28.049><c> Intel</c><00:03:28.319><c> had</c><00:03:28.470><c> as</c>
+
+00:03:28.580 --> 00:03:28.590 align:start position:0%
+of the foldable screen that Intel had as
+ 
+
+00:03:28.590 --> 00:03:29.990 align:start position:0%
+of the foldable screen that Intel had as
+well<00:03:28.709><c> where</c><00:03:28.980><c> it's</c><00:03:29.099><c> more</c><00:03:29.280><c> of</c><00:03:29.340><c> a</c><00:03:29.400><c> signal</c><00:03:29.579><c> to</c><00:03:29.849><c> say</c>
+
+00:03:29.990 --> 00:03:30.000 align:start position:0%
+well where it's more of a signal to say
+ 
+
+00:03:30.000 --> 00:03:32.390 align:start position:0%
+well where it's more of a signal to say
+hey<00:03:30.510><c> partners</c><00:03:31.379><c> in</c><00:03:31.500><c> the</c><00:03:31.560><c> ecosystem</c><00:03:32.190><c> or</c><00:03:32.250><c> in</c><00:03:32.310><c> the</c>
+
+00:03:32.390 --> 00:03:32.400 align:start position:0%
+hey partners in the ecosystem or in the
+ 
+
+00:03:32.400 --> 00:03:34.729 align:start position:0%
+hey partners in the ecosystem or in the
+industry<00:03:33.000><c> we</c><00:03:33.870><c> have</c><00:03:34.019><c> something</c><00:03:34.410><c> that</c><00:03:34.500><c> we</c><00:03:34.620><c> can</c>
+
+00:03:34.729 --> 00:03:34.739 align:start position:0%
+industry we have something that we can
+ 
+
+00:03:34.739 --> 00:03:36.589 align:start position:0%
+industry we have something that we can
+work<00:03:34.769><c> with</c><00:03:34.889><c> your</c><00:03:35.220><c> arm</c><00:03:35.340><c> they</c><00:03:36.000><c> can</c><00:03:36.120><c> also</c><00:03:36.269><c> do</c><00:03:36.449><c> that</c>
+
+00:03:36.589 --> 00:03:36.599 align:start position:0%
+work with your arm they can also do that
+ 
+
+00:03:36.599 --> 00:03:38.240 align:start position:0%
+work with your arm they can also do that
+privately<00:03:36.810><c> of</c><00:03:37.139><c> course</c><00:03:37.349><c> but</c><00:03:37.560><c> this</c><00:03:37.650><c> makes</c><00:03:37.949><c> a</c><00:03:38.099><c> bit</c>
+
+00:03:38.240 --> 00:03:38.250 align:start position:0%
+privately of course but this makes a bit
+ 
+
+00:03:38.250 --> 00:03:40.069 align:start position:0%
+privately of course but this makes a bit
+more<00:03:38.370><c> noise</c><00:03:38.519><c> about</c><00:03:38.790><c> it</c><00:03:38.940><c> so</c><00:03:39.359><c> it's</c><00:03:39.720><c> kind</c><00:03:39.959><c> of</c><00:03:39.989><c> a</c>
+
+00:03:40.069 --> 00:03:40.079 align:start position:0%
+more noise about it so it's kind of a
+ 
+
+00:03:40.079 --> 00:03:43.460 align:start position:0%
+more noise about it so it's kind of a
+weird<00:03:40.169><c> demo</c><00:03:40.669><c> because</c><00:03:41.669><c> the</c><00:03:42.290><c> there's</c><00:03:43.290><c> not</c>
+
+00:03:43.460 --> 00:03:43.470 align:start position:0%
+weird demo because the there's not
+ 
+
+00:03:43.470 --> 00:03:45.229 align:start position:0%
+weird demo because the there's not
+there's<00:03:43.769><c> not</c><00:03:43.859><c> much</c><00:03:44.160><c> actual</c><00:03:44.669><c> information</c><00:03:45.120><c> that</c>
+
+00:03:45.229 --> 00:03:45.239 align:start position:0%
+there's not much actual information that
+ 
+
+00:03:45.239 --> 00:03:47.270 align:start position:0%
+there's not much actual information that
+we<00:03:45.299><c> can</c><00:03:45.449><c> do</c><00:03:45.599><c> anything</c><00:03:45.840><c> with</c><00:03:46.169><c> we</c><00:03:46.709><c> do</c><00:03:46.859><c> have</c><00:03:47.069><c> some</c>
+
+00:03:47.270 --> 00:03:47.280 align:start position:0%
+we can do anything with we do have some
+ 
+
+00:03:47.280 --> 00:03:49.610 align:start position:0%
+we can do anything with we do have some
+information<00:03:47.430><c> for</c><00:03:48.120><c> other</c><00:03:48.359><c> benchmark</c><00:03:49.260><c> settings</c>
+
+00:03:49.610 --> 00:03:49.620 align:start position:0%
+information for other benchmark settings
+ 
+
+00:03:49.620 --> 00:03:51.199 align:start position:0%
+information for other benchmark settings
+though<00:03:49.829><c> in</c><00:03:50.069><c> our</c><00:03:50.250><c> meeting</c><00:03:50.489><c> at</c><00:03:50.609><c> the</c><00:03:50.699><c> Intel</c><00:03:51.030><c> booth</c>
+
+00:03:51.199 --> 00:03:51.209 align:start position:0%
+though in our meeting at the Intel booth
+ 
+
+00:03:51.209 --> 00:03:53.449 align:start position:0%
+though in our meeting at the Intel booth
+Gordon<00:03:51.629><c> and</c><00:03:51.750><c> I</c><00:03:51.810><c> approached</c><00:03:52.169><c> the</c><00:03:52.410><c> Intel</c><00:03:53.040><c> Tiger</c>
+
+00:03:53.449 --> 00:03:53.459 align:start position:0%
+Gordon and I approached the Intel Tiger
+ 
+
+00:03:53.459 --> 00:03:55.640 align:start position:0%
+Gordon and I approached the Intel Tiger
+Lake<00:03:53.579><c> laptop</c><00:03:54.030><c> team</c><00:03:54.720><c> that</c><00:03:54.930><c> was</c><00:03:55.049><c> representing</c>
+
+00:03:55.640 --> 00:03:55.650 align:start position:0%
+Lake laptop team that was representing
+ 
+
+00:03:55.650 --> 00:03:58.369 align:start position:0%
+Lake laptop team that was representing
+the<00:03:55.829><c> XE</c><00:03:56.220><c> graphics</c><00:03:56.609><c> deployment</c><00:03:57.120><c> and</c><00:03:57.379><c> Gordon</c>
+
+00:03:58.369 --> 00:03:58.379 align:start position:0%
+the XE graphics deployment and Gordon
+ 
+
+00:03:58.379 --> 00:04:00.020 align:start position:0%
+the XE graphics deployment and Gordon
+specifically<00:03:58.919><c> asked</c><00:03:59.280><c> something</c><00:03:59.519><c> along</c><00:03:59.849><c> the</c>
+
+00:04:00.020 --> 00:04:00.030 align:start position:0%
+specifically asked something along the
+ 
+
+00:04:00.030 --> 00:04:02.479 align:start position:0%
+specifically asked something along the
+lines<00:04:00.150><c> of</c><00:04:00.389><c> cool</c><00:04:01.349><c> demo</c><00:04:01.650><c> what</c><00:04:01.949><c> can</c><00:04:02.099><c> we</c><00:04:02.220><c> do</c><00:04:02.370><c> with</c>
+
+00:04:02.479 --> 00:04:02.489 align:start position:0%
+lines of cool demo what can we do with
+ 
+
+00:04:02.489 --> 00:04:04.789 align:start position:0%
+lines of cool demo what can we do with
+it<00:04:02.669><c> and</c><00:04:02.819><c> the</c><00:04:03.180><c> answer</c><00:04:03.449><c> was</c><00:04:03.629><c> it's</c><00:04:04.199><c> an</c><00:04:04.349><c> experience</c>
+
+00:04:04.789 --> 00:04:04.799 align:start position:0%
+it and the answer was it's an experience
+ 
+
+00:04:04.799 --> 00:04:07.699 align:start position:0%
+it and the answer was it's an experience
+at<00:04:05.250><c> which</c><00:04:05.669><c> point</c><00:04:05.970><c> most</c><00:04:06.690><c> media</c><00:04:07.109><c> will</c><00:04:07.290><c> sort</c><00:04:07.650><c> of</c>
+
+00:04:07.699 --> 00:04:07.709 align:start position:0%
+at which point most media will sort of
+ 
+
+00:04:07.709 --> 00:04:09.770 align:start position:0%
+at which point most media will sort of
+sigh<00:04:08.549><c> in</c><00:04:08.940><c> disappointment</c><00:04:09.000><c> because</c><00:04:09.540><c> it's</c>
+
+00:04:09.770 --> 00:04:09.780 align:start position:0%
+sigh in disappointment because it's
+ 
+
+00:04:09.780 --> 00:04:11.539 align:start position:0%
+sigh in disappointment because it's
+normally<00:04:10.049><c> code</c><00:04:10.290><c> for</c><00:04:10.500><c> being</c><00:04:10.650><c> a</c><00:04:10.739><c> hands</c><00:04:11.010><c> off</c><00:04:11.129><c> demo</c>
+
+00:04:11.539 --> 00:04:11.549 align:start position:0%
+normally code for being a hands off demo
+ 
+
+00:04:11.549 --> 00:04:13.520 align:start position:0%
+normally code for being a hands off demo
+in<00:04:11.729><c> this</c><00:04:12.120><c> instance</c><00:04:12.540><c> it</c><00:04:12.690><c> was</c><00:04:12.810><c> sort</c><00:04:13.049><c> of</c><00:04:13.109><c> hands-on</c>
+
+00:04:13.520 --> 00:04:13.530 align:start position:0%
+in this instance it was sort of hands-on
+ 
+
+00:04:13.530 --> 00:04:14.689 align:start position:0%
+in this instance it was sort of hands-on
+and<00:04:13.799><c> that</c><00:04:13.919><c> you</c><00:04:14.040><c> could</c><00:04:14.190><c> pick</c><00:04:14.400><c> up</c><00:04:14.489><c> a</c><00:04:14.579><c> controller</c>
+
+00:04:14.689 --> 00:04:14.699 align:start position:0%
+and that you could pick up a controller
+ 
+
+00:04:14.699 --> 00:04:18.229 align:start position:0%
+and that you could pick up a controller
+and<00:04:15.239><c> play</c><00:04:15.810><c> the</c><00:04:15.959><c> game</c><00:04:16.459><c> but</c><00:04:17.459><c> there's</c><00:04:18.000><c> no</c>
+
+00:04:18.229 --> 00:04:18.239 align:start position:0%
+and play the game but there's no
+ 
+
+00:04:18.239 --> 00:04:20.270 align:start position:0%
+and play the game but there's no
+information<00:04:19.049><c> at</c><00:04:19.139><c> all</c><00:04:19.229><c> about</c><00:04:19.289><c> what's</c>
+
+00:04:20.270 --> 00:04:20.280 align:start position:0%
+information at all about what's
+ 
+
+00:04:20.280 --> 00:04:23.000 align:start position:0%
+information at all about what's
+happening<00:04:20.849><c> on</c><00:04:20.970><c> the</c><00:04:21.060><c> laptop</c><00:04:21.419><c> itself</c><00:04:21.719><c> so</c><00:04:22.289><c> it's</c>
+
+00:04:23.000 --> 00:04:23.010 align:start position:0%
+happening on the laptop itself so it's
+ 
+
+00:04:23.010 --> 00:04:24.709 align:start position:0%
+happening on the laptop itself so it's
+fairly<00:04:23.310><c> limited</c><00:04:23.520><c> in</c><00:04:23.789><c> information</c><00:04:24.419><c> we</c><00:04:24.570><c> were</c>
+
+00:04:24.709 --> 00:04:24.719 align:start position:0%
+fairly limited in information we were
+ 
+
+00:04:24.719 --> 00:04:26.450 align:start position:0%
+fairly limited in information we were
+given<00:04:24.990><c> the</c><00:04:25.080><c> option</c><00:04:25.260><c> to</c><00:04:25.440><c> play</c><00:04:25.620><c> destiny</c><00:04:25.830><c> 2</c><00:04:26.219><c> at</c>
+
+00:04:26.450 --> 00:04:26.460 align:start position:0%
+given the option to play destiny 2 at
+ 
+
+00:04:26.460 --> 00:04:26.960 align:start position:0%
+given the option to play destiny 2 at
+1080p
+
+00:04:26.960 --> 00:04:26.970 align:start position:0%
+1080p
+ 
+
+00:04:26.970 --> 00:04:29.930 align:start position:0%
+1080p
+low<00:04:27.150><c> settings</c><00:04:27.600><c> with</c><00:04:28.410><c> what</c><00:04:28.710><c> we</c><00:04:28.830><c> think</c><00:04:29.070><c> was</c><00:04:29.310><c> 100%</c>
+
+00:04:29.930 --> 00:04:29.940 align:start position:0%
+low settings with what we think was 100%
+ 
+
+00:04:29.940 --> 00:04:31.640 align:start position:0%
+low settings with what we think was 100%
+resolution<00:04:30.090><c> scale</c><00:04:30.690><c> and</c><00:04:31.020><c> what</c><00:04:31.440><c> I'm</c><00:04:31.530><c> pretty</c>
+
+00:04:31.640 --> 00:04:31.650 align:start position:0%
+resolution scale and what I'm pretty
+ 
+
+00:04:31.650 --> 00:04:33.470 align:start position:0%
+resolution scale and what I'm pretty
+sure<00:04:31.770><c> was</c><00:04:32.040><c> a</c><00:04:32.070><c> controller</c><00:04:32.490><c> but</c><00:04:32.790><c> we</c><00:04:33.330><c> use</c>
+
+00:04:33.470 --> 00:04:33.480 align:start position:0%
+sure was a controller but we use
+ 
+
+00:04:33.480 --> 00:04:35.900 align:start position:0%
+sure was a controller but we use
+keyboards<00:04:33.990><c> so</c><00:04:34.380><c> not</c><00:04:35.010><c> really</c><00:04:35.190><c> sure</c><00:04:35.370><c> on</c><00:04:35.400><c> that</c><00:04:35.550><c> as</c>
+
+00:04:35.900 --> 00:04:35.910 align:start position:0%
+keyboards so not really sure on that as
+ 
+
+00:04:35.910 --> 00:04:39.830 align:start position:0%
+keyboards so not really sure on that as
+for<00:04:36.650><c> experiences</c><00:04:38.030><c> it</c><00:04:39.030><c> was</c><00:04:39.210><c> honestly</c><00:04:39.630><c> pretty</c>
+
+00:04:39.830 --> 00:04:39.840 align:start position:0%
+for experiences it was honestly pretty
+ 
+
+00:04:39.840 --> 00:04:42.650 align:start position:0%
+for experiences it was honestly pretty
+poor<00:04:40.140><c> destiny</c><00:04:40.980><c> to</c><00:04:41.160><c> is</c><00:04:41.430><c> not</c><00:04:41.670><c> that</c><00:04:42.030><c> intensive</c><00:04:42.540><c> of</c>
+
+00:04:42.650 --> 00:04:42.660 align:start position:0%
+poor destiny to is not that intensive of
+ 
+
+00:04:42.660 --> 00:04:45.080 align:start position:0%
+poor destiny to is not that intensive of
+a<00:04:42.720><c> game</c><00:04:42.930><c> but</c><00:04:43.920><c> it</c><00:04:44.220><c> is</c><00:04:44.340><c> a</c><00:04:44.460><c> competitive</c><00:04:45.030><c> shooter</c>
+
+00:04:45.080 --> 00:04:45.090 align:start position:0%
+a game but it is a competitive shooter
+ 
+
+00:04:45.090 --> 00:04:49.220 align:start position:0%
+a game but it is a competitive shooter
+and<00:04:46.250><c> or</c><00:04:47.250><c> even</c><00:04:47.460><c> just</c><00:04:47.700><c> any</c><00:04:47.910><c> kind</c><00:04:48.210><c> of</c><00:04:48.330><c> FPS</c><00:04:48.780><c> would</c>
+
+00:04:49.220 --> 00:04:49.230 align:start position:0%
+and or even just any kind of FPS would
+ 
+
+00:04:49.230 --> 00:04:53.390 align:start position:0%
+and or even just any kind of FPS would
+would<00:04:49.710><c> have</c><00:04:49.860><c> this</c><00:04:50.010><c> be</c><00:04:50.880><c> an</c><00:04:50.970><c> issue</c><00:04:51.090><c> too</c><00:04:51.450><c> and</c><00:04:52.400><c> the</c>
+
+00:04:53.390 --> 00:04:53.400 align:start position:0%
+would have this be an issue too and the
+ 
+
+00:04:53.400 --> 00:04:56.150 align:start position:0%
+would have this be an issue too and the
+latency<00:04:54.240><c> ended</c><00:04:55.140><c> up</c><00:04:55.260><c> being</c><00:04:55.470><c> noticeable</c><00:04:55.860><c> so</c>
+
+00:04:56.150 --> 00:04:56.160 align:start position:0%
+latency ended up being noticeable so
+ 
+
+00:04:56.160 --> 00:04:58.010 align:start position:0%
+latency ended up being noticeable so
+input<00:04:56.340><c> Lindsay</c><00:04:56.880><c> the</c><00:04:57.120><c> click</c><00:04:57.480><c> to</c><00:04:57.630><c> response</c>
+
+00:04:58.010 --> 00:04:58.020 align:start position:0%
+input Lindsay the click to response
+ 
+
+00:04:58.020 --> 00:05:01.160 align:start position:0%
+input Lindsay the click to response
+latency<00:04:58.500><c> was</c><00:04:58.920><c> notice</c><00:04:59.280><c> leap</c><00:04:59.460><c> or</c><00:04:59.700><c> so</c><00:05:00.450><c> it's</c><00:05:01.080><c> a</c>
+
+00:05:01.160 --> 00:05:01.170 align:start position:0%
+latency was notice leap or so it's a
+ 
+
+00:05:01.170 --> 00:05:02.810 align:start position:0%
+latency was notice leap or so it's a
+good<00:05:01.290><c> thing</c><00:05:01.350><c> auto</c><00:05:01.650><c> am</c><00:05:01.920><c> was</c><00:05:02.040><c> on</c><00:05:02.190><c> but</c><00:05:02.460><c> we</c><00:05:02.580><c> didn't</c>
+
+00:05:02.810 --> 00:05:02.820 align:start position:0%
+good thing auto am was on but we didn't
+ 
+
+00:05:02.820 --> 00:05:04.820 align:start position:0%
+good thing auto am was on but we didn't
+have<00:05:02.910><c> the</c><00:05:02.970><c> the</c><00:05:03.390><c> foresight</c><00:05:03.840><c> to</c><00:05:03.870><c> do</c><00:05:04.110><c> a</c><00:05:04.140><c> sneaky</c>
+
+00:05:04.820 --> 00:05:04.830 align:start position:0%
+have the the foresight to do a sneaky
+ 
+
+00:05:04.830 --> 00:05:06.920 align:start position:0%
+have the the foresight to do a sneaky
+latency<00:05:05.220><c> test</c><00:05:05.430><c> like</c><00:05:05.700><c> we</c><00:05:05.730><c> did</c><00:05:06.000><c> with</c><00:05:06.480><c> a</c><00:05:06.510><c> sneaky</c>
+
+00:05:06.920 --> 00:05:06.930 align:start position:0%
+latency test like we did with a sneaky
+ 
+
+00:05:06.930 --> 00:05:08.780 align:start position:0%
+latency test like we did with a sneaky
+framerate<00:05:07.170><c> test</c><00:05:07.590><c> but</c><00:05:08.250><c> it</c><00:05:08.340><c> was</c><00:05:08.370><c> still</c><00:05:08.610><c> bad</c>
+
+00:05:08.780 --> 00:05:08.790 align:start position:0%
+framerate test but it was still bad
+ 
+
+00:05:08.790 --> 00:05:10.460 align:start position:0%
+framerate test but it was still bad
+there<00:05:09.120><c> was</c><00:05:09.240><c> a</c><00:05:09.270><c> clear</c><00:05:09.600><c> delay</c><00:05:09.900><c> from</c><00:05:10.110><c> input</c><00:05:10.440><c> to</c>
+
+00:05:10.460 --> 00:05:10.470 align:start position:0%
+there was a clear delay from input to
+ 
+
+00:05:10.470 --> 00:05:12.860 align:start position:0%
+there was a clear delay from input to
+response<00:05:10.970><c> simple</c><00:05:11.970><c> movements</c><00:05:12.390><c> could</c><00:05:12.510><c> be</c><00:05:12.630><c> felt</c>
+
+00:05:12.860 --> 00:05:12.870 align:start position:0%
+response simple movements could be felt
+ 
+
+00:05:12.870 --> 00:05:15.410 align:start position:0%
+response simple movements could be felt
+with<00:05:13.140><c> for</c><00:05:13.770><c> example</c><00:05:13.860><c> a</c><00:05:14.220><c> a</c><00:05:14.250><c> right</c><00:05:15.150><c> thumbstick</c>
+
+00:05:15.410 --> 00:05:15.420 align:start position:0%
+with for example a a right thumbstick
+ 
+
+00:05:15.420 --> 00:05:17.990 align:start position:0%
+with for example a a right thumbstick
+movement<00:05:15.930><c> to</c><00:05:16.050><c> look</c><00:05:16.290><c> you'd</c><00:05:17.130><c> push</c><00:05:17.430><c> right</c><00:05:17.700><c> do</c>
+
+00:05:17.990 --> 00:05:18.000 align:start position:0%
+movement to look you'd push right do
+ 
+
+00:05:18.000 --> 00:05:19.220 align:start position:0%
+movement to look you'd push right do
+nothing<00:05:18.270><c> else</c><00:05:18.390><c> the</c><00:05:18.540><c> controller</c><00:05:18.810><c> push</c><00:05:19.050><c> right</c>
+
+00:05:19.220 --> 00:05:19.230 align:start position:0%
+nothing else the controller push right
+ 
+
+00:05:19.230 --> 00:05:21.770 align:start position:0%
+nothing else the controller push right
+and<00:05:19.500><c> feel</c><00:05:19.980><c> a</c><00:05:20.010><c> response</c><00:05:20.570><c> significantly</c><00:05:21.570><c> later</c>
+
+00:05:21.770 --> 00:05:21.780 align:start position:0%
+and feel a response significantly later
+ 
+
+00:05:21.780 --> 00:05:23.570 align:start position:0%
+and feel a response significantly later
+was<00:05:22.020><c> certainly</c><00:05:22.320><c> not</c><00:05:22.500><c> close</c><00:05:22.680><c> to</c><00:05:22.890><c> instant</c><00:05:23.280><c> it</c>
+
+00:05:23.570 --> 00:05:23.580 align:start position:0%
+was certainly not close to instant it
+ 
+
+00:05:23.580 --> 00:05:25.480 align:start position:0%
+was certainly not close to instant it
+felt<00:05:23.850><c> like</c><00:05:23.970><c> more</c><00:05:24.060><c> than</c><00:05:24.180><c> 100</c><00:05:24.510><c> milliseconds</c><00:05:25.020><c> and</c>
+
+00:05:25.480 --> 00:05:25.490 align:start position:0%
+felt like more than 100 milliseconds and
+ 
+
+00:05:25.490 --> 00:05:28.130 align:start position:0%
+felt like more than 100 milliseconds and
+probably<00:05:26.490><c> approaching</c><00:05:26.730><c> 200</c><00:05:27.030><c> but</c><00:05:27.419><c> not</c><00:05:27.900><c> sure</c>
+
+00:05:28.130 --> 00:05:28.140 align:start position:0%
+probably approaching 200 but not sure
+ 
+
+00:05:28.140 --> 00:05:30.530 align:start position:0%
+probably approaching 200 but not sure
+sure<00:05:28.680><c> by</c><00:05:28.800><c> I</c><00:05:29.090><c> definitely</c><00:05:30.090><c> felt</c><00:05:30.240><c> like</c><00:05:30.360><c> more</c><00:05:30.480><c> than</c>
+
+00:05:30.530 --> 00:05:30.540 align:start position:0%
+sure by I definitely felt like more than
+ 
+
+00:05:30.540 --> 00:05:32.480 align:start position:0%
+sure by I definitely felt like more than
+100<00:05:30.930><c> milliseconds</c><00:05:31.410><c> though</c><00:05:31.590><c> it</c><00:05:32.040><c> certainly</c>
+
+00:05:32.480 --> 00:05:32.490 align:start position:0%
+100 milliseconds though it certainly
+ 
+
+00:05:32.490 --> 00:05:34.370 align:start position:0%
+100 milliseconds though it certainly
+wasn't<00:05:32.669><c> between</c><00:05:32.880><c> the</c><00:05:33.150><c> 25</c><00:05:33.510><c> and</c><00:05:33.750><c> 80</c><00:05:33.870><c> millisecond</c>
+
+00:05:34.370 --> 00:05:34.380 align:start position:0%
+wasn't between the 25 and 80 millisecond
+ 
+
+00:05:34.380 --> 00:05:36.620 align:start position:0%
+wasn't between the 25 and 80 millisecond
+window<00:05:34.470><c> that</c><00:05:34.710><c> were</c><00:05:34.830><c> used</c><00:05:35.220><c> to</c><00:05:35.370><c> with</c><00:05:35.520><c> typical</c><00:05:35.910><c> PC</c>
+
+00:05:36.620 --> 00:05:36.630 align:start position:0%
+window that were used to with typical PC
+ 
+
+00:05:36.630 --> 00:05:38.390 align:start position:0%
+window that were used to with typical PC
+platforms<00:05:37.140><c> there</c><00:05:37.560><c> is</c><00:05:37.710><c> a</c><00:05:37.740><c> bit</c><00:05:38.250><c> of</c><00:05:38.340><c> a</c>
+
+00:05:38.390 --> 00:05:38.400 align:start position:0%
+platforms there is a bit of a
+ 
+
+00:05:38.400 --> 00:05:40.040 align:start position:0%
+platforms there is a bit of a
+relationship<00:05:38.940><c> between</c><00:05:39.120><c> frame</c><00:05:39.600><c> rate</c><00:05:39.840><c> and</c>
+
+00:05:40.040 --> 00:05:40.050 align:start position:0%
+relationship between frame rate and
+ 
+
+00:05:40.050 --> 00:05:42.590 align:start position:0%
+relationship between frame rate and
+input<00:05:40.830><c> latency</c><00:05:40.980><c> as</c><00:05:41.280><c> well</c><00:05:41.460><c> so</c><00:05:41.820><c> those</c><00:05:42.360><c> two</c>
+
+00:05:42.590 --> 00:05:42.600 align:start position:0%
+input latency as well so those two
+ 
+
+00:05:42.600 --> 00:05:46.460 align:start position:0%
+input latency as well so those two
+things<00:05:43.700><c> will</c><00:05:44.700><c> impact</c><00:05:45.360><c> each</c><00:05:45.630><c> other</c><00:05:45.840><c> as</c><00:05:46.050><c> far</c><00:05:46.350><c> as</c>
+
+00:05:46.460 --> 00:05:46.470 align:start position:0%
+things will impact each other as far as
+ 
+
+00:05:46.470 --> 00:05:48.830 align:start position:0%
+things will impact each other as far as
+the<00:05:46.620><c> FPS</c><00:05:47.400><c> and</c><00:05:47.850><c> the</c><00:05:48.000><c> latency</c><00:05:48.390><c> it's</c><00:05:48.479><c> given</c><00:05:48.750><c> to</c>
+
+00:05:48.830 --> 00:05:48.840 align:start position:0%
+the FPS and the latency it's given to
+ 
+
+00:05:48.840 --> 00:05:51.680 align:start position:0%
+the FPS and the latency it's given to
+all<00:05:48.930><c> credit</c><00:05:49.320><c> until</c><00:05:49.560><c> did</c><00:05:50.220><c> emphasize</c><00:05:50.669><c> that</c><00:05:50.970><c> this</c>
+
+00:05:51.680 --> 00:05:51.690 align:start position:0%
+all credit until did emphasize that this
+ 
+
+00:05:51.690 --> 00:05:53.810 align:start position:0%
+all credit until did emphasize that this
+is<00:05:51.750><c> not</c><00:05:52.050><c> a</c><00:05:52.080><c> final</c><00:05:52.350><c> product</c><00:05:52.680><c> and</c><00:05:53.040><c> that</c><00:05:53.610><c> an</c>
+
+00:05:53.810 --> 00:05:53.820 align:start position:0%
+is not a final product and that an
+ 
+
+00:05:53.820 --> 00:05:55.490 align:start position:0%
+is not a final product and that an
+updated<00:05:54.690><c> version</c><00:05:54.840><c> should</c><00:05:55.260><c> improve</c>
+
+00:05:55.490 --> 00:05:55.500 align:start position:0%
+updated version should improve
+ 
+
+00:05:55.500 --> 00:05:58.340 align:start position:0%
+updated version should improve
+performance<00:05:55.979><c> that's</c><00:05:56.430><c> probably</c><00:05:56.910><c> true</c><00:05:57.200><c> to</c><00:05:58.200><c> what</c>
+
+00:05:58.340 --> 00:05:58.350 align:start position:0%
+performance that's probably true to what
+ 
+
+00:05:58.350 --> 00:06:00.200 align:start position:0%
+performance that's probably true to what
+degree<00:05:58.500><c> we're</c><00:05:59.160><c> not</c><00:05:59.280><c> certain</c><00:05:59.490><c> obviously</c><00:06:00.060><c> but</c>
+
+00:06:00.200 --> 00:06:00.210 align:start position:0%
+degree we're not certain obviously but
+ 
+
+00:06:00.210 --> 00:06:03.400 align:start position:0%
+degree we're not certain obviously but
+there<00:06:00.690><c> have</c><00:06:00.990><c> been</c><00:06:01.260><c> even</c><00:06:02.070><c> by</c><00:06:02.310><c> Nvidia</c><00:06:02.790><c> and</c><00:06:02.970><c> AMD</c>
+
+00:06:03.400 --> 00:06:03.410 align:start position:0%
+there have been even by Nvidia and AMD
+ 
+
+00:06:03.410 --> 00:06:06.050 align:start position:0%
+there have been even by Nvidia and AMD
+game<00:06:04.410><c> driver</c><00:06:04.710><c> updates</c><00:06:05.190><c> in</c><00:06:05.400><c> recent</c><00:06:05.729><c> history</c>
+
+00:06:06.050 --> 00:06:06.060 align:start position:0%
+game driver updates in recent history
+ 
+
+00:06:06.060 --> 00:06:07.940 align:start position:0%
+game driver updates in recent history
+that<00:06:06.330><c> provided</c><00:06:07.020><c> double-digit</c><00:06:07.560><c> performance</c>
+
+00:06:07.940 --> 00:06:07.950 align:start position:0%
+that provided double-digit performance
+ 
+
+00:06:07.950 --> 00:06:10.060 align:start position:0%
+that provided double-digit performance
+increases<00:06:08.250><c> sometimes</c><00:06:08.760><c> you</c><00:06:08.850><c> see</c><00:06:09.000><c> as</c><00:06:09.090><c> much</c><00:06:09.210><c> as</c>
+
+00:06:10.060 --> 00:06:10.070 align:start position:0%
+increases sometimes you see as much as
+ 
+
+00:06:10.070 --> 00:06:12.500 align:start position:0%
+increases sometimes you see as much as
+23%<00:06:11.070><c> and</c><00:06:11.310><c> recent</c><00:06:11.910><c> memory</c><00:06:12.090><c> first</c><00:06:12.300><c> specific</c>
+
+00:06:12.500 --> 00:06:12.510 align:start position:0%
+23% and recent memory first specific
+ 
+
+00:06:12.510 --> 00:06:14.659 align:start position:0%
+23% and recent memory first specific
+game<00:06:12.900><c> with</c><00:06:13.380><c> a</c><00:06:13.410><c> specific</c><00:06:13.650><c> card</c><00:06:14.070><c> so</c><00:06:14.520><c> it's</c>
+
+00:06:14.659 --> 00:06:14.669 align:start position:0%
+game with a specific card so it's
+ 
+
+00:06:14.669 --> 00:06:16.460 align:start position:0%
+game with a specific card so it's
+possible<00:06:15.120><c> to</c><00:06:15.180><c> get</c><00:06:15.270><c> big</c><00:06:15.479><c> games</c><00:06:15.750><c> typically</c><00:06:16.290><c> it's</c>
+
+00:06:16.460 --> 00:06:16.470 align:start position:0%
+possible to get big games typically it's
+ 
+
+00:06:16.470 --> 00:06:19.219 align:start position:0%
+possible to get big games typically it's
+not<00:06:16.590><c> quite</c><00:06:16.950><c> that</c><00:06:16.979><c> large</c><00:06:17.430><c> but</c><00:06:18.140><c> either</c><00:06:19.140><c> way</c>
+
+00:06:19.219 --> 00:06:19.229 align:start position:0%
+not quite that large but either way
+ 
+
+00:06:19.229 --> 00:06:21.830 align:start position:0%
+not quite that large but either way
+we're<00:06:19.590><c> giving</c><00:06:20.010><c> Intel</c><00:06:20.430><c> a</c><00:06:20.460><c> bit</c><00:06:20.700><c> of</c><00:06:20.850><c> the</c><00:06:21.300><c> benefit</c>
+
+00:06:21.830 --> 00:06:21.840 align:start position:0%
+we're giving Intel a bit of the benefit
+ 
+
+00:06:21.840 --> 00:06:23.830 align:start position:0%
+we're giving Intel a bit of the benefit
+of<00:06:21.900><c> the</c><00:06:21.990><c> doubt</c><00:06:22.050><c> here</c><00:06:22.229><c> because</c><00:06:23.010><c> it's</c><00:06:23.160><c> not</c><00:06:23.220><c> a</c>
+
+00:06:23.830 --> 00:06:23.840 align:start position:0%
+of the doubt here because it's not a
+ 
+
+00:06:23.840 --> 00:06:26.210 align:start position:0%
+of the doubt here because it's not a
+product<00:06:24.840><c> yet</c><00:06:25.200><c> that</c><00:06:25.440><c> they're</c><00:06:25.650><c> even</c><00:06:25.890><c> willing</c><00:06:26.100><c> to</c>
+
+00:06:26.210 --> 00:06:26.220 align:start position:0%
+product yet that they're even willing to
+ 
+
+00:06:26.220 --> 00:06:28.730 align:start position:0%
+product yet that they're even willing to
+show<00:06:26.430><c> us</c><00:06:26.550><c> the</c><00:06:26.700><c> specs</c><00:06:26.940><c> of</c><00:06:27.180><c> so</c><00:06:27.780><c> it's</c><00:06:28.410><c> hard</c><00:06:28.650><c> to</c>
+
+00:06:28.730 --> 00:06:28.740 align:start position:0%
+show us the specs of so it's hard to
+ 
+
+00:06:28.740 --> 00:06:31.250 align:start position:0%
+show us the specs of so it's hard to
+criticize<00:06:28.890><c> in</c><00:06:29.640><c> that</c><00:06:30.090><c> regard</c><00:06:30.450><c> but</c><00:06:30.690><c> as</c><00:06:30.990><c> far</c><00:06:31.229><c> as</c>
+
+00:06:31.250 --> 00:06:31.260 align:start position:0%
+criticize in that regard but as far as
+ 
+
+00:06:31.260 --> 00:06:33.469 align:start position:0%
+criticize in that regard but as far as
+experiences<00:06:31.890><c> and</c><00:06:32.190><c> this</c><00:06:32.460><c> was</c><00:06:32.669><c> the</c><00:06:33.090><c> whole</c><00:06:33.180><c> point</c>
+
+00:06:33.469 --> 00:06:33.479 align:start position:0%
+experiences and this was the whole point
+ 
+
+00:06:33.479 --> 00:06:35.750 align:start position:0%
+experiences and this was the whole point
+to<00:06:33.600><c> the</c><00:06:33.690><c> demo</c><00:06:33.900><c> it</c><00:06:34.410><c> was</c><00:06:34.740><c> not</c><00:06:35.130><c> a</c><00:06:35.160><c> good</c><00:06:35.400><c> one</c><00:06:35.520><c> for</c>
+
+00:06:35.750 --> 00:06:35.760 align:start position:0%
+to the demo it was not a good one for
+ 
+
+00:06:35.760 --> 00:06:37.790 align:start position:0%
+to the demo it was not a good one for
+framerate<00:06:36.000><c> we</c><00:06:36.300><c> were</c><00:06:36.360><c> able</c><00:06:36.450><c> to</c><00:06:36.780><c> frame</c><00:06:37.440><c> count</c>
+
+00:06:37.790 --> 00:06:37.800 align:start position:0%
+framerate we were able to frame count
+ 
+
+00:06:37.800 --> 00:06:39.999 align:start position:0%
+framerate we were able to frame count
+the<00:06:38.010><c> specific</c><00:06:38.460><c> non-combat</c><00:06:39.390><c> part</c><00:06:39.599><c> of</c><00:06:39.690><c> the</c><00:06:39.750><c> dam</c>
+
+00:06:39.999 --> 00:06:40.009 align:start position:0%
+the specific non-combat part of the dam
+ 
+
+00:06:40.009 --> 00:06:41.559 align:start position:0%
+the specific non-combat part of the dam
+that<00:06:40.159><c> we</c><00:06:40.249><c> captured</c><00:06:40.699><c> with</c><00:06:40.939><c> two</c><00:06:41.150><c> different</c><00:06:41.389><c> sets</c>
+
+00:06:41.559 --> 00:06:41.569 align:start position:0%
+that we captured with two different sets
+ 
+
+00:06:41.569 --> 00:06:43.390 align:start position:0%
+that we captured with two different sets
+of<00:06:41.689><c> numbers</c><00:06:41.990><c> note</c><00:06:42.589><c> that</c><00:06:42.770><c> you</c><00:06:42.949><c> won't</c><00:06:43.189><c> be</c><00:06:43.309><c> able</c>
+
+00:06:43.390 --> 00:06:43.400 align:start position:0%
+of numbers note that you won't be able
+ 
+
+00:06:43.400 --> 00:06:45.100 align:start position:0%
+of numbers note that you won't be able
+to<00:06:43.520><c> frame</c><00:06:43.759><c> count</c><00:06:44.029><c> our</c><00:06:44.210><c> footage</c><00:06:44.569><c> in</c><00:06:44.809><c> the</c>
+
+00:06:45.100 --> 00:06:45.110 align:start position:0%
+to frame count our footage in the
+ 
+
+00:06:45.110 --> 00:06:46.809 align:start position:0%
+to frame count our footage in the
+Youtube<00:06:45.469><c> upload</c><00:06:45.619><c> because</c><00:06:46.279><c> it's</c><00:06:46.550><c> rendered</c>
+
+00:06:46.809 --> 00:06:46.819 align:start position:0%
+Youtube upload because it's rendered
+ 
+
+00:06:46.819 --> 00:06:48.279 align:start position:0%
+Youtube upload because it's rendered
+down<00:06:46.939><c> to</c><00:06:47.150><c> a</c><00:06:47.180><c> lower</c><00:06:47.360><c> fps</c><00:06:47.779><c> than</c><00:06:47.960><c> the</c><00:06:48.050><c> native</c>
+
+00:06:48.279 --> 00:06:48.289 align:start position:0%
+down to a lower fps than the native
+ 
+
+00:06:48.289 --> 00:06:50.379 align:start position:0%
+down to a lower fps than the native
+capture<00:06:48.710><c> of</c><00:06:49.099><c> counting</c><00:06:49.580><c> environment</c><00:06:50.059><c> updates</c>
+
+00:06:50.379 --> 00:06:50.389 align:start position:0%
+capture of counting environment updates
+ 
+
+00:06:50.389 --> 00:06:52.239 align:start position:0%
+capture of counting environment updates
+where<00:06:50.629><c> player</c><00:06:50.960><c> animation</c><00:06:51.469><c> was</c><00:06:51.619><c> not</c><00:06:51.770><c> updated</c>
+
+00:06:52.239 --> 00:06:52.249 align:start position:0%
+where player animation was not updated
+ 
+
+00:06:52.249 --> 00:06:54.579 align:start position:0%
+where player animation was not updated
+the<00:06:52.639><c> numbers</c><00:06:52.939><c> were</c><00:06:53.180><c> higher</c><00:06:53.389><c> if</c><00:06:53.930><c> only</c><00:06:54.199><c> counting</c>
+
+00:06:54.579 --> 00:06:54.589 align:start position:0%
+the numbers were higher if only counting
+ 
+
+00:06:54.589 --> 00:06:56.439 align:start position:0%
+the numbers were higher if only counting
+full<00:06:54.800><c> frame</c><00:06:55.009><c> updates</c><00:06:55.369><c> that</c><00:06:55.610><c> included</c><00:06:56.149><c> player</c>
+
+00:06:56.439 --> 00:06:56.449 align:start position:0%
+full frame updates that included player
+ 
+
+00:06:56.449 --> 00:06:58.899 align:start position:0%
+full frame updates that included player
+animation<00:06:57.139><c> changes</c><00:06:57.379><c> the</c><00:06:58.009><c> number</c><00:06:58.309><c> was</c><00:06:58.580><c> lowered</c>
+
+00:06:58.899 --> 00:06:58.909 align:start position:0%
+animation changes the number was lowered
+ 
+
+00:06:58.909 --> 00:07:00.909 align:start position:0%
+animation changes the number was lowered
+for<00:06:59.360><c> our</c><00:06:59.449><c> framerate</c><00:06:59.689><c> updates</c><00:07:00.169><c> wherein</c><00:07:00.680><c> we</c>
+
+00:07:00.909 --> 00:07:00.919 align:start position:0%
+for our framerate updates wherein we
+ 
+
+00:07:00.919 --> 00:07:02.529 align:start position:0%
+for our framerate updates wherein we
+allowed<00:07:01.460><c> environment</c><00:07:01.909><c> updates</c><00:07:02.180><c> without</c>
+
+00:07:02.529 --> 00:07:02.539 align:start position:0%
+allowed environment updates without
+ 
+
+00:07:02.539 --> 00:07:04.299 align:start position:0%
+allowed environment updates without
+changes<00:07:02.960><c> to</c><00:07:02.990><c> player</c><00:07:03.199><c> animations</c><00:07:03.409><c> that</c><00:07:03.740><c> count</c>
+
+00:07:04.299 --> 00:07:04.309 align:start position:0%
+changes to player animations that count
+ 
+
+00:07:04.309 --> 00:07:06.879 align:start position:0%
+changes to player animations that count
+toward<00:07:04.580><c> fps</c><00:07:05.059><c> the</c><00:07:05.629><c> numbers</c><00:07:05.869><c> were</c><00:07:05.990><c> 44</c><00:07:06.379><c> fps</c><00:07:06.710><c> our</c>
+
+00:07:06.879 --> 00:07:06.889 align:start position:0%
+toward fps the numbers were 44 fps our
+ 
+
+00:07:06.889 --> 00:07:10.119 align:start position:0%
+toward fps the numbers were 44 fps our
+sample<00:07:07.159><c> 146</c><00:07:07.849><c> FPS</c><00:07:08.180><c> for</c><00:07:08.300><c> sample</c><00:07:08.599><c> 2</c><00:07:08.749><c> and</c><00:07:09.020><c> 49</c><00:07:09.740><c> FPS</c>
+
+00:07:10.119 --> 00:07:10.129 align:start position:0%
+sample 146 FPS for sample 2 and 49 FPS
+ 
+
+00:07:10.129 --> 00:07:12.070 align:start position:0%
+sample 146 FPS for sample 2 and 49 FPS
+for<00:07:10.279><c> sample</c><00:07:10.580><c> 3</c><00:07:10.819><c> average</c><00:07:11.119><c> in</c><00:07:11.240><c> 46</c><00:07:11.659><c> point</c><00:07:11.839><c> three</c>
+
+00:07:12.070 --> 00:07:12.080 align:start position:0%
+for sample 3 average in 46 point three
+ 
+
+00:07:12.080 --> 00:07:13.749 align:start position:0%
+for sample 3 average in 46 point three
+for<00:07:12.620><c> this</c><00:07:12.740><c> section</c><00:07:12.949><c> of</c><00:07:13.129><c> the</c><00:07:13.159><c> game</c><00:07:13.309><c> we</c><00:07:13.490><c> were</c><00:07:13.580><c> in</c>
+
+00:07:13.749 --> 00:07:13.759 align:start position:0%
+for this section of the game we were in
+ 
+
+00:07:13.759 --> 00:07:15.549 align:start position:0%
+for this section of the game we were in
+if<00:07:14.210><c> you</c><00:07:14.360><c> only</c><00:07:14.539><c> count</c><00:07:14.779><c> player</c><00:07:15.050><c> animation</c>
+
+00:07:15.549 --> 00:07:15.559 align:start position:0%
+if you only count player animation
+ 
+
+00:07:15.559 --> 00:07:17.469 align:start position:0%
+if you only count player animation
+updates<00:07:15.889><c> and</c><00:07:16.159><c> disregard</c><00:07:16.759><c> shadow</c><00:07:17.149><c> and</c>
+
+00:07:17.469 --> 00:07:17.479 align:start position:0%
+updates and disregard shadow and
+ 
+
+00:07:17.479 --> 00:07:19.360 align:start position:0%
+updates and disregard shadow and
+lighting<00:07:17.809><c> updates</c><00:07:18.169><c> the</c><00:07:18.620><c> numbers</c><00:07:18.889><c> were</c><00:07:19.009><c> in</c><00:07:19.279><c> the</c>
+
+00:07:19.360 --> 00:07:19.370 align:start position:0%
+lighting updates the numbers were in the
+ 
+
+00:07:19.370 --> 00:07:21.760 align:start position:0%
+lighting updates the numbers were in the
+30s<00:07:19.759><c> but</c><00:07:20.059><c> we're</c><00:07:20.629><c> not</c><00:07:20.749><c> at</c><00:07:20.899><c> home</c><00:07:20.930><c> and</c><00:07:21.349><c> unsure</c><00:07:21.740><c> of</c>
+
+00:07:21.760 --> 00:07:21.770 align:start position:0%
+30s but we're not at home and unsure of
+ 
+
+00:07:21.770 --> 00:07:24.010 align:start position:0%
+30s but we're not at home and unsure of
+its<00:07:22.069><c> destiny</c><00:07:22.279><c> to</c><00:07:22.699><c> updates</c><00:07:23.089><c> the</c><00:07:23.689><c> player</c>
+
+00:07:24.010 --> 00:07:24.020 align:start position:0%
+its destiny to updates the player
+ 
+
+00:07:24.020 --> 00:07:25.869 align:start position:0%
+its destiny to updates the player
+animation<00:07:24.559><c> with</c><00:07:24.649><c> each</c><00:07:24.800><c> new</c><00:07:24.979><c> frame</c><00:07:25.129><c> so</c><00:07:25.759><c> we're</c>
+
+00:07:25.869 --> 00:07:25.879 align:start position:0%
+animation with each new frame so we're
+ 
+
+00:07:25.879 --> 00:07:26.980 align:start position:0%
+animation with each new frame so we're
+going<00:07:25.999><c> to</c><00:07:26.089><c> give</c><00:07:26.240><c> into</c><00:07:26.449><c> all</c><00:07:26.539><c> the</c><00:07:26.659><c> benefit</c><00:07:26.960><c> of</c>
+
+00:07:26.980 --> 00:07:26.990 align:start position:0%
+going to give into all the benefit of
+ 
+
+00:07:26.990 --> 00:07:28.959 align:start position:0%
+going to give into all the benefit of
+the<00:07:27.080><c> doubt</c><00:07:27.229><c> here</c><00:07:27.289><c> and</c><00:07:27.620><c> call</c><00:07:27.800><c> this</c><00:07:27.949><c> a</c><00:07:28.129><c> 46</c><00:07:28.639><c> FPS</c>
+
+00:07:28.959 --> 00:07:28.969 align:start position:0%
+the doubt here and call this a 46 FPS
+ 
+
+00:07:28.969 --> 00:07:31.929 align:start position:0%
+the doubt here and call this a 46 FPS
+average<00:07:29.330><c> from</c><00:07:29.809><c> a</c><00:07:29.990><c> very</c><00:07:30.649><c> rapid</c><00:07:31.159><c> show</c><00:07:31.729><c> floor</c>
+
+00:07:31.929 --> 00:07:31.939 align:start position:0%
+average from a very rapid show floor
+ 
+
+00:07:31.939 --> 00:07:33.909 align:start position:0%
+average from a very rapid show floor
+benchmark<00:07:32.449><c> with</c><00:07:32.629><c> some</c><00:07:33.020><c> more</c><00:07:33.379><c> variables</c><00:07:33.860><c> than</c>
+
+00:07:33.909 --> 00:07:33.919 align:start position:0%
+benchmark with some more variables than
+ 
+
+00:07:33.919 --> 00:07:35.769 align:start position:0%
+benchmark with some more variables than
+we'd<00:07:34.129><c> like</c><00:07:34.159><c> in</c><00:07:34.520><c> it</c><00:07:34.639><c> when</c><00:07:34.819><c> destiny</c><00:07:35.240><c> of</c><00:07:35.300><c> 2</c><00:07:35.479><c> first</c>
+
+00:07:35.769 --> 00:07:35.779 align:start position:0%
+we'd like in it when destiny of 2 first
+ 
+
+00:07:35.779 --> 00:07:37.299 align:start position:0%
+we'd like in it when destiny of 2 first
+launched<00:07:36.259><c> we</c><00:07:36.409><c> did</c><00:07:36.830><c> a</c><00:07:36.889><c> whole</c><00:07:37.039><c> bunch</c><00:07:37.129><c> of</c>
+
+00:07:37.299 --> 00:07:37.309 align:start position:0%
+launched we did a whole bunch of
+ 
+
+00:07:37.309 --> 00:07:38.889 align:start position:0%
+launched we did a whole bunch of
+in-depth<00:07:37.610><c> testing</c><00:07:37.879><c> on</c><00:07:38.149><c> it</c><00:07:38.300><c> and</c><00:07:38.449><c> this</c><00:07:38.689><c> was</c><00:07:38.869><c> a</c>
+
+00:07:38.889 --> 00:07:38.899 align:start position:0%
+in-depth testing on it and this was a
+ 
+
+00:07:38.899 --> 00:07:40.239 align:start position:0%
+in-depth testing on it and this was a
+while<00:07:39.139><c> ago</c><00:07:39.169><c> now</c><00:07:39.529><c> it</c><00:07:39.649><c> was</c><00:07:39.740><c> back</c><00:07:39.889><c> when</c><00:07:40.039><c> the</c><00:07:40.099><c> game</c>
+
+00:07:40.239 --> 00:07:40.249 align:start position:0%
+while ago now it was back when the game
+ 
+
+00:07:40.249 --> 00:07:42.070 align:start position:0%
+while ago now it was back when the game
+came<00:07:40.430><c> out</c><00:07:40.580><c> so</c><00:07:40.789><c> things</c><00:07:40.969><c> have</c><00:07:41.089><c> changed</c><00:07:41.479><c> but</c><00:07:41.959><c> one</c>
+
+00:07:42.070 --> 00:07:42.080 align:start position:0%
+came out so things have changed but one
+ 
+
+00:07:42.080 --> 00:07:43.239 align:start position:0%
+came out so things have changed but one
+of<00:07:42.169><c> the</c><00:07:42.259><c> things</c><00:07:42.439><c> that</c><00:07:42.619><c> we</c><00:07:42.709><c> learned</c><00:07:42.919><c> and</c><00:07:43.159><c> is</c>
+
+00:07:43.239 --> 00:07:43.249 align:start position:0%
+of the things that we learned and is
+ 
+
+00:07:43.249 --> 00:07:45.939 align:start position:0%
+of the things that we learned and is
+probably<00:07:43.580><c> still</c><00:07:43.819><c> a</c><00:07:44.059><c> constant</c><00:07:44.839><c> was</c><00:07:45.469><c> that</c><00:07:45.680><c> being</c>
+
+00:07:45.939 --> 00:07:45.949 align:start position:0%
+probably still a constant was that being
+ 
+
+00:07:45.949 --> 00:07:47.860 align:start position:0%
+probably still a constant was that being
+in<00:07:46.099><c> certain</c><00:07:46.639><c> areas</c><00:07:47.509><c> in</c><00:07:47.599><c> the</c><00:07:47.629><c> game</c>
+
+00:07:47.860 --> 00:07:47.870 align:start position:0%
+in certain areas in the game
+ 
+
+00:07:47.870 --> 00:07:49.659 align:start position:0%
+in certain areas in the game
+particularly<00:07:48.680><c> those</c><00:07:48.889><c> that</c><00:07:49.129><c> were</c><00:07:49.219><c> combat</c>
+
+00:07:49.659 --> 00:07:49.669 align:start position:0%
+particularly those that were combat
+ 
+
+00:07:49.669 --> 00:07:52.329 align:start position:0%
+particularly those that were combat
+heavy<00:07:49.879><c> where</c><00:07:50.689><c> as</c><00:07:50.930><c> you'd</c><00:07:51.409><c> expect</c><00:07:51.830><c> likely</c><00:07:52.249><c> to</c>
+
+00:07:52.329 --> 00:07:52.339 align:start position:0%
+heavy where as you'd expect likely to
+ 
+
+00:07:52.339 --> 00:07:54.879 align:start position:0%
+heavy where as you'd expect likely to
+bring<00:07:52.490><c> framerate</c><00:07:52.759><c> down</c><00:07:53.120><c> then</c><00:07:53.779><c> in</c><00:07:53.990><c> areas</c><00:07:54.860><c> like</c>
+
+00:07:54.879 --> 00:07:54.889 align:start position:0%
+bring framerate down then in areas like
+ 
+
+00:07:54.889 --> 00:07:57.129 align:start position:0%
+bring framerate down then in areas like
+we<00:07:55.309><c> were</c><00:07:55.399><c> in</c><00:07:55.519><c> for</c><00:07:55.669><c> the</c><00:07:55.759><c> Intel</c><00:07:56.089><c> demo</c><00:07:56.300><c> where</c><00:07:56.569><c> we</c>
+
+00:07:57.129 --> 00:07:57.139 align:start position:0%
+we were in for the Intel demo where we
+ 
+
+00:07:57.139 --> 00:07:59.649 align:start position:0%
+we were in for the Intel demo where we
+had<00:07:57.229><c> already</c><00:07:57.349><c> eliminated</c><00:07:57.889><c> the</c><00:07:58.509><c> enemies</c><00:07:59.509><c> in</c>
+
+00:07:59.649 --> 00:07:59.659 align:start position:0%
+had already eliminated the enemies in
+ 
+
+00:07:59.659 --> 00:08:01.980 align:start position:0%
+had already eliminated the enemies in
+the<00:07:59.749><c> benchmark</c><00:08:00.199><c> or</c><00:08:01.069><c> in</c><00:08:01.159><c> the</c><00:08:01.219><c> game</c><00:08:01.399><c> rather</c><00:08:01.669><c> and</c>
+
+00:08:01.980 --> 00:08:01.990 align:start position:0%
+the benchmark or in the game rather and
+ 
+
+00:08:01.990 --> 00:08:04.689 align:start position:0%
+the benchmark or in the game rather and
+so<00:08:02.990><c> we're</c><00:08:03.139><c> left</c><00:08:03.289><c> running</c><00:08:03.529><c> around</c><00:08:03.709><c> an</c><00:08:04.009><c> empty</c>
+
+00:08:04.689 --> 00:08:04.699 align:start position:0%
+so we're left running around an empty
+ 
+
+00:08:04.699 --> 00:08:07.649 align:start position:0%
+so we're left running around an empty
+map<00:08:04.909><c> so</c><00:08:05.539><c> they</c><00:08:06.289><c> might</c><00:08:06.529><c> be</c><00:08:06.620><c> a</c><00:08:06.649><c> bit</c><00:08:06.709><c> lower</c><00:08:07.069><c> in</c>
+
+00:08:07.649 --> 00:08:07.659 align:start position:0%
+map so they might be a bit lower in
+ 
+
+00:08:07.659 --> 00:08:11.799 align:start position:0%
+map so they might be a bit lower in
+combat<00:08:08.659><c> areas</c><00:08:09.099><c> but</c><00:08:10.099><c> anyway</c><00:08:11.089><c> this</c><00:08:11.240><c> is</c><00:08:11.389><c> all</c><00:08:11.539><c> kind</c>
+
+00:08:11.799 --> 00:08:11.809 align:start position:0%
+combat areas but anyway this is all kind
+ 
+
+00:08:11.809 --> 00:08:14.379 align:start position:0%
+combat areas but anyway this is all kind
+of<00:08:11.930><c> hacked</c><00:08:12.680><c> together</c><00:08:12.949><c> on</c><00:08:13.249><c> a</c><00:08:13.309><c> show</c><00:08:13.490><c> floor</c><00:08:13.759><c> so</c>
+
+00:08:14.379 --> 00:08:14.389 align:start position:0%
+of hacked together on a show floor so
+ 
+
+00:08:14.389 --> 00:08:15.850 align:start position:0%
+of hacked together on a show floor so
+we'll<00:08:14.839><c> have</c><00:08:14.930><c> to</c><00:08:15.080><c> revisit</c><00:08:15.409><c> this</c><00:08:15.499><c> once</c><00:08:15.740><c> the</c>
+
+00:08:15.850 --> 00:08:15.860 align:start position:0%
+we'll have to revisit this once the
+ 
+
+00:08:15.860 --> 00:08:18.360 align:start position:0%
+we'll have to revisit this once the
+product<00:08:16.159><c> actually</c><00:08:16.459><c> comes</c><00:08:16.610><c> out</c><00:08:16.759><c> at</c><00:08:17.149><c> 1080p</c><00:08:17.659><c> low</c>
+
+00:08:18.360 --> 00:08:18.370 align:start position:0%
+product actually comes out at 1080p low
+ 
+
+00:08:18.370 --> 00:08:21.159 align:start position:0%
+product actually comes out at 1080p low
+sub<00:08:19.370><c> 60</c><00:08:19.819><c> numbers</c><00:08:20.120><c> which</c><00:08:20.300><c> is</c><00:08:20.449><c> definitely</c><00:08:21.019><c> what</c>
+
+00:08:21.159 --> 00:08:21.169 align:start position:0%
+sub 60 numbers which is definitely what
+ 
+
+00:08:21.169 --> 00:08:24.459 align:start position:0%
+sub 60 numbers which is definitely what
+this<00:08:21.349><c> was</c><00:08:21.529><c> and</c><00:08:21.830><c> definitely</c><00:08:22.759><c> sub</c><00:08:22.999><c> 50</c><00:08:23.469><c> probably</c>
+
+00:08:24.459 --> 00:08:24.469 align:start position:0%
+this was and definitely sub 50 probably
+ 
+
+00:08:24.469 --> 00:08:28.209 align:start position:0%
+this was and definitely sub 50 probably
+in<00:08:25.129><c> the</c><00:08:25.699><c> 40s</c><00:08:25.909><c> like</c><00:08:26.209><c> we're</c><00:08:26.749><c> showing</c><00:08:26.899><c> here</c><00:08:27.289><c> but</c>
+
+00:08:28.209 --> 00:08:28.219 align:start position:0%
+in the 40s like we're showing here but
+ 
+
+00:08:28.219 --> 00:08:30.610 align:start position:0%
+in the 40s like we're showing here but
+some<00:08:28.490><c> 60</c><00:08:28.789><c> FPS</c><00:08:29.149><c> numbers</c><00:08:29.449><c> are</c><00:08:29.629><c> not</c><00:08:30.019><c> impressive</c>
+
+00:08:30.610 --> 00:08:30.620 align:start position:0%
+some 60 FPS numbers are not impressive
+ 
+
+00:08:30.620 --> 00:08:33.490 align:start position:0%
+some 60 FPS numbers are not impressive
+at<00:08:30.830><c> 1080p</c><00:08:31.189><c> low</c><00:08:31.399><c> with</c><00:08:32.060><c> destiny</c><00:08:32.449><c> to</c><00:08:32.630><c> being</c><00:08:33.380><c> a</c>
+
+00:08:33.490 --> 00:08:33.500 align:start position:0%
+at 1080p low with destiny to being a
+ 
+
+00:08:33.500 --> 00:08:35.589 align:start position:0%
+at 1080p low with destiny to being a
+shooter<00:08:34.339><c> made</c><00:08:34.550><c> things</c><00:08:34.760><c> worse</c><00:08:35.000><c> because</c><00:08:35.329><c> it's</c>
+
+00:08:35.589 --> 00:08:35.599 align:start position:0%
+shooter made things worse because it's
+ 
+
+00:08:35.599 --> 00:08:39.730 align:start position:0%
+shooter made things worse because it's
+genuinely<00:08:37.089><c> it's</c><00:08:38.089><c> it's</c><00:08:38.419><c> technically</c><00:08:38.930><c> playable</c>
+
+00:08:39.730 --> 00:08:39.740 align:start position:0%
+genuinely it's it's technically playable
+ 
+
+00:08:39.740 --> 00:08:42.399 align:start position:0%
+genuinely it's it's technically playable
+but<00:08:40.399><c> if</c><00:08:41.000><c> you're</c><00:08:41.180><c> competitive</c><00:08:41.510><c> its</c><00:08:41.899><c> unplayable</c>
+
+00:08:42.399 --> 00:08:42.409 align:start position:0%
+but if you're competitive its unplayable
+ 
+
+00:08:42.409 --> 00:08:44.699 align:start position:0%
+but if you're competitive its unplayable
+if<00:08:43.010><c> you're</c><00:08:43.219><c> not</c><00:08:43.370><c> competitive</c><00:08:43.729><c> its</c>
+
+00:08:44.699 --> 00:08:44.709 align:start position:0%
+if you're not competitive its
+ 
+
+00:08:44.709 --> 00:08:48.460 align:start position:0%
+if you're not competitive its
+unenjoyable<00:08:46.089><c> so</c><00:08:47.089><c> experience</c><00:08:47.959><c> was</c><00:08:48.079><c> not</c><00:08:48.260><c> good</c>
+
+00:08:48.460 --> 00:08:48.470 align:start position:0%
+unenjoyable so experience was not good
+ 
+
+00:08:48.470 --> 00:08:49.780 align:start position:0%
+unenjoyable so experience was not good
+even<00:08:48.769><c> with</c><00:08:48.949><c> the</c><00:08:48.980><c> mouse</c><00:08:49.160><c> and</c><00:08:49.310><c> keyboard</c><00:08:49.459><c> we</c>
+
+00:08:49.780 --> 00:08:49.790 align:start position:0%
+even with the mouse and keyboard we
+ 
+
+00:08:49.790 --> 00:08:53.410 align:start position:0%
+even with the mouse and keyboard we
+suspect<00:08:51.040><c> you'd</c><00:08:52.040><c> still</c><00:08:52.370><c> have</c><00:08:52.399><c> issues</c>
+
+00:08:53.410 --> 00:08:53.420 align:start position:0%
+suspect you'd still have issues
+ 
+
+00:08:53.420 --> 00:08:55.810 align:start position:0%
+suspect you'd still have issues
+aiming<00:08:53.990><c> at</c><00:08:54.110><c> things</c><00:08:54.350><c> and</c><00:08:54.650><c> moving</c><00:08:55.340><c> in</c><00:08:55.610><c> a</c><00:08:55.700><c> way</c>
+
+00:08:55.810 --> 00:08:55.820 align:start position:0%
+aiming at things and moving in a way
+ 
+
+00:08:55.820 --> 00:08:58.660 align:start position:0%
+aiming at things and moving in a way
+that<00:08:56.060><c> is</c><00:08:56.360><c> predictable</c><00:08:56.840><c> so</c><00:08:57.530><c> we'd</c><00:08:58.220><c> like</c><00:08:58.370><c> to</c><00:08:58.430><c> see</c>
+
+00:08:58.660 --> 00:08:58.670 align:start position:0%
+that is predictable so we'd like to see
+ 
+
+00:08:58.670 --> 00:09:00.400 align:start position:0%
+that is predictable so we'd like to see
+more<00:08:58.820><c> from</c><00:08:59.030><c> Intel</c><00:08:59.570><c> on</c><00:08:59.660><c> this</c><00:08:59.840><c> front</c><00:09:00.080><c> in</c><00:09:00.260><c> the</c>
+
+00:09:00.400 --> 00:09:00.410 align:start position:0%
+more from Intel on this front in the
+ 
+
+00:09:00.410 --> 00:09:03.070 align:start position:0%
+more from Intel on this front in the
+very<00:09:00.560><c> least</c><00:09:00.770><c> maybe</c><00:09:01.460><c> hold</c><00:09:02.300><c> off</c><00:09:02.420><c> on</c><00:09:02.660><c> the</c><00:09:02.750><c> demos</c>
+
+00:09:03.070 --> 00:09:03.080 align:start position:0%
+very least maybe hold off on the demos
+ 
+
+00:09:03.080 --> 00:09:04.990 align:start position:0%
+very least maybe hold off on the demos
+don't<00:09:03.560><c> try</c><00:09:03.770><c> to</c><00:09:03.830><c> make</c><00:09:03.980><c> noise</c><00:09:04.430><c> about</c><00:09:04.670><c> a</c><00:09:04.730><c> product</c>
+
+00:09:04.990 --> 00:09:05.000 align:start position:0%
+don't try to make noise about a product
+ 
+
+00:09:05.000 --> 00:09:08.230 align:start position:0%
+don't try to make noise about a product
+that<00:09:05.300><c> is</c><00:09:05.570><c> going</c><00:09:06.260><c> to</c><00:09:06.320><c> perform</c><00:09:06.730><c> poorly</c><00:09:07.730><c> in</c><00:09:08.150><c> the</c>
+
+00:09:08.230 --> 00:09:08.240 align:start position:0%
+that is going to perform poorly in the
+ 
+
+00:09:08.240 --> 00:09:09.580 align:start position:0%
+that is going to perform poorly in the
+eyes<00:09:08.330><c> of</c><00:09:08.570><c> people</c><00:09:08.660><c> who</c><00:09:08.900><c> are</c><00:09:09.020><c> experienced</c>
+
+00:09:09.580 --> 00:09:09.590 align:start position:0%
+eyes of people who are experienced
+ 
+
+00:09:09.590 --> 00:09:12.880 align:start position:0%
+eyes of people who are experienced
+gamers<00:09:10.300><c> so</c><00:09:11.300><c> this</c><00:09:11.540><c> is</c><00:09:11.690><c> a</c><00:09:11.720><c> mobile</c><00:09:11.960><c> GPU</c><00:09:12.410><c> the</c><00:09:12.680><c> mark</c>
+
+00:09:12.880 --> 00:09:12.890 align:start position:0%
+gamers so this is a mobile GPU the mark
+ 
+
+00:09:12.890 --> 00:09:15.010 align:start position:0%
+gamers so this is a mobile GPU the mark
+is<00:09:13.040><c> lower</c><00:09:13.220><c> to</c><00:09:13.340><c> hit</c><00:09:13.460><c> than</c><00:09:13.580><c> a</c><00:09:13.670><c> desktop</c><00:09:13.880><c> GPU</c><00:09:14.480><c> it's</c>
+
+00:09:15.010 --> 00:09:15.020 align:start position:0%
+is lower to hit than a desktop GPU it's
+ 
+
+00:09:15.020 --> 00:09:16.720 align:start position:0%
+is lower to hit than a desktop GPU it's
+supposed<00:09:15.380><c> to</c><00:09:15.470><c> be</c><00:09:15.560><c> more</c><00:09:15.740><c> than</c><00:09:15.890><c> a</c><00:09:15.950><c> normal</c><00:09:16.130><c> HD</c>
+
+00:09:16.720 --> 00:09:16.730 align:start position:0%
+supposed to be more than a normal HD
+ 
+
+00:09:16.730 --> 00:09:21.640 align:start position:0%
+supposed to be more than a normal HD
+series<00:09:16.970><c> IGP</c><00:09:17.720><c> and</c><00:09:19.750><c> even</c><00:09:20.750><c> still</c><00:09:20.870><c> we</c><00:09:21.170><c> weren't</c>
+
+00:09:21.640 --> 00:09:21.650 align:start position:0%
+series IGP and even still we weren't
+ 
+
+00:09:21.650 --> 00:09:23.380 align:start position:0%
+series IGP and even still we weren't
+impressed<00:09:21.890><c> with</c><00:09:22.130><c> it</c><00:09:22.280><c> as</c><00:09:22.490><c> for</c><00:09:22.910><c> the</c><00:09:23.000><c> other</c><00:09:23.150><c> stuff</c>
+
+00:09:23.380 --> 00:09:23.390 align:start position:0%
+impressed with it as for the other stuff
+ 
+
+00:09:23.390 --> 00:09:25.480 align:start position:0%
+impressed with it as for the other stuff
+I<00:09:23.480><c> didn't</c><00:09:23.660><c> tell</c><00:09:23.810><c> sweet</c><00:09:24.080><c> the</c><00:09:25.010><c> company</c><00:09:25.340><c> had</c><00:09:25.460><c> a</c>
+
+00:09:25.480 --> 00:09:25.490 align:start position:0%
+I didn't tell sweet the company had a
+ 
+
+00:09:25.490 --> 00:09:26.860 align:start position:0%
+I didn't tell sweet the company had a
+foldable<00:09:25.910><c> seventeen</c><00:09:26.360><c> point</c><00:09:26.510><c> seven</c><00:09:26.750><c> inch</c>
+
+00:09:26.860 --> 00:09:26.870 align:start position:0%
+foldable seventeen point seven inch
+ 
+
+00:09:26.870 --> 00:09:28.780 align:start position:0%
+foldable seventeen point seven inch
+display<00:09:27.260><c> that</c><00:09:27.860><c> was</c><00:09:27.920><c> pretty</c><00:09:28.160><c> interesting</c>
+
+00:09:28.780 --> 00:09:28.790 align:start position:0%
+display that was pretty interesting
+ 
+
+00:09:28.790 --> 00:09:31.630 align:start position:0%
+display that was pretty interesting
+it<00:09:29.300><c> has</c><00:09:29.540><c> a</c><00:09:29.570><c> socketable</c><00:09:30.350><c> sort</c><00:09:30.980><c> of</c><00:09:31.100><c> keyboard</c><00:09:31.520><c> on</c>
+
+00:09:31.630 --> 00:09:31.640 align:start position:0%
+it has a socketable sort of keyboard on
+ 
+
+00:09:31.640 --> 00:09:34.060 align:start position:0%
+it has a socketable sort of keyboard on
+it<00:09:31.790><c> there's</c><00:09:32.410><c> there's</c><00:09:33.410><c> a</c><00:09:33.470><c> sensor</c><00:09:33.890><c> they</c>
+
+00:09:34.060 --> 00:09:34.070 align:start position:0%
+it there's there's a sensor they
+ 
+
+00:09:34.070 --> 00:09:35.440 align:start position:0%
+it there's there's a sensor they
+wouldn't<00:09:34.400><c> specify</c><00:09:34.640><c> what</c><00:09:34.970><c> the</c><00:09:35.030><c> sensor</c><00:09:35.330><c> was</c>
+
+00:09:35.440 --> 00:09:35.450 align:start position:0%
+wouldn't specify what the sensor was
+ 
+
+00:09:35.450 --> 00:09:37.660 align:start position:0%
+wouldn't specify what the sensor was
+when<00:09:35.630><c> we</c><00:09:35.720><c> asked</c><00:09:35.990><c> is</c><00:09:36.080><c> that</c><00:09:36.110><c> a</c><00:09:36.230><c> photo</c><00:09:36.440><c> sensor</c><00:09:36.860><c> or</c>
+
+00:09:37.660 --> 00:09:37.670 align:start position:0%
+when we asked is that a photo sensor or
+ 
+
+00:09:37.670 --> 00:09:38.860 align:start position:0%
+when we asked is that a photo sensor or
+what<00:09:37.940><c> they</c><00:09:38.210><c> just</c><00:09:38.330><c> said</c><00:09:38.480><c> there's</c><00:09:38.630><c> a</c><00:09:38.660><c> lot</c><00:09:38.780><c> of</c>
+
+00:09:38.860 --> 00:09:38.870 align:start position:0%
+what they just said there's a lot of
+ 
+
+00:09:38.870 --> 00:09:41.470 align:start position:0%
+what they just said there's a lot of
+ways<00:09:38.960><c> you</c><00:09:39.020><c> can</c><00:09:39.140><c> do</c><00:09:39.260><c> it</c><00:09:39.380><c> which</c><00:09:39.530><c> yes</c><00:09:39.980><c> but</c><00:09:40.480><c> there's</c>
+
+00:09:41.470 --> 00:09:41.480 align:start position:0%
+ways you can do it which yes but there's
+ 
+
+00:09:41.480 --> 00:09:43.480 align:start position:0%
+ways you can do it which yes but there's
+basically<00:09:41.690><c> a</c><00:09:41.930><c> sensor</c><00:09:42.320><c> of</c><00:09:42.440><c> some</c><00:09:42.740><c> undisclosed</c>
+
+00:09:43.480 --> 00:09:43.490 align:start position:0%
+basically a sensor of some undisclosed
+ 
+
+00:09:43.490 --> 00:09:45.100 align:start position:0%
+basically a sensor of some undisclosed
+variety<00:09:43.970><c> that</c><00:09:44.480><c> when</c><00:09:44.630><c> you</c><00:09:44.690><c> put</c><00:09:44.840><c> the</c><00:09:44.930><c> keyboard</c>
+
+00:09:45.100 --> 00:09:45.110 align:start position:0%
+variety that when you put the keyboard
+ 
+
+00:09:45.110 --> 00:09:50.350 align:start position:0%
+variety that when you put the keyboard
+on<00:09:45.470><c> the</c><00:09:46.390><c> folded</c><00:09:47.390><c> part</c><00:09:47.540><c> of</c><00:09:47.660><c> the</c><00:09:47.720><c> screen</c><00:09:48.910><c> I</c><00:09:49.910><c> guess</c>
+
+00:09:50.350 --> 00:09:50.360 align:start position:0%
+on the folded part of the screen I guess
+ 
+
+00:09:50.360 --> 00:09:52.300 align:start position:0%
+on the folded part of the screen I guess
+it<00:09:50.540><c> would</c><00:09:50.690><c> somewhat</c><00:09:51.290><c> intelligently</c><00:09:51.890><c> resize</c>
+
+00:09:52.300 --> 00:09:52.310 align:start position:0%
+it would somewhat intelligently resize
+ 
+
+00:09:52.310 --> 00:09:53.380 align:start position:0%
+it would somewhat intelligently resize
+the<00:09:52.550><c> screen</c><00:09:52.580><c> so</c><00:09:52.910><c> you</c><00:09:52.970><c> don't</c><00:09:53.000><c> have</c><00:09:53.150><c> to</c><00:09:53.270><c> deal</c>
+
+00:09:53.380 --> 00:09:53.390 align:start position:0%
+the screen so you don't have to deal
+ 
+
+00:09:53.390 --> 00:09:56.410 align:start position:0%
+the screen so you don't have to deal
+with<00:09:53.450><c> touch</c><00:09:53.720><c> issues</c><00:09:54.110><c> but</c><00:09:54.680><c> anyway</c><00:09:55.420><c> foldable</c>
+
+00:09:56.410 --> 00:09:56.420 align:start position:0%
+with touch issues but anyway foldable
+ 
+
+00:09:56.420 --> 00:09:58.120 align:start position:0%
+with touch issues but anyway foldable
+thing<00:09:56.600><c> looks</c><00:09:56.810><c> cool</c><00:09:57.050><c> just</c><00:09:57.710><c> not</c><00:09:57.890><c> really</c><00:09:58.100><c> the</c>
+
+00:09:58.120 --> 00:09:58.130 align:start position:0%
+thing looks cool just not really the
+ 
+
+00:09:58.130 --> 00:09:59.230 align:start position:0%
+thing looks cool just not really the
+main<00:09:58.310><c> reason</c><00:09:58.340><c> we</c><00:09:58.640><c> were</c><00:09:58.700><c> there</c><00:09:58.910><c> were</c><00:09:59.030><c> therefore</c>
+
+00:09:59.230 --> 00:09:59.240 align:start position:0%
+main reason we were there were therefore
+ 
+
+00:09:59.240 --> 00:10:03.010 align:start position:0%
+main reason we were there were therefore
+DG<00:09:59.600><c> one</c><00:09:59.780><c> and</c><00:10:00.100><c> for</c><00:10:01.100><c> the</c><00:10:01.370><c> Nook</c><00:10:01.550><c> on</c><00:10:01.790><c> the</c><00:10:02.600><c> Nook</c><00:10:02.810><c> side</c>
+
+00:10:03.010 --> 00:10:03.020 align:start position:0%
+DG one and for the Nook on the Nook side
+ 
+
+00:10:03.020 --> 00:10:05.860 align:start position:0%
+DG one and for the Nook on the Nook side
+of<00:10:03.170><c> things</c><00:10:03.460><c> we</c><00:10:04.460><c> did</c><00:10:04.670><c> see</c><00:10:04.880><c> the</c><00:10:05.060><c> ghost</c><00:10:05.390><c> Canyon</c>
+
+00:10:05.860 --> 00:10:05.870 align:start position:0%
+of things we did see the ghost Canyon
+ 
+
+00:10:05.870 --> 00:10:08.320 align:start position:0%
+of things we did see the ghost Canyon
+Intel<00:10:06.260><c> chassis</c><00:10:06.770><c> it's</c><00:10:07.460><c> got</c><00:10:07.760><c> very</c><00:10:08.270><c> good</c>
+
+00:10:08.320 --> 00:10:08.330 align:start position:0%
+Intel chassis it's got very good
+ 
+
+00:10:08.330 --> 00:10:10.990 align:start position:0%
+Intel chassis it's got very good
+ventilation<00:10:08.720><c> on</c><00:10:09.110><c> both</c><00:10:09.320><c> sides</c><00:10:09.620><c> so</c><00:10:10.010><c> full</c><00:10:10.640><c> credit</c>
+
+00:10:10.990 --> 00:10:11.000 align:start position:0%
+ventilation on both sides so full credit
+ 
+
+00:10:11.000 --> 00:10:13.270 align:start position:0%
+ventilation on both sides so full credit
+to<00:10:11.090><c> Intel</c><00:10:11.360><c> for</c><00:10:11.540><c> that</c><00:10:11.690><c> Intel</c><00:10:12.560><c> apparently</c><00:10:13.070><c> did</c>
+
+00:10:13.270 --> 00:10:13.280 align:start position:0%
+to Intel for that Intel apparently did
+ 
+
+00:10:13.280 --> 00:10:15.010 align:start position:0%
+to Intel for that Intel apparently did
+the<00:10:13.430><c> design</c><00:10:13.760><c> in</c><00:10:13.940><c> house</c><00:10:14.150><c> they</c><00:10:14.390><c> didn't</c><00:10:14.600><c> contract</c>
+
+00:10:15.010 --> 00:10:15.020 align:start position:0%
+the design in house they didn't contract
+ 
+
+00:10:15.020 --> 00:10:17.140 align:start position:0%
+the design in house they didn't contract
+it<00:10:15.170><c> out</c><00:10:15.260><c> to</c><00:10:15.500><c> a</c><00:10:15.530><c> case</c><00:10:15.740><c> manufacturer</c><00:10:16.400><c> obviously</c>
+
+00:10:17.140 --> 00:10:17.150 align:start position:0%
+it out to a case manufacturer obviously
+ 
+
+00:10:17.150 --> 00:10:19.170 align:start position:0%
+it out to a case manufacturer obviously
+they<00:10:17.270><c> hire</c><00:10:17.420><c> a</c><00:10:17.450><c> factory</c><00:10:17.960><c> to</c><00:10:18.110><c> make</c><00:10:18.260><c> the</c><00:10:18.440><c> case</c><00:10:18.620><c> but</c>
+
+00:10:19.170 --> 00:10:19.180 align:start position:0%
+they hire a factory to make the case but
+ 
+
+00:10:19.180 --> 00:10:21.880 align:start position:0%
+they hire a factory to make the case but
+Intel<00:10:20.180><c> says</c><00:10:20.570><c> that</c><00:10:20.750><c> it</c><00:10:20.870><c> made</c><00:10:21.050><c> the</c><00:10:21.140><c> design</c><00:10:21.440><c> on</c>
+
+00:10:21.880 --> 00:10:21.890 align:start position:0%
+Intel says that it made the design on
+ 
+
+00:10:21.890 --> 00:10:25.240 align:start position:0%
+Intel says that it made the design on
+its<00:10:22.100><c> own</c><00:10:22.220><c> it's</c><00:10:22.550><c> fully</c><00:10:22.790><c> ventilated</c><00:10:23.120><c> and</c><00:10:24.190><c> it's</c><00:10:25.190><c> a</c>
+
+00:10:25.240 --> 00:10:25.250 align:start position:0%
+its own it's fully ventilated and it's a
+ 
+
+00:10:25.250 --> 00:10:27.040 align:start position:0%
+its own it's fully ventilated and it's a
+small<00:10:25.490><c> five</c><00:10:25.790><c> liter</c><00:10:26.060><c> box</c><00:10:26.330><c> or</c><00:10:26.570><c> so</c><00:10:26.690><c> it</c><00:10:26.780><c> can</c><00:10:26.900><c> fit</c>
+
+00:10:27.040 --> 00:10:27.050 align:start position:0%
+small five liter box or so it can fit
+ 
+
+00:10:27.050 --> 00:10:28.780 align:start position:0%
+small five liter box or so it can fit
+about<00:10:27.140><c> an</c><00:10:27.320><c> 8-inch</c><00:10:27.590><c> GPU</c><00:10:28.040><c> it's</c><00:10:28.520><c> going</c><00:10:28.670><c> to</c><00:10:28.730><c> be</c>
+
+00:10:28.780 --> 00:10:28.790 align:start position:0%
+about an 8-inch GPU it's going to be
+ 
+
+00:10:28.790 --> 00:10:31.000 align:start position:0%
+about an 8-inch GPU it's going to be
+some<00:10:28.940><c> spacing</c><00:10:29.450><c> issues</c><00:10:29.540><c> between</c><00:10:30.230><c> the</c><00:10:30.830><c> Nook</c>
+
+00:10:31.000 --> 00:10:31.010 align:start position:0%
+some spacing issues between the Nook
+ 
+
+00:10:31.010 --> 00:10:34.630 align:start position:0%
+some spacing issues between the Nook
+module<00:10:31.520><c> and</c><00:10:31.820><c> D</c><00:10:32.390><c> GPUs</c><00:10:32.900><c> where</c><00:10:33.680><c> thermals</c><00:10:34.460><c> will</c>
+
+00:10:34.630 --> 00:10:34.640 align:start position:0%
+module and D GPUs where thermals will
+ 
+
+00:10:34.640 --> 00:10:36.370 align:start position:0%
+module and D GPUs where thermals will
+probably<00:10:35.000><c> be</c><00:10:35.090><c> a</c><00:10:35.120><c> bit</c><00:10:35.540><c> of</c><00:10:35.630><c> a</c><00:10:35.720><c> point</c><00:10:35.930><c> of</c><00:10:35.990><c> concern</c>
+
+00:10:36.370 --> 00:10:36.380 align:start position:0%
+probably be a bit of a point of concern
+ 
+
+00:10:36.380 --> 00:10:39.370 align:start position:0%
+probably be a bit of a point of concern
+for<00:10:36.740><c> the</c><00:10:37.340><c> the</c><00:10:37.940><c> recessed</c><00:10:38.330><c> NOC</c><00:10:38.660><c> module</c><00:10:39.110><c> I'm</c><00:10:39.230><c> not</c>
+
+00:10:39.370 --> 00:10:39.380 align:start position:0%
+for the the recessed NOC module I'm not
+ 
+
+00:10:39.380 --> 00:10:41.560 align:start position:0%
+for the the recessed NOC module I'm not
+100%<00:10:40.250><c> sure</c><00:10:40.550><c> why</c><00:10:40.670><c> didn't</c><00:10:40.940><c> face</c><00:10:41.060><c> them</c><00:10:41.240><c> opposite</c>
+
+00:10:41.560 --> 00:10:41.570 align:start position:0%
+100% sure why didn't face them opposite
+ 
+
+00:10:41.570 --> 00:10:43.540 align:start position:0%
+100% sure why didn't face them opposite
+directions<00:10:41.750><c> may</c><00:10:42.050><c> be</c><00:10:42.110><c> referred</c><00:10:42.350><c> for</c><00:10:42.550><c> i/o</c>
+
+00:10:43.540 --> 00:10:43.550 align:start position:0%
+directions may be referred for i/o
+ 
+
+00:10:43.550 --> 00:10:46.900 align:start position:0%
+directions may be referred for i/o
+reasons<00:10:44.120><c> or</c><00:10:44.240><c> something</c><00:10:44.540><c> but</c><00:10:45.250><c> the</c><00:10:46.250><c> chassis</c>
+
+00:10:46.900 --> 00:10:46.910 align:start position:0%
+reasons or something but the chassis
+ 
+
+00:10:46.910 --> 00:10:47.590 align:start position:0%
+reasons or something but the chassis
+looks<00:10:47.240><c> good</c>
+
+00:10:47.590 --> 00:10:47.600 align:start position:0%
+looks good
+ 
+
+00:10:47.600 --> 00:10:49.300 align:start position:0%
+looks good
+and<00:10:47.690><c> let's</c><00:10:47.840><c> probably</c><00:10:48.080><c> up</c><00:10:48.230><c> side</c><00:10:48.440><c> of</c><00:10:48.830><c> Intel</c>
+
+00:10:49.300 --> 00:10:49.310 align:start position:0%
+and let's probably up side of Intel
+ 
+
+00:10:49.310 --> 00:10:52.600 align:start position:0%
+and let's probably up side of Intel
+suite<00:10:49.750><c> DG</c><00:10:50.750><c> one</c><00:10:50.930><c> on</c><00:10:51.140><c> PCIe</c><00:10:51.620><c> will</c><00:10:51.980><c> exist</c><00:10:52.370><c> in</c><00:10:52.520><c> the</c>
+
+00:10:52.600 --> 00:10:52.610 align:start position:0%
+suite DG one on PCIe will exist in the
+ 
+
+00:10:52.610 --> 00:10:54.580 align:start position:0%
+suite DG one on PCIe will exist in the
+immediate<00:10:52.970><c> future</c><00:10:53.120><c> for</c><00:10:53.570><c> people</c><00:10:54.440><c> who</c><00:10:54.500><c> are</c>
+
+00:10:54.580 --> 00:10:54.590 align:start position:0%
+immediate future for people who are
+ 
+
+00:10:54.590 --> 00:10:57.340 align:start position:0%
+immediate future for people who are
+developing<00:10:54.920><c> software</c><00:10:55.130><c> for</c><00:10:55.580><c> the</c><00:10:56.200><c> tiger</c><00:10:57.200><c> lake</c>
+
+00:10:57.340 --> 00:10:57.350 align:start position:0%
+developing software for the tiger lake
+ 
+
+00:10:57.350 --> 00:11:00.760 align:start position:0%
+developing software for the tiger lake
+stuff<00:10:57.620><c> and</c><00:10:57.860><c> for</c><00:10:58.040><c> DG</c><00:10:58.280><c> one</c><00:10:58.460><c> in</c><00:10:59.260><c> mobile</c><00:11:00.260><c> and</c><00:11:00.470><c> then</c>
+
+00:11:00.760 --> 00:11:00.770 align:start position:0%
+stuff and for DG one in mobile and then
+ 
+
+00:11:00.770 --> 00:11:02.350 align:start position:0%
+stuff and for DG one in mobile and then
+we'll<00:11:00.920><c> hear</c><00:11:01.070><c> more</c><00:11:01.220><c> about</c><00:11:01.460><c> the</c><00:11:01.640><c> the</c><00:11:01.910><c> proper</c>
+
+00:11:02.350 --> 00:11:02.360 align:start position:0%
+we'll hear more about the the proper
+ 
+
+00:11:02.360 --> 00:11:03.970 align:start position:0%
+we'll hear more about the the proper
+discreet<00:11:02.720><c> GPUs</c><00:11:03.080><c> later</c><00:11:03.290><c> although</c><00:11:03.470><c> Intel</c><00:11:03.860><c> did</c>
+
+00:11:03.970 --> 00:11:03.980 align:start position:0%
+discreet GPUs later although Intel did
+ 
+
+00:11:03.980 --> 00:11:06.070 align:start position:0%
+discreet GPUs later although Intel did
+technically<00:11:04.400><c> call</c><00:11:04.640><c> this</c><00:11:04.760><c> a</c><00:11:04.820><c> d</c><00:11:04.970><c> GPU</c>
+
+00:11:06.070 --> 00:11:06.080 align:start position:0%
+technically call this a d GPU
+ 
+
+00:11:06.080 --> 00:11:09.070 align:start position:0%
+technically call this a d GPU
+it<00:11:06.170><c> we</c><00:11:06.769><c> need</c><00:11:06.920><c> to</c><00:11:07.160><c> obviously</c><00:11:08.080><c> everyone's</c>
+
+00:11:09.070 --> 00:11:09.080 align:start position:0%
+it we need to obviously everyone's
+ 
+
+00:11:09.080 --> 00:11:10.720 align:start position:0%
+it we need to obviously everyone's
+waiting<00:11:09.260><c> for</c><00:11:09.470><c> the</c><00:11:09.529><c> gaming</c><00:11:09.709><c> parts</c><00:11:10.040><c> so</c><00:11:10.519><c> check</c>
+
+00:11:10.720 --> 00:11:10.730 align:start position:0%
+waiting for the gaming parts so check
+ 
+
+00:11:10.730 --> 00:11:12.009 align:start position:0%
+waiting for the gaming parts so check
+back<00:11:10.910><c> for</c><00:11:11.089><c> that</c><00:11:11.149><c> whenever</c><00:11:11.510><c> that</c><00:11:11.630><c> happens</c>
+
+00:11:12.009 --> 00:11:12.019 align:start position:0%
+back for that whenever that happens
+ 
+
+00:11:12.019 --> 00:11:13.570 align:start position:0%
+back for that whenever that happens
+otherwise<00:11:12.320><c> subscribe</c><00:11:12.740><c> for</c><00:11:12.950><c> more</c><00:11:13.070><c> go</c><00:11:13.279><c> to</c><00:11:13.310><c> straw</c>
+
+00:11:13.570 --> 00:11:13.580 align:start position:0%
+otherwise subscribe for more go to straw
+ 
+
+00:11:13.580 --> 00:11:15.250 align:start position:0%
+otherwise subscribe for more go to straw
+doc<00:11:13.730><c> here</c><00:11:13.880><c> as</c><00:11:13.970><c> excess</c><00:11:14.209><c> net</c><00:11:14.600><c> and</c><00:11:14.870><c> if</c><00:11:15.019><c> you</c><00:11:15.080><c> want</c>
+
+00:11:15.250 --> 00:11:15.260 align:start position:0%
+doc here as excess net and if you want
+ 
+
+00:11:15.260 --> 00:11:16.420 align:start position:0%
+doc here as excess net and if you want
+to<00:11:15.320><c> check</c><00:11:15.410><c> out</c><00:11:15.589><c> the</c><00:11:15.680><c> nut</c><00:11:15.830><c> coverage</c><00:11:16.160><c> we</c><00:11:16.279><c> have</c><00:11:16.310><c> a</c>
+
+00:11:16.420 --> 00:11:16.430 align:start position:0%
+to check out the nut coverage we have a
+ 
+
+00:11:16.430 --> 00:11:17.949 align:start position:0%
+to check out the nut coverage we have a
+full<00:11:16.670><c> teardown</c><00:11:17.000><c> of</c><00:11:17.149><c> the</c><00:11:17.240><c> ghost</c><00:11:17.420><c> Canyon</c><00:11:17.779><c> box</c>
+
+00:11:17.949 --> 00:11:17.959 align:start position:0%
+full teardown of the ghost Canyon box
+ 
+
+00:11:17.959 --> 00:11:21.190 align:start position:0%
+full teardown of the ghost Canyon box
+it's<00:11:18.500><c> genuinely</c><00:11:18.980><c> pretty</c><00:11:19.279><c> cool</c><00:11:19.550><c> and</c><00:11:20.200><c> another</c>
+
+00:11:21.190 --> 00:11:21.200 align:start position:0%
+it's genuinely pretty cool and another
+ 
+
+00:11:21.200 --> 00:11:23.400 align:start position:0%
+it's genuinely pretty cool and another
+cool<00:11:21.470><c> implementation</c><00:11:22.130><c> of</c><00:11:22.250><c> it</c><00:11:22.370><c> would</c><00:11:22.880><c> be</c><00:11:23.029><c> to</c>
+
+00:11:23.400 --> 00:11:23.410 align:start position:0%
+cool implementation of it would be to
+ 
+
+00:11:23.410 --> 00:11:26.290 align:start position:0%
+cool implementation of it would be to
+socket<00:11:24.410><c> it</c><00:11:24.529><c> into</c><00:11:24.800><c> an</c><00:11:25.130><c> existing</c><00:11:25.820><c> system</c><00:11:26.029><c> and</c>
+
+00:11:26.290 --> 00:11:26.300 align:start position:0%
+socket it into an existing system and
+ 
+
+00:11:26.300 --> 00:11:29.050 align:start position:0%
+socket it into an existing system and
+use<00:11:26.450><c> it</c><00:11:26.570><c> as</c><00:11:26.690><c> a</c><00:11:26.720><c> as</c><00:11:27.110><c> a</c><00:11:27.890><c> discreet</c><00:11:28.459><c> streaming</c><00:11:28.850><c> box</c>
+
+00:11:29.050 --> 00:11:29.060 align:start position:0%
+use it as a as a discreet streaming box
+ 
+
+00:11:29.060 --> 00:11:31.569 align:start position:0%
+use it as a as a discreet streaming box
+so<00:11:29.630><c> there's</c><00:11:30.230><c> a</c><00:11:30.290><c> lot</c><00:11:30.470><c> we</c><00:11:30.589><c> can</c><00:11:30.680><c> do</c><00:11:30.769><c> with</c><00:11:30.800><c> that</c><00:11:30.920><c> but</c>
+
+00:11:31.569 --> 00:11:31.579 align:start position:0%
+so there's a lot we can do with that but
+ 
+
+00:11:31.579 --> 00:11:33.790 align:start position:0%
+so there's a lot we can do with that but
+patreon.com<00:11:32.480><c> slash</c><00:11:32.750><c> gamers</c><00:11:33.230><c> access</c><00:11:33.589><c> store</c>
+
+00:11:33.790 --> 00:11:33.800 align:start position:0%
+patreon.com slash gamers access store
+ 
+
+00:11:33.800 --> 00:11:35.230 align:start position:0%
+patreon.com slash gamers access store
+carries<00:11:34.100><c> access</c><00:11:34.339><c> not</c><00:11:34.640><c> to</c><00:11:34.730><c> helps</c><00:11:34.880><c> out</c><00:11:34.970><c> directly</c>
+
+00:11:35.230 --> 00:11:35.240 align:start position:0%
+carries access not to helps out directly
+ 
+
+00:11:35.240 --> 00:11:36.970 align:start position:0%
+carries access not to helps out directly
+thanks<00:11:35.870><c> for</c><00:11:35.990><c> watching</c><00:11:36.320><c> we'll</c><00:11:36.709><c> see</c><00:11:36.740><c> you</c><00:11:36.920><c> all</c>
+
+00:11:36.970 --> 00:11:36.980 align:start position:0%
+thanks for watching we'll see you all
+ 
+
+00:11:36.980 --> 00:11:42.470 align:start position:0%
+thanks for watching we'll see you all
+next<00:11:37.100><c> time</c>
+
+00:11:42.470 --> 00:11:42.480 align:start position:0%
+ 
+ 
+
+00:11:42.480 --> 00:11:45.600 align:start position:0%
+ 
+[Music]
+
