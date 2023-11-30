@@ -1,4 +1,4 @@
-`data_loader.py` loads in from the original file. This loads to a SQLite database.
+`data_loader.py` loads in from the original file. This loads to a SQLite database. A full version of the database can be found [here](https://drive.google.com/file/d/1yVCj5w6B0j8wbgC98-C_MtyqRKnOqEEP/view?usp=sharing)
 
 I then run the following command on the SQLite database to get the 1000 videos with the highest minimum vote. This means that even
 their least certain mark is pretty certain.
