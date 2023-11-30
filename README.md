@@ -7,3 +7,5 @@ their least certain mark is pretty certain.
 
 I copy the video ids from this query to a spreadsheet and append `https://www.youtube.com/watch?v=` to them. I then copy these rows
 from the spreadsheet to batch.txt.
+
+The segmenting code, `segmenter.py` iterates through the downloaded transcripts, queries the SponsorBlock markers for the corresponding video, and segments the transcript into segments. These segments are then stored in a new table in the same database. We save this data to a CSV to train our models.
